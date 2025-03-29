@@ -317,7 +317,7 @@ def cleaning(task, ds, sketches, group_records, condition_records, valid_records
     num_group_entities = [0] * task.num_groups  # entities from each group in the clean sample
 
     iter_id = 0  # iteration counter
-    num_comparisons = 0  # performed comparisons
+    num_comparisons = st.session_state.num_comparisons  # performed comparisons
     num_cleaned_entities = 0  # cleaned entities (including the ones not inserted into the clean sample)
 
     while len(entities) < task.sample_size:
@@ -350,6 +350,7 @@ def cleaning(task, ds, sketches, group_records, condition_records, valid_records
                                                                                                 pivot_record["matches"],
                                                                                                 comparisons, num_comparisons,
                                                                                                 sketches)
+                st.session_state.num_comparisons = num_comparisons
                 matching_time += (time.time() - matching_start_time)
                 compared_records = set(comparisons.keys()).difference(pivot_record["matches"])  # compared but did not match
                 pivot_record["solved"] = True

@@ -42,16 +42,14 @@ file_blocks = "blockers/blocks_"
 er_features = {
     "alaska_cameras": {
         "path_ds": path_dir_ds + "alaska_cameras/" + file_ds,
-        "attributes": ["_id", "description", "brand", "model", "type", "mp",
-                       "optical_zoom", "digital_zoom", "screen_size", "price"],
+        "attributes": ["_id", "brand", "model", "type", "mp", "screen_size",
+                       "description", "price"],
         "default_aggregation": "vote",
         "default_fusion": {
             "brand": "vote",
             "model": "vote",
             "type": "vote",
             "mp": "vote",
-            "optical_zoom": "vote",
-            "digital_zoom": "vote",
             "screen_size": "vote",
             "price": "avg"
         },
@@ -62,28 +60,32 @@ er_features = {
         },
         "default_blocker": "SparkER (Meta-Blocking)",
         "matchers": {
-            "Ground Truth": {
-                "path_gold": path_dir_ds + "alaska_cameras/" + file_gold
+            "GPT-4o": {
+                "path_gold": path_dir_ds + "alaska_cameras/" + file_gold,
+                "time_per_comparison": 0.51,
+                "cost_per_comparison": 0.00026
+            },
+            "Ditto": {
+                "path_gold": path_dir_ds + "alaska_cameras/" + file_gold,
+                "time_per_comparison": 0.0106,
+                "cost_per_comparison": 0
             }
         },
-        "default_matcher": "Ground Truth"
+        "default_matcher": "GPT-4o"
     },
     "nc_voters": {
         "path_ds": path_dir_ds + "nc_voters/" + file_ds,
-        "attributes": ["_id", "first_name", "last_name", "age", "birth_place", "sex", "race", "address",
-                       "city", "zip_code", "street_name", "house_number", "party", "registration_date"],
+        "attributes": ["_id", "first_name", "last_name", "sex", "race", "age", "birth_place", "address", "party"],
         "default_aggregation": "vote",
         "default_fusion": {
             "first_name": "vote",
             "last_name": "vote",
-            "age": "max",
-            "birth_place": "vote",
             "sex": "vote",
             "race": "vote",
-            "city": "vote",
-            "zip_code": "vote",
-            "party": "vote",
-            "registration_date": "min"
+            "age": "max",
+            "birth_place": "vote",
+            "address": "vote",
+            "party": "vote"
         },
         "blockers": {
             "PyJedAI (Similarity Join)": {
@@ -92,15 +94,22 @@ er_features = {
         },
         "default_blocker": "PyJedAI (Similarity Join)",
         "matchers": {
-            "Ground Truth": {
-                "path_gold": path_dir_ds + "nc_voters/" + file_gold
+            "GPT-4o": {
+                "path_gold": path_dir_ds + "nc_voters/" + file_gold,
+                "time_per_comparison": 0.51,
+                "cost_per_comparison": 0.00016
+            },
+            "Ditto": {
+                "path_gold": path_dir_ds + "nc_voters/" + file_gold,
+                "time_per_comparison": 0.0084,
+                "cost_per_comparison": 0
             }
         },
-        "default_matcher": "Ground Truth"
+        "default_matcher": "GPT-4o"
     },
     "nyc_funding" : {
         "path_ds": path_dir_ds + "nyc_funding/" + file_ds,
-        "attributes": ["_id", "name", "address", "year", "agency", "source", "counselor", "amount", "status"],
+        "attributes": ["_id", "name", "address", "source", "year", "amount", "status"],
         "default_aggregation": "vote",
         "default_fusion": {
             "name": "vote",
@@ -115,10 +124,17 @@ er_features = {
         },
         "default_blocker": "SparkER (Meta-Blocking)",
         "matchers": {
-            "Ground Truth": {
-                "path_gold": path_dir_ds + "nyc_funding/" + file_gold
+            "GPT-4o": {
+                "path_gold": path_dir_ds + "nyc_funding/" + file_gold,
+                "time_per_comparison": 0.51,
+                "cost_per_comparison": 0.00020
+            },
+            "Ditto": {
+                "path_gold": path_dir_ds + "nyc_funding/" + file_gold,
+                "time_per_comparison": 0.0088,
+                "cost_per_comparison": 0
             }
         },
-        "default_matcher": "Ground Truth"
+        "default_matcher": "GPT-4o"
     }
 }

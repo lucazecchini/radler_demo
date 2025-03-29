@@ -108,6 +108,7 @@ def stop_process():
 def clear_result():
     st.session_state.df = None
     st.session_state.selection = None
+    st.session_state.num_comparisons = 0
 
 
 if "ds_name" not in st.session_state:
@@ -115,6 +116,9 @@ if "ds_name" not in st.session_state:
 
 if "blocker" not in st.session_state:
     st.session_state.blocker = None
+
+if "matcher" not in st.session_state:
+    st.session_state.matcher = None
 
 if "run_process" not in st.session_state:
     st.session_state.run_process = False
@@ -137,6 +141,9 @@ if "show_groups" not in st.session_state:
 if "show_distro" not in st.session_state:
     st.session_state.show_distro = False
 
+if "num_comparisons" not in st.session_state:
+    st.session_state.num_comparisons = 0
+
 
 st.title("🍋 RadlER")
 
@@ -145,6 +152,7 @@ ds_name = st.selectbox("Select a dataset", config.datasets)
 if ds_name != st.session_state.ds_name:
     st.session_state.ds_name = ds_name
     st.session_state.blocker = None
+    st.session_state.matcher = None
     st.session_state.df = None
     st.session_state.selection = None
     st.rerun()
@@ -157,21 +165,24 @@ dirty_data.columns = dirty_data.columns.str.lower()
 for column in dirty_data.columns:
     if dirty_data[column].dtype == "object":
         dirty_data[column] = dirty_data[column].str.lower()
-st.dataframe(dirty_data, height=150)
+attributes = config.er_features[ds_name]["attributes"][1:]
+st.dataframe(dirty_data[attributes], height=150)
 
-if st.session_state.blocker is not None:
+if st.session_state.blocker is not None and st.session_state.matcher is not None:
     path_candidates = config.er_features[ds_name]["blockers"][st.session_state.blocker]["path_candidates"]
     num_comparison = len(pd.read_csv(path_candidates))
     est1, est2, est3 = st.columns(3)
     with est1:
-        st.markdown("<div style='text-align: center; color: red'>📈 &nbsp;&nbsp; {}k comparisons</div>"
-                    .format(round(num_comparison / 1000, 1)), unsafe_allow_html=True)
+        st.markdown("<div style='text-align: center; color: red'>📈 &nbsp;&nbsp; {} comparisons</div>"
+                    .format("{:,}".format(num_comparison).replace(",", " ")), unsafe_allow_html=True)
     with est2:
+        tpc = config.er_features[ds_name]["matchers"][st.session_state.matcher]["time_per_comparison"]
         st.markdown("<div style='text-align: center; color: red'>⏳ &nbsp;&nbsp; {} hours</div>"
-                    .format("X"), unsafe_allow_html=True)
+                    .format(round((num_comparison * tpc) / 3600, 2)), unsafe_allow_html=True)
     with est3:
+        cpc = config.er_features[ds_name]["matchers"][st.session_state.matcher]["cost_per_comparison"]
         st.markdown("<div style='text-align: center; color: red'>💸 &nbsp;&nbsp; {} USD</div>"
-                    .format("X"), unsafe_allow_html=True)
+                    .format(round(num_comparison * cpc, 3)), unsafe_allow_html=True)
 
 # Produce the clean dataset
 clean_data = pd.read_csv(f"clean_datasets/{ds_name}.csv")
@@ -267,6 +278,9 @@ with st.sidebar:
             st.rerun()
         matcher = st.selectbox("Select the matching function",
                                list(config.er_features[ds_name]["matchers"].keys()), index=0, label_visibility="collapsed")
+        if matcher != st.session_state.matcher:
+            st.session_state.matcher = matcher
+            st.rerun()
 
     # Activate or deactivate the weighting scheme
     weighting_scheme = st.checkbox("Weighting scheme", value=True)
@@ -310,14 +324,18 @@ if st.session_state.df is not None:
 if st.session_state.df is not None and not st.session_state.run_process:
     exp1, exp2, exp3 = st.columns(3)
     with exp1:
-        st.markdown("<div style='text-align: center; color: green'>📈 &nbsp;&nbsp; {}k comparisons</div>"
-                    .format("X"), unsafe_allow_html=True)
+        st.markdown("<div style='text-align: center; color: green'>📈 &nbsp;&nbsp; {} comparisons</div>"
+                    .format("{:,}".format(st.session_state.num_comparisons).replace(",", " ")), unsafe_allow_html=True)
     with exp2:
-        st.markdown("<div style='text-align: center; color: green'>⏳ &nbsp;&nbsp; {} hours</div>"
-                    .format("X"), unsafe_allow_html=True)
+        tpc = config.er_features[ds_name]["matchers"][st.session_state.matcher]["time_per_comparison"]
+        time = st.session_state.num_comparisons * tpc
+        st.markdown("<div style='text-align: center; color: green'>⏳ &nbsp;&nbsp; %s %s</div>" %
+                    (round(time / (60 if time >= 60 else 1), 2),
+                     "minutes" if time >= 60 else "seconds"), unsafe_allow_html=True)
     with exp3:
+        cpc = config.er_features[ds_name]["matchers"][st.session_state.matcher]["cost_per_comparison"]
         st.markdown("<div style='text-align: center; color: green'>💸 &nbsp;&nbsp; {} USD</div>"
-                    .format("X"), unsafe_allow_html=True)
+                    .format(round(st.session_state.num_comparisons * cpc, 3)), unsafe_allow_html=True)
     st.markdown('<div style="height: 30px;"></div>', unsafe_allow_html=True)
 
 header_before = "Select an entity to inspect its cluster of matching records"
