@@ -79,7 +79,7 @@ def compute_distribution(num_group_entities):
     return [g * scale_factor for g in num_group_entities]
 
 
-def detect_distribution(ds, sample_attributes, distribution_type, value_filter, min_support=0.01, top_groups=10):
+def detect_distribution(ds, sample_attributes, distribution_type, value_filter, min_support=0.1, top_groups=10):
     """
     Automatically detect the distribution of the groups in the sample attributes
     :param ds: the dataset in the dataframe format

@@ -20,6 +20,12 @@ sample_attributes = {
     "nyc_funding": ["source"]
 }
 
+string_attributes = {
+    "alaska_cameras": ["brand", "type"],
+    "nc_voters": ["sex", "race", "birth_place", "city", "party"],
+    "nyc_funding": ["source"]
+}
+
 value_filter = {
     "alaska_cameras": dict(),
     "nc_voters": dict(),
@@ -42,8 +48,7 @@ file_blocks = "blockers/blocks_"
 er_features = {
     "alaska_cameras": {
         "path_ds": path_dir_ds + "alaska_cameras/" + file_ds,
-        "attributes": ["_id", "brand", "model", "type", "mp", "screen_size",
-                       "description", "price"],
+        "attributes": ["_id", "brand", "model", "type", "mp", "screen_size", "description", "price"],
         "default_aggregation": "vote",
         "default_fusion": {
             "brand": "vote",
@@ -75,7 +80,7 @@ er_features = {
     },
     "nc_voters": {
         "path_ds": path_dir_ds + "nc_voters/" + file_ds,
-        "attributes": ["_id", "first_name", "last_name", "sex", "race", "age", "birth_place", "address", "party"],
+        "attributes": ["_id", "first_name", "last_name", "sex", "race", "age", "birth_place", "city", "party"],
         "default_aggregation": "vote",
         "default_fusion": {
             "first_name": "vote",
@@ -84,7 +89,7 @@ er_features = {
             "race": "vote",
             "age": "max",
             "birth_place": "vote",
-            "address": "vote",
+            "city": "vote",
             "party": "vote"
         },
         "blockers": {

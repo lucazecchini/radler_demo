@@ -1,6 +1,9 @@
 import csv
+import gc
 import math
+import os
 import pandas as pd
+import pickle as pkl
 import plotly.express as px
 import streamlit as st
 import config
@@ -13,7 +16,7 @@ class Task:
     The object describing the task at hand
     """
 
-    def __init__(self, task_id, run_id, dataset, algorithm, mode, sample_attributes, groups, target_distribution,
+    def __init__(self, task_id, run_id, dataset, algorithm, mode, sample_attributes, groups, distribution_type, target_distribution,
                  sample_size=math.inf, blocker=None, matcher=None):
 
         self.task_id = task_id
@@ -47,6 +50,7 @@ class Task:
         self.num_attributes = len(self.sample_attributes)
         self.groups = groups
         self.num_groups = len(self.groups)
+        self.distribution_type = distribution_type
         self.target_distribution = compute_distribution(target_distribution)
         self.sample_size = sample_size
         self.stochastic_acceptance_size = config.stochastic_acceptance_size
@@ -57,6 +61,16 @@ class Task:
 
     def set_matches(self, matches):
         self.matches = matches
+
+
+def tuple_to_string(t):
+    s = str(t)[1:-1].replace("', ", ",\u00A0").replace("'", "").rstrip(",")
+    return(s)
+
+
+def string_to_tuple(s):
+    t = tuple([x for x in s.split(",\u00A0")])
+    return t
 
 
 def load_matches(task, ds, id_mapping):
@@ -101,14 +115,17 @@ def run_process():
 
 
 def stop_process():
+    st.session_state.resume = True
     st.session_state.stop_process = True
     st.session_state.run_process = False
+    st.session_state.update_metrics = True
 
 
 def clear_result():
     st.session_state.df = None
     st.session_state.selection = None
     st.session_state.num_comparisons = 0
+    st.session_state.resume = False
 
 
 if "ds_name" not in st.session_state:
@@ -125,6 +142,9 @@ if "run_process" not in st.session_state:
 
 if "stop_process" not in st.session_state:
     st.session_state.stop_process = False
+
+if "resume" not in st.session_state:
+    st.session_state.resume = False
 
 if "df" not in st.session_state:
     st.session_state.df = None
@@ -144,6 +164,9 @@ if "show_distro" not in st.session_state:
 if "num_comparisons" not in st.session_state:
     st.session_state.num_comparisons = 0
 
+if "update_metrics" not in st.session_state:
+    st.session_state.update_metrics = False
+
 
 st.title("🍋 RadlER")
 
@@ -155,6 +178,7 @@ if ds_name != st.session_state.ds_name:
     st.session_state.matcher = None
     st.session_state.df = None
     st.session_state.selection = None
+    st.session_state.resume = False
     st.rerun()
 
 # Visualize the dirty dataset as a dataframe
@@ -208,7 +232,7 @@ with st.sidebar:
 
     # Select the sampling attributes
     st.write("<p style='font-size: 14px;'>Select sampling attributes</p>", unsafe_allow_html=True)
-    string_attributes = dirty_data.select_dtypes(include=["object"]).columns
+    string_attributes = config.string_attributes[ds_name]
     sample_attributes = st.multiselect("Select sampling attributes", [c for c in string_attributes if c != "_id"],
                                        default=config.sample_attributes[ds_name], label_visibility="collapsed")
 
@@ -239,8 +263,19 @@ with st.sidebar:
         # Select some groups of interest
         else:
             st.session_state.show_groups = False
-            groups = st.multiselect("Select the groups", list(), label_visibility="collapsed")
+            top_groups, clean_distribution, max_sample_size = detect_distribution(clean_data, sample_attributes,
+                                                                                  distribution_type="demographic_parity",
+                                                                                  value_filter=config.value_filter[ds_name],
+                                                                                  min_support=0)
+            groups = st.multiselect("Select the groups", [tuple_to_string(g) for g in top_groups], label_visibility="collapsed")
+            groups = [string_to_tuple(g) for g in groups]
+            if len(groups) > 0:
+                group_indices = [top_groups.index(g) for g in groups]
+                clean_distribution = compute_distribution([clean_distribution[i] for i in group_indices])
             num_groups = len(groups)
+
+        if num_groups == 0:
+            st.session_state.show_distro = False
 
     # Select the target distribution
     with st.container():
@@ -251,17 +286,34 @@ with st.sidebar:
             distribution_type = st.selectbox("Select the target distribution", distribution_types, index=0,
                                              label_visibility="collapsed")
         with sel_distro_2:
-            if st.button("📊", disabled=(distribution_type == "Custom distribution")):
+            if st.button("📊", disabled=(num_groups == 0)):
                 st.session_state.show_distro = not st.session_state.show_distro
 
+        if distribution_type == "Custom distribution":
+            cols = [st.columns([2, 7], gap="small") for _ in range(num_groups)]
+            custom_distribution = list()
+            group_labels = [tuple_to_string(g) for g in groups]
+            for item, (col1, col2) in zip(group_labels, cols):
+                with col1:
+                    val = st.number_input(label=item, min_value=1, value=1, step=1, format="%d", key=f"input_{item}",
+                                          label_visibility="collapsed")
+                with col2:
+                    st.write(f"<p style='font-size: 14px;'>{item}</p>", unsafe_allow_html=True)
+                custom_distribution.append(val)
+            custom_distribution = compute_distribution([x if x >= 1 else 1 for x in custom_distribution])
+
         if distribution_type == "Equal representation":
-            target_distribution = [round(1.0 / num_groups, 3) for _ in range(num_groups)]
+            target_distribution = [1.0 / num_groups for _ in range(num_groups)]
         elif distribution_type == "Demographic parity":
-            target_distribution = [round(i, 3) for i in clean_distribution]
+            target_distribution = clean_distribution
+        elif distribution_type == "Custom distribution":
+            target_distribution = custom_distribution
+        distribution_details = f"{distribution_type}: {" - ".join([str(round(x, 3)) for x in target_distribution])}" \
+                               if distribution_type == "Custom distribution" else distribution_type
 
         if st.session_state.show_distro:
-            fig = px.bar(pd.DataFrame({"Group": [", ".join([v for v in g]) for g in groups], "Value": target_distribution}),
-                         x="Group", y="Value")
+            fig = px.bar(pd.DataFrame({"Group": [", ".join([v for v in g]) for g in groups],
+                                       "Value": [round(x, 3) for x in target_distribution]}), x="Group", y="Value")
             st.plotly_chart(fig)
 
     # Select the sample size
@@ -296,7 +348,7 @@ with st.sidebar:
 
     # Buttons to manage the deduplication process
     col1, col2, col3 = st.columns(3)
-    col1.button("Run", on_click=run_process, disabled=(st.session_state.run_process))
+    col1.button("Run", on_click=run_process, disabled=(st.session_state.run_process or num_groups == 0))
     col2.button("Stop", on_click=stop_process, disabled=(not st.session_state.run_process))
     col3.button("Clear", on_click=clear_result, disabled=(st.session_state.run_process or st.session_state.df is None))
 
@@ -307,15 +359,53 @@ entities = st.empty() if st.session_state.df is None \
 # Run RadlER to produce the clean sample progressively
 if st.session_state.run_process:
     records = st.empty()
+    st.session_state.records = None
     st.markdown(scroll_script, unsafe_allow_html=True)
-    task = Task(0, 0, ds_name, "radler", "complete" if weighting_scheme else "unweighed", sample_attributes,
-                groups, target_distribution, sample_size=sample_size, blocker=blocker, matcher=matcher)
-    load_neighbors(task, dirty_data, id_mapping)
-    load_matches(task, dirty_data, id_mapping)
+    if st.session_state.resume:
+        task = pkl.load(open("checkpoints/status.pkl", "rb"))["task"]
+        task.sample_size = sample_size
+        check_value = {
+            "ds": ds_name,
+            "mode": "complete" if weighting_scheme else "unweighed",
+            "sample_attributes": sample_attributes,
+            "groups": groups,
+            "distribution_type": distribution_details,
+            "blocker": blocker,
+            "matcher": matcher
+        }
+        print([getattr(task, k) for k, v in check_value.items()])
+        print([v for k, v in check_value.items()])
+        if any(getattr(task, k) != v for k, v in check_value.items()):
+            st.session_state.resume = False
+    if not st.session_state.resume:
+        st.session_state.df = None
+        task = Task(0, 0, ds_name, "radler", "complete" if weighting_scheme else "unweighed", sample_attributes, groups,
+                    distribution_details, target_distribution, sample_size=sample_size, blocker=blocker, matcher=matcher)
+        os.makedirs("checkpoints", exist_ok=True)
+        load_neighbors(task, dirty_data, id_mapping)
+        load_matches(task, dirty_data, id_mapping)
     run_radler(task, dirty_data, entities)
     st.markdown(scroll_script, unsafe_allow_html=True)
+    st.session_state.update_metrics = True
+    st.session_state.resume = True
     st.session_state.stop_process = True
     st.session_state.run_process = False
+    st.rerun()
+
+if st.session_state.update_metrics:
+    if os.path.isfile("checkpoints/status.pkl"):
+        status = pkl.load(open("checkpoints/status.pkl", "rb"))
+        st.session_state.num_comparisons = status["num_comparisons"]
+        st.session_state.records = status["records"]
+        if st.session_state.df is None and len(status["entities"]) > 0:
+            st.session_state.df = pd.DataFrame(status["entities"])
+        if st.session_state.df is not None:
+            if len(st.session_state.df) < len(status["entities"]):
+                new_row = pd.DataFrame(status["entities"][-1:])
+                st.session_state.df = pd.concat([st.session_state.df, new_row], ignore_index=True)
+        del status
+        gc.collect()
+    st.session_state.update_metrics = False
     st.rerun()
 
 if st.session_state.df is not None:
@@ -338,13 +428,12 @@ if st.session_state.df is not None and not st.session_state.run_process:
                     .format(round(st.session_state.num_comparisons * cpc, 3)), unsafe_allow_html=True)
     st.markdown('<div style="height: 30px;"></div>', unsafe_allow_html=True)
 
-header_before = "Select an entity to inspect its cluster of matching records"
-header_after = "Cluster of matching records for the selected entity"
-record_header = st.empty() if st.session_state.df is None or st.session_state.run_process \
-                else (st.write("<p style='font-size: 15px;'>%s</p>" % (header_before), unsafe_allow_html=True)
-                    if st.session_state.selection is None \
-                    else st.write("<p style='font-size: 15px;'>%s</p>" % (header_after), unsafe_allow_html=True))
+# header_before = "Select an entity to inspect its cluster of matching records"
+# header_after = "Cluster of matching records for the selected entity"
+# record_header = st.empty() if st.session_state.df is None or st.session_state.run_process \
+#                 else (st.write("<p style='font-size: 15px;'>%s</p>" % (header_before), unsafe_allow_html=True)
+#                     if st.session_state.selection is None \
+#                     else st.write("<p style='font-size: 15px;'>%s</p>" % (header_after), unsafe_allow_html=True))
 
 records = st.empty() if st.session_state.selection is None else st.dataframe(st.session_state.records[st.session_state.selection])
-
 

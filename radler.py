@@ -1,12 +1,15 @@
+import gc
 import math
 import numpy as np
+import os
 import pandas as pd
+import pickle as pkl
 import polars as pl
 import random
 import statistics
 import streamlit as st
 import time
-from utils import compute_distribution, replace_substring, to_sql, html_format
+from utils import compute_distribution, to_sql
 
 
 def get_neighbors(task, record_id):
@@ -290,7 +293,7 @@ def setup(task, ds, run_stats, verbose):
     return sketches, group_records, condition_records, valid_records, run_stats
 
 
-def cleaning(task, ds, sketches, group_records, condition_records, valid_records, run_stats, verbose, demo, res_demo):
+def cleaning(task, ds, sketches, group_records, condition_records, valid_records, run_stats, verbose, demo, res_demo, status=None):
     """
     Produce the clean sample
     :param task: the object representing the task at hand
@@ -303,6 +306,7 @@ def cleaning(task, ds, sketches, group_records, condition_records, valid_records
     :param verbose: show progress (Boolean)
     :param demo: demo mode (Boolean)
     :param res_demo: the Streamlit placeholder for the clean sample in the dataframe format to be shown in demo mode
+    :param status: the current status of the deduplicated sampling process (in resume mode)
     :return: the clean sample in the dataframe format and the updated metrics for the current run
     """
 
@@ -310,15 +314,23 @@ def cleaning(task, ds, sketches, group_records, condition_records, valid_records
     matching_time = 0.0
     fusion_time = 0.0
 
-    entities = list()  # entities appearing in the clean sample (as dictionaries)
-    fused_records = set()  # records fused to produce their clean entities
+    if status is not None:
+        entities = status["entities"]
+        fused_records = status["fused_records"]
+        records = status["records"]
+    else:
+        entities = list()  # entities appearing in the clean sample (as dictionaries)
+        fused_records = set()  # records fused to produce their clean entities
+        records = dict()
 
     active_groups = [True if len(group_records[i]) > 0 else False for i in range(task.num_groups)]
-    num_group_entities = [0] * task.num_groups  # entities from each group in the clean sample
+    num_group_entities = status["num_group_entities"] if status is not None else [0] * task.num_groups  # sample entities from each group
+    iter_id = status["num_iterations"] if status is not None else 0  # iteration counter
+    num_comparisons = status["num_comparisons"] if status is not None else 0  # performed comparisons
+    num_cleaned_entities = status["num_cleaned_entities"] if status is not None else 0  # cleaned entities (even outside the sample)
 
-    iter_id = 0  # iteration counter
-    num_comparisons = st.session_state.num_comparisons  # performed comparisons
-    num_cleaned_entities = 0  # cleaned entities (including the ones not inserted into the clean sample)
+    del status
+    gc.collect()
 
     while len(entities) < task.sample_size:
 
@@ -350,7 +362,6 @@ def cleaning(task, ds, sketches, group_records, condition_records, valid_records
                                                                                                 pivot_record["matches"],
                                                                                                 comparisons, num_comparisons,
                                                                                                 sketches)
-                st.session_state.num_comparisons = num_comparisons
                 matching_time += (time.time() - matching_start_time)
                 compared_records = set(comparisons.keys()).difference(pivot_record["matches"])  # compared but did not match
                 pivot_record["solved"] = True
@@ -401,11 +412,29 @@ def cleaning(task, ds, sketches, group_records, condition_records, valid_records
                 entity["time"] = time.time() - cleaning_start_time
             else:
                 matching_records = ds.loc[ds["_id"].isin(pivot_record["matches"])].sort_values(by=["_id"])
-                st.session_state.records[len(entities)] = matching_records[["_id"] + task.attributes].to_dict("records")
+                records[len(entities)] = matching_records[["_id"] + task.attributes].to_dict("records")
             entities.append(entity)
             num_group_entities[target_group] += 1
             del group_records[pivot_record["group"]][pivot_id]
             sketches[pivot_id] = None
+
+            # Update the current status
+            status = {
+                "task": task,
+                "sketches": sketches,
+                "group_records": group_records,
+                "entities": entities,
+                "records": records,
+                "fused_records": fused_records,
+                "num_iterations": iter_id + 1,
+                "num_comparisons": num_comparisons,
+                "num_cleaned_entities": num_cleaned_entities,
+                "num_group_entities": num_group_entities
+            }
+            pkl.dump(status, open("checkpoints/status.pkl", "wb"))
+            del status
+            gc.collect()
+
             if demo:
                 if st.session_state.df is None:
                     st.session_state.df = pd.DataFrame(entities)
@@ -462,11 +491,25 @@ def run(task, ds, run_stats=None, verbose=True, demo=False, res_demo=None):
     start_time = time.time()
 
     # Initialize the data structures
-    sketches, group_records, condition_records, valid_records, run_stats = setup(task, ds, run_stats, verbose)
+    if st.session_state.resume and os.path.isfile("checkpoints/status.pkl") and os.path.isfile("checkpoints/records.pkl"):
+        status = pkl.load(open("checkpoints/status.pkl", "rb"))
+        sketches = status["sketches"]
+        group_records = status["group_records"]
+        records = pkl.load(open("checkpoints/records.pkl", "rb"))
+        condition_records = records["condition_records"]
+        valid_records = records["valid_records"]
+        del records
+        gc.collect()
+    else:
+        sketches, group_records, condition_records, valid_records, run_stats = setup(task, ds, run_stats, verbose)
+        status = None
+        if not st.session_state.resume:
+            records = {"condition_records": condition_records, "valid_records": valid_records}
+            pkl.dump(records, open("checkpoints/records.pkl", "wb"))
 
     # Produce the clean sample
     clean_sample, run_stats = cleaning(task, ds, sketches, group_records, condition_records, valid_records,
-                                       run_stats, verbose, demo, res_demo)
+                                       run_stats, verbose, demo, res_demo, status)
 
     tot_time = time.time() - start_time
 
