@@ -1,4 +1,4 @@
-datasets = ["alaska_cameras", "nc_voters", "nyc_funding"]  # ["alaska_cameras", "nc_voters", "nyc_funding"]
+datasets = ["alaska_cameras", "beers", "nc_voters", "nyc_funding"]  # ["alaska_cameras", "nc_voters", "nyc_funding"]
 distribution_types = ["equal_representation"]  # ["equal_representation", "demographic_parity"]
 algorithms = ["radler"]  # ["radler", "cost", "benefit", "random"]
 sample_sizes = [1]  # [i for i in range(1, 11)]
@@ -10,24 +10,28 @@ stochastic_acceptance_timeout = 0.1
 
 df_lib = {
     "alaska_cameras": "pandas",
+    "beers": "pandas",
     "nc_voters": "pandas",
     "nyc_funding": "pandas"
 }
 
 sample_attributes = {
     "alaska_cameras": ["brand"],
+    "beers": ["style"],
     "nc_voters": ["sex", "race"],
     "nyc_funding": ["source"]
 }
 
 string_attributes = {
     "alaska_cameras": ["brand", "type"],
+    "beers": ["style", "brewery", "city", "state"],
     "nc_voters": ["sex", "race", "birth_place", "city", "party"],
     "nyc_funding": ["source"]
 }
 
 value_filter = {
     "alaska_cameras": dict(),
+    "beers": dict(),
     "nc_voters": dict(),
     "nyc_funding": dict()
 }
@@ -72,6 +76,40 @@ er_features = {
             },
             "Ditto": {
                 "path_gold": path_dir_ds + "alaska_cameras/" + file_gold,
+                "time_per_comparison": 0.0106,
+                "cost_per_comparison": 0
+            }
+        },
+        "default_matcher": "GPT-4o"
+    },
+    "beers": {
+        "path_ds": path_dir_ds + "beers/" + file_ds,
+        "attributes": ["_id", "name", "style", "ounces", "abv", "ibu", "brewery", "city", "state"],
+        "default_aggregation": "vote",
+        "default_fusion": {
+            "name": "vote",
+            "style": "vote",
+            "ounces": "vote",
+            "abv": "vote",
+            "ibu": "vote",
+            "brewery": "vote",
+            "city": "vote",
+            "state": "vote"
+        },
+        "blockers": {
+            "PyJedAI (Similarity Join)": {
+                "path_candidates": path_dir_ds + "beers/" + file_candidates + "pyjedai.csv"
+            }
+        },
+        "default_blocker": "PyJedAI (Similarity Join)",
+        "matchers": {
+            "GPT-4o": {
+                "path_gold": path_dir_ds + "beers/" + file_gold,
+                "time_per_comparison": 0.51,
+                "cost_per_comparison": 0.00026
+            },
+            "Ditto": {
+                "path_gold": path_dir_ds + "beers/" + file_gold,
                 "time_per_comparison": 0.0106,
                 "cost_per_comparison": 0
             }

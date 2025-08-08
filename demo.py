@@ -373,8 +373,6 @@ if st.session_state.run_process:
             "blocker": blocker,
             "matcher": matcher
         }
-        print([getattr(task, k) for k, v in check_value.items()])
-        print([v for k, v in check_value.items()])
         if any(getattr(task, k) != v for k, v in check_value.items()):
             st.session_state.resume = False
     if not st.session_state.resume:
