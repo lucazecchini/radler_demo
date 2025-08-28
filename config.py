@@ -1,4 +1,4 @@
-datasets = ["alaska_cameras", "beers", "nc_voters", "nyc_funding"]  # ["alaska_cameras", "nc_voters", "nyc_funding"]
+datasets = ["alaska_cameras", "athletes", "beers", "nc_voters", "nyc_funding"]
 distribution_types = ["equal_representation"]  # ["equal_representation", "demographic_parity"]
 algorithms = ["radler"]  # ["radler", "cost", "benefit", "random"]
 sample_sizes = [1]  # [i for i in range(1, 11)]
@@ -10,6 +10,7 @@ stochastic_acceptance_timeout = 0.1
 
 df_lib = {
     "alaska_cameras": "pandas",
+    "athletes": "pandas",
     "beers": "pandas",
     "nc_voters": "pandas",
     "nyc_funding": "pandas"
@@ -17,6 +18,7 @@ df_lib = {
 
 sample_attributes = {
     "alaska_cameras": ["brand"],
+    "athletes": ["country"],
     "beers": ["style"],
     "nc_voters": ["sex", "race"],
     "nyc_funding": ["source"]
@@ -24,6 +26,7 @@ sample_attributes = {
 
 string_attributes = {
     "alaska_cameras": ["brand", "type"],
+    "athletes": ["country", "sport"],
     "beers": ["style", "brewery", "city", "state"],
     "nc_voters": ["sex", "race", "birth_place", "city", "party"],
     "nyc_funding": ["source"]
@@ -31,6 +34,7 @@ string_attributes = {
 
 value_filter = {
     "alaska_cameras": dict(),
+    "athletes": dict(),
     "beers": dict(),
     "nc_voters": dict(),
     "nyc_funding": dict()
@@ -65,6 +69,9 @@ er_features = {
         "blockers": {
             "SparkER (Meta-Blocking)": {
                 "path_candidates": path_dir_ds + "alaska_cameras/" + file_candidates + "sparker.csv"
+            },
+            "SparkER (Meta-Blocking) - Unfair": {
+                "path_candidates": path_dir_ds + "alaska_cameras/" + file_candidates + "unfair.csv"
             }
         },
         "default_blocker": "SparkER (Meta-Blocking)",
@@ -77,6 +84,44 @@ er_features = {
             "Ditto": {
                 "path_gold": path_dir_ds + "alaska_cameras/" + file_gold,
                 "time_per_comparison": 0.0106,
+                "cost_per_comparison": 0
+            },
+            "Ditto - Unfair": {
+                "path_gold": path_dir_ds + "alaska_cameras/matchers/matches_unfair.csv",
+                "time_per_comparison": 0.0106,
+                "cost_per_comparison": 0
+            }
+        },
+        "default_matcher": "GPT-4o"
+    },
+    "athletes": {
+        "path_ds": path_dir_ds + "athletes/" + file_ds,
+        "attributes": ["_id", "name", "sex", "age", "height", "weight", "country", "sport"],
+        "default_aggregation": "vote",
+        "default_fusion": {
+            "name": "vote",
+            "sex": "vote",
+            "age": "vote",
+            "height": "vote",
+            "weight": "vote",
+            "country": "vote",
+            "sport": "vote"
+        },
+        "blockers": {
+            "PyJedAI (Similarity Join)": {
+                "path_candidates": path_dir_ds + "athletes/" + file_candidates + "pyjedai.csv"
+            }
+        },
+        "default_blocker": "PyJedAI (Similarity Join)",
+        "matchers": {
+            "GPT-4o": {
+                "path_gold": path_dir_ds + "athletes/" + file_gold,
+                "time_per_comparison": 0.51,
+                "cost_per_comparison": 0.00016
+            },
+            "Ditto": {
+                "path_gold": path_dir_ds + "athletes/" + file_gold,
+                "time_per_comparison": 0.0084,
                 "cost_per_comparison": 0
             }
         },
