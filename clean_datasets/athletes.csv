@@ -1,0 +1,3001 @@
+name,sex,age,height,weight,country,sport
+Joan Herp Morell,M,22.0,186.0,70.0,Spain,Sailing
+Anna V'iacheslavivna Voloshyna,F,24.0,168.0,53.0,Ukraine,Synchronized Swimming
+Hlder Rocha Silva,M,29.0,176.0,73.0,Portugal,Canoeing
+Chen Wei-Ling,F,34.0,149.0,47.0,Taiwan,Weightlifting
+Josateki Naulu,M,32.0,175.0,81.0,Fiji,Judo
+Anastasia Rodionova,F,34.0,167.0,59.0,Australia,Tennis
+Are Weierholt Strandli,M,27.0,181.0,69.0,Norway,Rowing
+James Adede,M,29.0,162.0,92.0,Kenya,Weightlifting
+Timo Boll,M,35.0,181.0,74.0,Germany,Table Tennis
+Isobel Bishop,F,24.0,180.0,72.0,Australia,Water Polo
+Urban Lesjak,M,25.0,187.0,103.0,Slovenia,Handball
+Jovana de la Cruz Capani,F,24.0,161.0,53.0,Peru,Athletics
+Maria Magdalena Garro,F,27.0,160.0,60.0,Argentina,Canoeing
+Jessica Parratto,F,22.0,157.0,51.0,USA,Diving
+Phumlile Ndzinisa,F,23.0,170.0,57.0,Swaziland,Athletics
+Kasper Winther Jrgensen,M,31.0,182.0,73.0,Denmark,Rowing
+Nomi Girardet,F,21.0,174.0,61.0,Switzerland,Swimming
+Mrton Szivs,M,34.0,192.0,95.0,Hungary,Water Polo
+Elisa Rigaudo,F,36.0,168.0,53.0,Italy,Athletics
+Nicolas Colsaerts,M,33.0,188.0,78.0,Belgium,Golf
+Mirco Pruijser,M,26.0,194.0,87.0,Netherlands,Hockey
+Lucas Tramr,M,26.0,183.0,75.0,Switzerland,Rowing
+Reda Benbaziz,M,22.0,175.0,60.0,Algeria,Boxing
+Minami Itahashi,F,16.0,150.0,47.0,Japan,Diving
+Andrew Lewis,M,26.0,177.0,84.0,Trinidad,Sailing
+Diana Carolina Ospina Garca,F,27.0,157.0,64.0,Colombia,Football
+Rick Yves Confiance,M,22.0,165.0,62.0,Seychelles,Weightlifting
+Segundo Oswaldo Jami Jami,M,30.0,165.0,54.0,Ecuador,Athletics
+"Jessica ""Jess"" Thornton",F,18.0,170.0,59.0,Australia,Athletics
+Berthrade Simone Flore Bikatal,F,24.0,183.0,76.0,Cameroon,Volleyball
+Michael Shelley,M,32.0,183.0,60.0,Australia,Athletics
+Wei Ning,F,33.0,167.0,60.0,China,Shooting
+Olena Serhivna Hrechykhina,F,25.0,178.0,61.0,Ukraine,Synchronized Swimming
+Juan Ignacio Gilardi,M,34.0,186.0,91.0,Argentina,Hockey
+Jonathan Castroviejo Nicols,M,29.0,172.0,64.0,Spain,Cycling
+Shu Siyao,F,23.0,167.0,52.0,China,Rhythmic Gymnastics
+Kevin Staut,M,35.0,182.0,70.0,France,Equestrianism
+Hassan Saman Tahmasebi,M,31.0,180.0,85.0,Azerbaijan,Wrestling
+Deajah Stevens,F,21.0,175.0,65.0,USA,Athletics
+Benjamin Kiplagat,M,27.0,186.0,65.0,Uganda,Athletics
+"Daniel John ""Dan"" Martin",M,29.0,176.0,63.0,Ireland,Cycling
+Sri Wahyuni Agustiani,F,21.0,147.0,47.0,Indonesia,Weightlifting
+Haley Danita Anderson,F,24.0,178.0,68.0,USA,Swimming
+Emily Overholt,F,18.0,170.0,55.0,Canada,Swimming
+Mimi Nikolova Hristova,F,23.0,163.0,58.0,Bulgaria,Wrestling
+Martina De Memme,F,24.0,175.0,65.0,Italy,Swimming
+Isabelle Forrer,F,34.0,178.0,64.0,Switzerland,Beach Volleyball
+Quadri Aruna,M,27.0,180.0,81.0,Nigeria,Table Tennis
+Henrik Christiansen,M,19.0,191.0,,Norway,Swimming
+Yelena Pavluxina,F,27.0,178.0,68.0,Azerbaijan,Cycling
+Shaimaa Haridy Khalaf,F,25.0,160.0,85.0,Egypt,Weightlifting
+Darya Talanova,F,20.0,168.0,56.0,Kyrgyzstan,Swimming
+Kim Hyon-Gyong,F,21.0,153.0,48.0,North Korea,Wrestling
+Valentin Prades,M,23.0,194.0,90.0,France,Modern Pentathlon
+Miguel Murillo Salazar,M,22.0,173.0,73.0,Costa Rica,Judo
+Aina Estellah Rabetsara,F,22.0,167.0,59.0,Madagascar,Swimming
+Carlos Eduardo Claverie Borgiani,M,19.0,190.0,68.0,Venezuela,Swimming
+Bence Pulai,M,24.0,193.0,89.0,Hungary,Swimming
+Guor Marial (-Mading Miaker),M,32.0,180.0,60.0,South Sudan,Athletics
+Rutendo Joan Nyahora,F,27.0,155.0,45.0,Zimbabwe,Athletics
+Marie Prouvensier,F,22.0,165.0,52.0,France,Handball
+Jenna Prandini,F,23.0,173.0,60.0,USA,Athletics
+Rene Eykens,F,20.0,170.0,54.0,Belgium,Athletics
+Benjamin Didier Hennequin,M,31.0,174.0,85.0,France,Weightlifting
+Mayobanex de leo,M,23.0,171.0,61.0,Dominican Republic,Athletics
+Jazmin Jayne Sawyers,F,22.0,160.0,61.0,UK,Athletics
+Emma Robinson,F,21.0,180.0,72.0,New Zealand,Swimming
+Tebogo Moerane,M,21.0,167.0,64.0,South Africa,Football
+Merdan Ataew,M,21.0,196.0,80.0,Turkmenistan,Swimming
+Elke Josselinne Karsten,F,21.0,175.0,65.0,Argentina,Handball
+Danell Johan Leyva Gonzalez,M,24.0,170.0,68.0,USA,Gymnastics
+Jessica Brizeida Lpez Arocha,F,30.0,155.0,47.0,Venezuela,Gymnastics
+Lucas Rafael Rossi,M,31.0,188.0,88.0,Argentina,Hockey
+Tianna Madison-Bartoletta,F,30.0,168.0,58.0,USA,Athletics
+Elena Andreea Panuroiu,F,21.0,170.0,57.0,Romania,Athletics
+Augusto Csar Lima Brito,M,24.0,206.0,118.0,Brazil,Basketball
+Greysia Polii,F,28.0,163.0,56.0,Indonesia,Badminton
+Chen Nien-Chin,F,19.0,169.0,75.0,Taiwan,Boxing
+"Rebeka ""Rebii"" Simon",F,20.0,175.0,70.0,UK,Canoeing
+Luiza Tavares de Almeida,F,24.0,168.0,58.0,Brazil,Equestrianism
+Edward Ignacio Araya Corts,M,30.0,176.0,62.0,Chile,Athletics
+Klay Alexander Thompson,M,26.0,200.0,97.0,USA,Basketball
+Zhou Chao,F,29.0,170.0,70.0,China,Judo
+Tom Stank,M,25.0,190.0,125.0,Czech Republic,Athletics
+Rachael Lynch,F,30.0,179.0,68.0,Australia,Hockey
+"Bradley Edward ""Brad"" Tandy",M,25.0,191.0,86.0,South Africa,Swimming
+"Peter ""Pete"" Reed",M,35.0,197.0,100.0,UK,Rowing
+Elis Guri,M,33.0,189.0,100.0,Bulgaria,Wrestling
+Anna Greta Olasz,F,22.0,163.0,55.0,Hungary,Swimming
+Sascha Klein,M,30.0,173.0,71.0,Germany,Diving
+Chai Biao,M,25.0,186.0,80.0,China,Badminton
+Ren Pranz,M,30.0,184.0,76.0,Austria,Fencing
+Monika Ewa Michalik (Rogien-),F,36.0,167.0,63.0,Poland,Wrestling
+Lei Sheng,M,32.0,193.0,77.0,China,Fencing
+Sara Vilic,F,24.0,170.0,55.0,Austria,Triathlon
+"Jacob ""Jake"" Dalton",M,24.0,168.0,67.0,USA,Gymnastics
+Tina Alexandria Charles,F,27.0,193.0,88.0,USA,Basketball
+Lucy Stephan,F,24.0,174.0,66.0,Australia,Rowing
+Matilda Ekholm,F,34.0,172.0,67.0,Sweden,Table Tennis
+Matylda Szlzak-Kowal,F,27.0,170.0,51.0,Poland,Athletics
+"Kah Mun ""Vivian"" Hoo",F,26.0,166.0,56.0,Malaysia,Badminton
+"Elissa Rebecca Louis ""Ellie"" Downie",F,17.0,162.0,60.0,UK,Gymnastics
+Andrew Michael Bogut,M,31.0,213.0,122.0,Australia,Basketball
+Yavuz lnam,M,29.0,185.0,140.0,Turkey,Shooting
+Mayssa Raquel de Oliveira Pessoa,F,31.0,180.0,66.0,Brazil,Handball
+Marco Belotti,M,27.0,185.0,76.0,Italy,Swimming
+Lilian de Geus,F,24.0,164.0,57.0,Netherlands,Sailing
+Evelin Rivera Blanquet,F,18.0,157.0,54.0,Colombia,Athletics
+Saidi Juma Makula,M,22.0,,54.0,Tanzania,Athletics
+Fatim Alkrmova,F,14.0,175.0,60.0,Azerbaijan,Swimming
+Lizanne Murphy,F,32.0,185.0,75.0,Canada,Basketball
+Oyeyemi Olugbenga Olatokunbo James Dasaolu,M,28.0,187.0,88.0,UK,Athletics
+Claire Allan,F,31.0,170.0,65.0,UK,Rugby Sevens
+"Benjamin ""Ben"" Vogg",M,23.0,180.0,73.0,Switzerland,Equestrianism
+Nikoloz Basilashvili,M,24.0,185.0,80.0,Georgia,Tennis
+"Geraldina Rachel ""Dina"" Asher-Smith",F,20.0,164.0,55.0,UK,Athletics
+Thibault Rossard,M,22.0,193.0,85.0,France,Volleyball
+Lucas Saatkamp,M,30.0,209.0,101.0,Brazil,Volleyball
+"Andrew ""Andy"" Butchart",M,24.0,175.0,64.0,UK,Athletics
+Nagisa Hayashi,F,29.0,165.0,58.0,Japan,Hockey
+Robin Prendes,M,27.0,186.0,72.0,USA,Rowing
+Desiree Latifah N. Henry,F,20.0,171.0,64.0,UK,Athletics
+Pierre-Gilles Lakafia,M,29.0,183.0,95.0,France,Rugby Sevens
+Evita Elisabeth Leter,F,21.0,,,Suriname,Swimming
+"Phillip Peter ""Phil"" Dalhausser",M,36.0,206.0,93.0,USA,Beach Volleyball
+Rafa Buszek,M,29.0,195.0,92.0,Poland,Volleyball
+Xavier Vela Maggi,M,26.0,178.0,71.0,Brazil,Rowing
+James Lee Ellington,M,30.0,179.0,81.0,UK,Athletics
+Garbie Muguruza Blanco,F,22.0,182.0,73.0,Spain,Tennis
+Marcel Van Minh Phuc Long Nguyen,M,28.0,165.0,55.0,Germany,Gymnastics
+Amanda Jo Weir (-Davis),F,30.0,188.0,77.0,USA,Swimming
+Robert Urbanek,M,29.0,200.0,122.0,Poland,Athletics
+ Th Anh,F,20.0,165.0,58.0,Vietnam,Fencing
+Maximilian Meyer,M,20.0,173.0,60.0,Germany,Football
+Panagiotis Gionis,M,36.0,187.0,85.0,Greece,Table Tennis
+Mohammad Jaafar Moradi,M,26.0,169.0,62.0,Iran,Athletics
+Sren Dahl,M,23.0,193.0,86.0,Denmark,Swimming
+Darcina-Rose Manuel,F,23.0,162.0,57.0,New Zealand,Judo
+"Rick Yutaka ""Rickie"" Fowler",M,27.0,175.0,68.0,USA,Golf
+Pernilla Lindberg,F,30.0,165.0,60.0,Sweden,Golf
+skhbayaryn Chagnaadorj,M,19.0,155.0,56.0,Mongolia,Weightlifting
+Simon pilak,M,30.0,177.0,68.0,Slovenia,Cycling
+Selim Yaar,M,26.0,179.0,86.0,Turkey,Wrestling
+Jang Hyun-Soo,M,24.0,187.0,77.0,South Korea,Football
+Tatyana Aleksandrovna Likhtarovich,F,28.0,180.0,67.0,Belarus,Basketball
+Waheed Abdulridha Waheed Karaawi,M,33.0,178.0,74.0,Iraq,Boxing
+Kaspar Taimsoo,M,29.0,194.0,95.0,Estonia,Rowing
+Cy Thompson,M,28.0,185.0,83.0,"Virgin Islands, US",Sailing
+Mohamed Lamine Dansoko,M,18.0,161.0,78.0,Guinea,Athletics
+Juan Pablo Romero Marn,M,26.0,179.0,69.0,Mexico,Boxing
+Apurvi Singh Chandela,F,23.0,157.0,54.0,India,Shooting
+Olha Oleksandrivna Liakhova,F,24.0,174.0,60.0,Ukraine,Athletics
+Vasily Mikhaylovich Yegorov,M,22.0,162.0,49.0,Russia,Boxing
+Ricardo Maria Brito e Cunha Melo Gouveia,M,24.0,175.0,88.0,Portugal,Golf
+Jos Vicente Gutirrez Lupoli,M,23.0,193.0,83.0,Venezuela,Sailing
+Hasbi Muhamad,M,24.0,158.0,62.0,Indonesia,Weightlifting
+Michael Albasini,M,35.0,172.0,67.0,Switzerland,Cycling
+Louisa Chafee,F,24.0,165.0,57.0,USA,Sailing
+Osman Kamara,M,28.0,,78.0,Sierra Leone,Swimming
+Christopher Linke,M,27.0,191.0,66.0,Germany,Athletics
+Tamara Csipes,F,26.0,176.0,78.0,Hungary,Canoeing
+Sabina Rosengren Jacobsen,F,27.0,180.0,75.0,Sweden,Handball
+Sara Michaela Meijer,F,23.0,172.0,60.0,Sweden,Athletics
+Andrey Sergeyevich Kraytor,M,23.0,178.0,91.0,Russia,Canoeing
+Oussama Hosni,M,23.0,192.0,88.0,Tunisia,Handball
+Jamie Raymond Dwyer,M,37.0,172.0,68.0,Australia,Hockey
+Jlia Takcs Nyerges,F,27.0,171.0,53.0,Spain,Athletics
+"Joseph ""Joe"" Cordina",M,24.0,175.0,61.0,UK,Boxing
+Carvin Nkanata,M,25.0,,72.0,Kenya,Athletics
+Lars Wichert,M,29.0,186.0,73.0,Germany,Rowing
+Aleksey Yuryevich Kurbatov,M,22.0,185.0,74.0,Russia,Cycling
+Johanna Konta,F,25.0,183.0,70.0,UK,Tennis
+"Edward ""Eddie"" Ockenden",M,29.0,180.0,73.0,Australia,Hockey
+Willemijn Bos,F,28.0,181.0,69.0,Netherlands,Hockey
+Munyo Solomon Mutai,M,23.0,,,Uganda,Athletics
+Sofia Ifantidou,F,31.0,162.0,54.0,Greece,Athletics
+Taciana Rezende de Lima Bald,F,32.0,164.0,48.0,Guinea-Bissau,Judo
+Song Qingling,F,30.0,174.0,69.0,China,Hockey
+Lus Alfonso Lpez Menjivar,M,22.0,162.0,54.0,El Salvador,Athletics
+Thomas Pieters,M,24.0,196.0,85.0,Belgium,Golf
+Meredith T. Michaels-Beerbaum,F,46.0,162.0,51.0,Germany,Equestrianism
+Yehualeye Beletew,F,18.0,165.0,52.0,Ethiopia,Athletics
+Lydia Casey Jele (Mashila-),F,26.0,172.0,54.0,Botswana,Athletics
+Isabella del Carmen Amado Medrano,F,19.0,155.0,59.0,Panama,Gymnastics
+Wang Tiexin,M,27.0,187.0,73.0,China,Rowing
+Maria Andrade Teixeira,F,23.0,169.0,49.0,Cape Verde,Taekwondo
+Hugo Gonzlez de Oliveira,M,17.0,192.0,82.0,Spain,Swimming
+Fernando Manuel Ferreira Fonseca,M,19.0,182.0,75.0,Portugal,Football
+"Elisabeth Wilhelmina ""Ellen"" Hogerwerf",F,27.0,183.0,72.0,Netherlands,Rowing
+Nino Schurter,M,30.0,173.0,68.0,Switzerland,Cycling
+Ailen Valente,F,20.0,167.0,58.0,Argentina,Gymnastics
+Jos Fernando Saraiva Carvalho,M,27.0,176.0,77.0,Portugal,Canoeing
+Zhao Yunlei,F,29.0,173.0,60.0,China,Badminton
+Justin Gilberto Geduld,M,22.0,175.0,78.0,South Africa,Rugby Sevens
+Jorge Daz Garca,M,30.0,173.0,75.0,Spain,Shooting
+Dalal Masfir Al-Harith,F,16.0,160.0,55.0,Qatar,Athletics
+Ekene Chukwu Brian Ibekwe,M,31.0,206.0,100.0,Nigeria,Basketball
+Adenzia Aparecida Ferreira da Silva,F,29.0,187.0,65.0,Brazil,Volleyball
+Rattikan Kulnoi,F,23.0,157.0,63.0,Thailand,Weightlifting
+Yang Kun-Pi,M,17.0,186.0,107.0,Taiwan,Shooting
+Maria Bernard,F,23.0,165.0,53.0,Canada,Athletics
+Bintou Dim,F,32.0,167.0,58.0,Senegal,Basketball
+Tindwende Thierry Sawadogo,M,21.0,199.0,93.0,Burkina Faso,Swimming
+Stephen Parez,M,22.0,174.0,75.0,France,Rugby Sevens
+Kayla Pratt,F,25.0,179.0,73.0,New Zealand,Rowing
+Kariem Hussein,M,27.0,191.0,77.0,Switzerland,Athletics
+Mamadou Chrif Dia,M,31.0,180.0,70.0,Mali,Athletics
+Yekaterina Olegovna Rudenko,F,21.0,180.0,69.0,Kazakhstan,Swimming
+"Matthew ""Matt"" Gohdes",M,26.0,180.0,80.0,Australia,Hockey
+Josh Prenot,M,23.0,180.0,76.0,USA,Swimming
+"Benjamin Richard ""Ben"" Maher",M,33.0,183.0,68.0,UK,Equestrianism
+Mekonnen Gebremedhin Woldegeorgis,M,27.0,181.0,61.0,Ethiopia,Athletics
+Patrik Alexander Kittel,M,40.0,186.0,79.0,Sweden,Equestrianism
+Florian Floto,M,28.0,188.0,105.0,Germany,Archery
+Sal Gutirrez Macedo,M,23.0,192.0,68.0,Mexico,Taekwondo
+Yoon Ji-Su,F,23.0,170.0,60.0,South Korea,Fencing
+Maria Leonor Ribeiro Tavares,F,30.0,165.0,55.0,Portugal,Athletics
+Bak Ji-Yun,F,23.0,168.0,63.0,South Korea,Judo
+Wu Shuijiao,F,25.0,161.0,53.0,China,Athletics
+Amel Majri,F,23.0,164.0,54.0,France,Football
+Genevieve Horton,F,21.0,179.0,72.0,Australia,Rowing
+Daniel Mark Nestor,M,43.0,191.0,87.0,Canada,Tennis
+Josphine Jacques-Andr-Coquin,F,25.0,170.0,51.0,France,Fencing
+Emmanuel Stockbroekx,M,22.0,189.0,88.0,Belgium,Hockey
+Guni Valur Gunason,M,20.0,199.0,120.0,Iceland,Athletics
+Michael Darling,M,28.0,170.0,65.0,Ireland,Hockey
+Viktor Axelsen,M,22.0,194.0,88.0,Denmark,Badminton
+Ons Jabeur,F,21.0,167.0,66.0,Tunisia,Tennis
+Victor Scvortov,M,28.0,173.0,73.0,United Arab Emirates,Judo
+Alexandros Papamikhail,M,27.0,178.0,63.0,Greece,Athletics
+Bianca Stuart,F,28.0,,,Bahamas,Athletics
+Masato Sakai,M,21.0,181.0,77.0,Japan,Swimming
+Peter Taylor,M,32.0,189.0,70.0,New Zealand,Rowing
+Philipp Eberhard Kohlschreiber,M,32.0,178.0,70.0,Germany,Tennis
+Laura Gil Collado,F,24.0,191.0,78.0,Spain,Basketball
+Yuta Wakimoto,M,27.0,181.0,74.0,Japan,Cycling
+Sally Rutherford,F,35.0,165.0,65.0,New Zealand,Hockey
+Ana Vanesa Rial Lpez,F,34.0,172.0,68.0,Spain,Rugby Sevens
+Churandy Thomas Martina,M,32.0,180.0,76.0,Netherlands,Athletics
+Aline Focken,F,25.0,177.0,73.0,Germany,Wrestling
+Lukas Klostermann,M,20.0,189.0,83.0,Germany,Football
+"Andrea ""Andi"" Murez",F,24.0,184.0,77.0,Israel,Swimming
+Andrey Viktorovich Zamkovoy,M,29.0,174.0,69.0,Russia,Boxing
+Samuel Walker,M,21.0,186.0,74.0,UK,Table Tennis
+Haneen Ibrahim,F,16.0,154.0,47.0,Sudan,Swimming
+Karolina Naja,F,26.0,165.0,63.0,Poland,Canoeing
+Oscar Ouma Achieng,M,27.0,186.0,105.0,Kenya,Rugby Sevens
+Andrei Jms,M,34.0,184.0,90.0,Estonia,Rowing
+Nataliya Yevhenivna Moskvina,F,28.0,167.0,55.0,Ukraine,Trampolining
+Franziska Hentke,F,27.0,169.0,62.0,Germany,Swimming
+Alyn Camara,M,27.0,196.0,84.0,Germany,Athletics
+Bruno Ortiz-Caavate Ozeki,M,23.0,194.0,88.0,Spain,Swimming
+Kiana Eide,F,17.0,160.0,54.0,USA,Rhythmic Gymnastics
+Mauricio Martnez,M,23.0,174.0,66.0,Argentina,Football
+Ioana Strungaru (Crciun-),F,27.0,180.0,77.0,Romania,Rowing
+Andreas Bretschneider,M,26.0,167.0,60.0,Germany,Gymnastics
+Usman Edu Muhammed,M,22.0,169.0,78.0,Nigeria,Football
+Yekaterina Fyodorovna Ilyina,F,25.0,174.0,60.0,Russia,Handball
+Kang Un-Ju,F,21.0,168.0,60.0,North Korea,Archery
+Elvismar Nicanor Rodrguez Ruiz,F,19.0,178.0,70.0,Venezuela,Judo
+Pieter-Jan Hannes,M,23.0,186.0,72.0,Belgium,Athletics
+Otgonbaataryn Uuganbaatar,M,28.0,178.0,81.0,Mongolia,Judo
+Sibusiso Nzima,M,29.0,164.0,57.0,South Africa,Athletics
+Anastasiya Yevgenyevna Belyakova,F,23.0,173.0,60.0,Russia,Boxing
+Artemi Gavezou Castro,F,22.0,169.0,55.0,Spain,Rhythmic Gymnastics
+Arthur Bomfim Bergo,M,22.0,183.0,83.0,Brazil,Rugby Sevens
+Grigory Arkadyevich Tarasevich,M,21.0,190.0,75.0,Russia,Swimming
+Chiara Tabani,F,21.0,176.0,72.0,Italy,Water Polo
+Elif Jale Yeilrmak,F,30.0,164.0,58.0,Turkey,Wrestling
+Marcelo Antonio Pereira Rodrguez,M,21.0,181.0,70.0,Honduras,Football
+Josue Deprez,M,34.0,,,Haiti,Judo
+Yirisleydi Lisbet Ford Carnonell,F,24.0,168.0,66.0,Cuba,Athletics
+Stephanie Vogt,F,26.0,165.0,63.0,Liechtenstein,Tennis
+Ciara Mageean,F,24.0,170.0,55.0,Ireland,Athletics
+Cynthia Vanessa Vescan,F,24.0,170.0,74.0,France,Wrestling
+Katsuyuki Tanamura,M,27.0,184.0,84.0,Japan,Water Polo
+Daigo Hasegawa,M,26.0,173.0,58.0,Japan,Athletics
+Daniyar Maratovich Yeleusinov,M,25.0,178.0,64.0,Kazakhstan,Boxing
+"Daniel James ""Dan"" Norton",M,28.0,180.0,85.0,UK,Rugby Sevens
+Paraskevi Papakhristou,F,27.0,170.0,53.0,Greece,Athletics
+Iago Lpez Marra,M,26.0,181.0,81.0,Spain,Sailing
+Federico Gastn Fernndez,M,26.0,191.0,88.0,Argentina,Handball
+Jasmine Henrietta Pereira,F,20.0,168.0,66.0,New Zealand,Football
+Pascal Plamondon,M,23.0,171.0,87.0,Canada,Weightlifting
+Csar Augusto Oliveira de Almeida,M,27.0,188.0,98.0,Brazil,Handball
+Manila Flamini,F,28.0,167.0,60.0,Italy,Synchronized Swimming
+Le Huilin,F,27.0,172.0,62.0,China,Fencing
+Chou Tien-Chen,M,26.0,180.0,78.0,Taiwan,Badminton
+Mattia Camboni,M,20.0,180.0,70.0,Italy,Sailing
+Marta Rostoburova,F,20.0,163.0,56.0,Uzbekistan,Rhythmic Gymnastics
+Sebastian William Gregory Rodger,M,25.0,180.0,68.0,UK,Athletics
+Vasily Aleksandrovich Mosin,M,44.0,180.0,82.0,Russia,Shooting
+Frida Andersn,F,26.0,164.0,67.0,Sweden,Equestrianism
+Sheila Makoto,F,26.0,158.0,59.0,Zimbabwe,Football
+Moacir Zimmermann,M,32.0,184.0,70.0,Brazil,Athletics
+Marina Vukevi-Raji,F,22.0,175.0,70.0,Montenegro,Handball
+Ruana Nurjowowa,F,22.0,165.0,57.0,Turkmenistan,Judo
+Svetlana Aleksandrovna Kuznetsova,F,31.0,174.0,73.0,Russia,Tennis
+Allan Lopes Mamdio do Carmo,M,27.0,174.0,73.0,Brazil,Swimming
+Shakhboz Kholmurzayev,M,20.0,188.0,78.0,Uzbekistan,Rowing
+Thiago Bomfim Campos Dantas,M,25.0,193.0,84.0,Brazil,Hockey
+Julia Catherine Vincent,F,21.0,154.0,57.0,South Africa,Diving
+Karel Lavick,M,30.0,192.0,80.0,Czech Republic,Sailing
+Mohamed Badawy,M,30.0,195.0,91.0,Egypt,Volleyball
+"Nicholas ""Nick"" Delpopolo",M,27.0,173.0,77.0,USA,Judo
+Isabel Marques Swan,F,32.0,181.0,69.0,Brazil,Sailing
+Yu Qian,F,24.0,166.0,55.0,China,Hockey
+Aleksandra Kruni,F,23.0,167.0,53.0,Serbia,Tennis
+Bart Deurloo,M,25.0,170.0,65.0,Netherlands,Gymnastics
+Lee Dae-Hun,M,24.0,183.0,70.0,South Korea,Taekwondo
+Aleksandr Gennadiyevich Yemelyanov,M,32.0,184.0,97.0,Kazakhstan,Canoeing
+Huang Sijing,F,20.0,190.0,82.0,China,Basketball
+"Richard John Edward ""Richie"" Patterson",M,33.0,167.0,85.0,New Zealand,Weightlifting
+Martin Hner,M,27.0,184.0,83.0,Germany,Hockey
+Nery Antonio Brenes Crdenas,M,30.0,175.0,70.0,Costa Rica,Athletics
+Folau Moeloa Niua,M,31.0,183.0,89.0,USA,Rugby Sevens
+Ababel Yeshaneh Birhane,F,25.0,165.0,54.0,Ethiopia,Athletics
+Senbere Teferi,F,21.0,168.0,52.0,Ethiopia,Athletics
+Lauren Smith,F,24.0,170.0,,UK,Badminton
+Alessandro Velotto,M,21.0,186.0,85.0,Italy,Water Polo
+Dionysios Angelopoulos,M,23.0,189.0,91.0,Greece,Rowing
+Radek tpnek,M,37.0,186.0,79.0,Czech Republic,Tennis
+Sara Errani,F,29.0,164.0,58.0,Italy,Tennis
+Laura Oprea,F,22.0,186.0,75.0,Romania,Rowing
+Edna Guadalupe Carrillo Torres,F,24.0,185.0,78.0,Mexico,Judo
+Dina Lebo Phalula,F,32.0,165.0,46.0,South Africa,Athletics
+Felipe Anderson Perieira Gomes,M,23.0,178.0,66.0,Brazil,Football
+Hassan Ayanleh Souleiman,M,23.0,190.0,55.0,Djibouti,Athletics
+Ana Zaninovi,F,29.0,172.0,55.0,Croatia,Taekwondo
+Yassine Al-Trabelsi,M,26.0,185.0,63.0,Tunisia,Taekwondo
+Rose Thomas,F,27.0,163.0,66.0,France,Rugby Sevens
+Casper Ulrich Mortensen,M,26.0,190.0,88.0,Denmark,Handball
+Yu Won-Cheol,M,32.0,165.0,59.0,South Korea,Gymnastics
+Mukhamadmurod Abdurakhmonov,M,29.0,192.0,117.0,Tajikistan,Judo
+Kersten Thiele,M,23.0,179.0,75.0,Germany,Cycling
+Thorine Christelle Aboa Mbeza,F,23.0,182.0,78.0,Cameroon,Volleyball
+Piotr Maachowski,M,33.0,193.0,130.0,Poland,Athletics
+Mahaman Smaila,M,30.0,178.0,64.0,Cameroon,Boxing
+Lucie Svcen,F,18.0,175.0,60.0,Czech Republic,Swimming
+Pezhman Ghalehnoei,M,24.0,190.0,96.0,Iran,Athletics
+Antonio Fernndez Fernndez,M,25.0,184.0,76.0,Spain,Archery
+Paul Adams,M,24.0,185.0,98.0,Australia,Shooting
+Ou Zixia,F,20.0,168.0,61.0,China,Hockey
+Nicole van der Velden,F,21.0,168.0,62.0,Aruba,Sailing
+Maria Vitalyevna Verchenova (-Balikoeva-),F,30.0,175.0,64.0,Russia,Golf
+Yona Knight-Wisdom,M,21.0,188.0,87.0,Jamaica,Diving
+Jos Manuel Caldern Borrallo,M,34.0,191.0,90.0,Spain,Basketball
+Bronte Amelia Arnold Barratt,F,27.0,171.0,59.0,Australia,Swimming
+Esteban Jos Enderica Salgado,M,25.0,177.0,71.0,Ecuador,Swimming
+Nataliya Serhivna Lehonkova,F,33.0,161.0,48.0,Ukraine,Athletics
+Ana Mara Gallay,F,30.0,174.0,66.0,Argentina,Beach Volleyball
+"Francisco Augusto ""Chico"" Neto Ramos",M,21.0,185.0,80.0,Portugal,Football
+Ratu Tevita Waranaivalu,M,20.0,172.0,72.0,Fiji,Football
+Rohan Dennis,M,26.0,182.0,72.0,Australia,Cycling
+Sultan Mubarak M. Al-Dawoodi,M,31.0,192.0,86.0,Saudi Arabia,Athletics
+Ryunosuke Haga,M,25.0,186.0,100.0,Japan,Judo
+Irina Yuryevna Dolgova,F,20.0,153.0,48.0,Russia,Judo
+Alexis Rubn Gonzlez,M,35.0,184.0,85.0,Argentina,Volleyball
+Michael Tayler,M,24.0,175.0,69.0,Canada,Canoeing
+Andrew Fisher,M,24.0,,,Bahrain,Athletics
+Charlotte Becker,F,33.0,173.0,64.0,Germany,Cycling
+Stephen Kiprotich,M,27.0,172.0,56.0,Uganda,Athletics
+Beatrice Gyaman,F,29.0,162.0,53.0,Ghana,Athletics
+Nadiya Dusanova,F,28.0,174.0,56.0,Uzbekistan,Athletics
+Alana Boyd,F,32.0,171.0,59.0,Australia,Athletics
+Gladys Lucy Tejeda Pucuhuaranga,F,30.0,156.0,47.0,Peru,Athletics
+Paolo Csar Yurivilca Caldern,M,20.0,169.0,62.0,Peru,Athletics
+Amber Rose Kelsey Stackpole,F,21.0,165.0,55.0,Australia,Synchronized Swimming
+Roberta Vinci,F,33.0,164.0,58.0,Italy,Tennis
+Shin Seung-Chan,F,21.0,173.0,70.0,South Korea,Badminton
+Xu Yifan,F,27.0,165.0,60.0,China,Tennis
+Lilia Fisikovici (Tozlovanu-),F,27.0,170.0,52.0,Moldova,Athletics
+Tavis Bailey,M,24.0,191.0,125.0,USA,Athletics
+gatha Bednarczuk Rippel,F,33.0,182.0,70.0,Brazil,Beach Volleyball
+Asley Gonzlez Montero,M,26.0,179.0,90.0,Cuba,Judo
+Tiago Andr Barata Feio Peixoto Apolnia,M,30.0,185.0,76.0,Portugal,Table Tennis
+"Mathlynn Langtor ""Mattie"" Sasser",F,19.0,158.0,58.0,Marshall Islands,Weightlifting
+Viktoriya Vladimirovna Chayka,F,35.0,164.0,50.0,Belarus,Shooting
+Kokoutse Fabrice Dabla,M,23.0,,,Togo,Athletics
+Pablo Alejandro Aprahamian Bakerdjian,M,30.0,180.0,97.0,Uruguay,Judo
+"Jonathan Michael ""Jon"" Schofield",M,31.0,182.0,80.0,UK,Canoeing
+DeMar Darnell DeRozan,M,26.0,201.0,99.0,USA,Basketball
+Kacper Ziemiski,M,25.0,183.0,82.0,Poland,Sailing
+"Donald ""Donn"" Cabral",M,26.0,178.0,68.0,USA,Athletics
+Hanna Serhivna Krasnoshlyk,F,20.0,171.0,59.0,Ukraine,Diving
+Suthasini Sawettabut,F,21.0,168.0,63.0,Thailand,Table Tennis
+Ana Dulce Ferreira Flix,F,33.0,166.0,53.0,Portugal,Athletics
+Qieyang Shenjie,F,25.0,160.0,45.0,China,Athletics
+Andro Bulje,M,30.0,200.0,115.0,Croatia,Water Polo
+Carlos Eduardo Quipo Pilataxi,M,26.0,156.0,49.0,Ecuador,Boxing
+Tamires Morena Lima de Arajo,F,22.0,180.0,77.0,Brazil,Handball
+Daria Pikulik,F,19.0,165.0,54.0,Poland,Cycling
+Brent Bookwalter,M,32.0,181.0,68.0,USA,Cycling
+Fadwa Sidi Madane,F,21.0,175.0,76.0,Morocco,Athletics
+Cecilia Carranza Saroli,F,29.0,164.0,63.0,Argentina,Sailing
+Damian Patrick Martin,M,31.0,186.0,90.0,Australia,Basketball
+Jovana Stevanovi,F,24.0,192.0,72.0,Serbia,Volleyball
+Danish Mujtaba,M,27.0,168.0,66.0,India,Hockey
+Li Yajun,F,23.0,151.0,53.0,China,Weightlifting
+Camalddin Maqomedov,M,27.0,186.0,125.0,Azerbaijan,Wrestling
+"Kosovare ""Kosse"" Asllani",F,27.0,166.0,56.0,Sweden,Football
+Damir Buri,M,35.0,205.0,115.0,Croatia,Water Polo
+Soner Demirta,M,25.0,170.0,74.0,Turkey,Wrestling
+"Penelope Jane ""Penny"" Taylor (-Gil-)",F,35.0,185.0,72.0,Australia,Basketball
+Gabriel Sncrian,M,27.0,174.0,88.0,Romania,Weightlifting
+Oussama Al-Boughanmi,M,26.0,185.0,87.0,Tunisia,Handball
+Jean-Michel Lucenay,M,38.0,186.0,78.0,France,Fencing
+Marisol Guadalupe Romero Rosales,F,33.0,155.0,46.0,Mexico,Athletics
+sds Hjlmsdttir,F,30.0,178.0,70.0,Iceland,Athletics
+Alicia Quirk,F,24.0,173.0,64.0,Australia,Rugby Sevens
+Kei Takase,M,27.0,180.0,67.0,Japan,Athletics
+Salome Nyirarukundo,F,18.0,,,Rwanda,Athletics
+Jiao Yunlong,M,28.0,190.0,87.0,China,Fencing
+Marco Orsi,M,25.0,189.0,89.0,Italy,Swimming
+Natalia Pacierpnik,F,27.0,169.0,58.0,Poland,Canoeing
+Andriy Ivanovych Khrypta,M,29.0,,,Ukraine,Cycling
+Konstantin Sergeyevich Semyonov,M,27.0,210.0,101.0,Russia,Beach Volleyball
+Rosa Andrena Rodrguez Pargas,F,30.0,178.0,88.0,Venezuela,Athletics
+Mao Feilian,M,23.0,185.0,74.0,China,Swimming
+Olga Sergeyevna Levina-Akopyan,F,31.0,176.0,63.0,Russia,Handball
+Maria Elisabetta Marconi,F,31.0,159.0,55.0,Italy,Diving
+Luza vila Borges Carvalho,F,33.0,182.0,79.0,Brazil,Water Polo
+Igor Mareni,M,30.0,173.0,70.0,Croatia,Sailing
+Henry Weir,M,26.0,176.0,75.0,UK,Hockey
+Johan Mikael Jakobsson,M,29.0,195.0,98.0,Sweden,Handball
+Xu Chao,M,21.0,185.0,82.0,China,Cycling
+Shang Chunsong,F,20.0,143.0,34.0,China,Gymnastics
+Mohamed Amer,M,18.0,199.0,80.0,Egypt,Fencing
+Aleksandr Nikolayevich Bersanov,M,23.0,176.0,94.0,Belarus,Weightlifting
+George Bennett,M,26.0,181.0,58.0,New Zealand,Cycling
+Lebo Mothiba,M,20.0,181.0,69.0,South Africa,Football
+Bodi Turner,M,21.0,180.0,81.0,Australia,Cycling
+"Bruno ""Bruninho"" Mossa de Rezende",M,30.0,190.0,76.0,Brazil,Volleyball
+Andrea Ivanevi,F,21.0,168.0,62.0,Croatia,Athletics
+Panipak Wongpattanakit,F,18.0,173.0,49.0,Thailand,Taekwondo
+Antony John Fowler,M,25.0,179.0,75.0,UK,Boxing
+Lawrence Fanous,M,30.0,170.0,61.0,Jordan,Triathlon
+Bralon Shazam Taplin,M,24.0,180.0,75.0,Grenada,Athletics
+"Robert ""Robbie"" Manson",M,26.0,188.0,89.0,New Zealand,Rowing
+Lee Seul-Chan,M,22.0,172.0,65.0,South Korea,Football
+Marten Van Riel,M,23.0,183.0,64.0,Belgium,Triathlon
+Aisha Praught (-Leer),F,26.0,162.0,50.0,Jamaica,Athletics
+Birgit Koschischek,F,29.0,169.0,60.0,Austria,Swimming
+Marco Fichera,M,22.0,180.0,74.0,Italy,Fencing
+Zhu Menghui,F,17.0,177.0,62.0,China,Swimming
+Miguel David Ruz Gonzlez,M,25.0,202.0,104.0,Venezuela,Basketball
+Shah Hussain Shah,M,23.0,190.0,100.0,Pakistan,Judo
+Chov Sotheara,F,32.0,155.0,48.0,Cambodia,Wrestling
+Timur Khaydarov,M,20.0,185.0,86.0,Kazakhstan,Canoeing
+Viktoriya Viktorovna Zyabkina,F,23.0,174.0,62.0,Kazakhstan,Athletics
+Diaaeldin Kamal Gouda Abdelmottaleb,M,23.0,177.0,125.0,Egypt,Wrestling
+Roy Meyer,M,25.0,186.0,122.0,Netherlands,Judo
+Lucas Kozeniesky,M,21.0,180.0,80.0,USA,Shooting
+Cline Sandrine Francine Goberville,F,29.0,156.0,53.0,France,Shooting
+Vera Lcia Mendes Barbosa,F,27.0,168.0,58.0,Portugal,Athletics
+James Thompson,M,29.0,182.0,70.0,South Africa,Rowing
+"Gregory James ""Greg"" Rutherford",M,29.0,188.0,92.0,UK,Athletics
+Sbastien Dockier,M,26.0,175.0,74.0,Belgium,Hockey
+Jason Osborne,M,22.0,178.0,72.0,Germany,Rowing
+Phillip Kipyeko,M,21.0,,,Uganda,Athletics
+Blake Blackburn,M,24.0,181.0,82.0,Australia,Shooting
+Iryna Ihorivna Herashchenko,F,21.0,181.0,61.0,Ukraine,Athletics
+Eduard Popp,M,25.0,190.0,128.0,Germany,Wrestling
+Sebastien Daniel Rousseau,M,25.0,190.0,86.0,South Africa,Swimming
+Ralf Buchheim,M,32.0,183.0,72.0,Germany,Shooting
+Pol Pla Vegu,M,23.0,177.0,75.0,Spain,Rugby Sevens
+Vilma Pegado Nenganga,F,19.0,170.0,59.0,Angola,Handball
+Jana Velkov,F,35.0,178.0,60.0,Slovakia,Athletics
+Masaki Ito,M,27.0,167.0,62.0,Japan,Trampolining
+Juliana Jos Machado,F,21.0,175.0,60.0,Angola,Handball
+Fanny Lecluyse,F,24.0,177.0,64.0,Belgium,Swimming
+"Jonathan ""Jono"" Clegg",M,27.0,186.0,72.0,UK,Rowing
+Benjamin Steffen,M,34.0,189.0,78.0,Switzerland,Fencing
+Ge Manqi,F,18.0,162.0,52.0,China,Athletics
+Samantha May Kerr,F,22.0,167.0,63.0,Australia,Football
+"Andrew Thomas ""Andy"" Bisek",M,29.0,178.0,82.0,USA,Wrestling
+Mateusz Mika,M,25.0,207.0,85.0,Poland,Volleyball
+Cristina-Andreea Mitu,F,24.0,175.0,60.0,Romania,Tennis
+"Nicholas ""Nick"" Miller",M,23.0,188.0,112.0,UK,Athletics
+Mojtaba Mirzajanpour Muvizirjy,M,24.0,205.0,88.0,Iran,Volleyball
+Kyle Frederick Snyder,M,20.0,180.0,102.0,USA,Wrestling
+Dimitrije Grgi,M,32.0,191.0,82.0,Serbia,Shooting
+Alexandre Camargo,M,17.0,177.0,75.0,Brazil,Fencing
+Michelle Plourde Kasold,F,29.0,161.0,53.0,USA,Hockey
+Irina Valeryevna Bliznova,F,29.0,182.0,68.0,Russia,Handball
+Albert Aleksandrovich Gaun,M,24.0,183.0,80.0,Russia,Taekwondo
+Inna Vasilyevna Deriglazova,F,26.0,173.0,61.0,Russia,Fencing
+Sonia Franquet Calvente,F,36.0,173.0,60.0,Spain,Shooting
+David Carver,M,28.0,183.0,68.0,Mauritius,Athletics
+Michael Fuchs,M,34.0,181.0,86.0,Germany,Badminton
+Izmir Smajlaj,M,23.0,195.0,86.0,Albania,Athletics
+Henriette Nadege Koulla,F,23.0,169.0,67.0,Cameroon,Volleyball
+Benot Paire,M,27.0,196.0,80.0,France,Tennis
+Oribe Peralta Morones,M,32.0,179.0,73.0,Mexico,Football
+Kariman Abuljadayel,F,22.0,180.0,70.0,Saudi Arabia,Athletics
+Zahra Nemati,F,31.0,176.0,60.0,Iran,Archery
+Dolores Hernndez Monzon,F,19.0,162.0,62.0,Mexico,Diving
+Dzsenifer Marozsn,F,24.0,171.0,68.0,Germany,Football
+Wesley Tikiariki Roberts,M,19.0,188.0,74.0,Cook Islands,Swimming
+Vitaly Khudyakov,M,21.0,186.0,83.0,Kazakhstan,Swimming
+Joshua Richmond,M,30.0,188.0,91.0,USA,Shooting
+Tsholofelo Thipe (Selemela-),F,29.0,153.0,55.0,South Africa,Athletics
+Maxwell Lattimer,M,23.0,185.0,72.0,Canada,Rowing
+Kirsten Sweetland,F,27.0,163.0,49.0,Canada,Triathlon
+Svetlana Mikhaylovna Radzivil,F,29.0,186.0,61.0,Uzbekistan,Athletics
+Yuliya Valentinovna Bichik,F,33.0,184.0,84.0,Belarus,Rowing
+Fazliddin Khasanbayevich Gaybnazarov,M,25.0,169.0,64.0,Uzbekistan,Boxing
+Jason Pryor,M,28.0,175.0,80.0,USA,Fencing
+Sarah Frederica Sjstrm,F,22.0,182.0,76.0,Sweden,Swimming
+Jess Ricardo Liranzo Gratero,M,20.0,174.0,60.0,Venezuela,Diving
+Thadius Katua,M,18.0,167.0,60.0,Papua New Guinea,Boxing
+"Alexander ""Alex"" Hill",M,23.0,194.0,92.0,Australia,Rowing
+Mohsen Hussain Al-Duhaylib,M,22.0,163.0,69.0,Saudi Arabia,Weightlifting
+Kelly Griffin,F,29.0,163.0,68.0,USA,Rugby Sevens
+Rodrigo Gonzlez Lpez,M,26.0,180.0,69.0,Mexico,Triathlon
+Charline Picon,F,31.0,169.0,57.0,France,Sailing
+Gwen Rosemary Jorgensen (-Lemieux),F,30.0,178.0,59.0,USA,Triathlon
+"Gregory ""Greg"" Billington",M,27.0,175.0,66.0,USA,Triathlon
+Colin Stephen Oates,M,33.0,181.0,66.0,UK,Judo
+Tsubasa Sasaki,M,21.0,170.0,60.0,Japan,Canoeing
+Shinya Yajima,M,22.0,171.0,67.0,Japan,Football
+Elena Wassen,F,15.0,174.0,63.0,Germany,Diving
+Ricardo Ramos Vargas,M,30.0,172.0,56.0,Mexico,Athletics
+Axel Louis Augis,M,25.0,172.0,71.0,France,Gymnastics
+Anna Skidan,F,24.0,183.0,101.0,Azerbaijan,Athletics
+Miguel Ortiz-Caavate Ozeki,M,25.0,189.0,89.0,Spain,Swimming
+Aauri Lorena Bokesa Abia,F,27.0,180.0,62.0,Spain,Athletics
+Esmee Vermeulen,F,20.0,180.0,64.0,Netherlands,Swimming
+Martine Soffiatti Grael,F,25.0,168.0,62.0,Brazil,Sailing
+Anastasiya Serhivna Lysenko,F,20.0,176.0,101.0,Ukraine,Weightlifting
+Anna Maria Nordqvist,F,29.0,183.0,75.0,Sweden,Golf
+Sascia Kraus,F,23.0,177.0,65.0,Switzerland,Synchronized Swimming
+Elena Delle Donne,F,26.0,195.0,86.0,USA,Basketball
+Serena Jamika Williams,F,34.0,175.0,70.0,USA,Tennis
+Marina Durunda,F,19.0,170.0,51.0,Azerbaijan,Rhythmic Gymnastics
+Katarzyna Piocik-Klys,F,30.0,174.0,70.0,Poland,Judo
+Bautista Saubidet Birkner,M,20.0,179.0,72.0,Argentina,Sailing
+Paul Snow-Hansen,M,25.0,174.0,64.0,New Zealand,Sailing
+Marie Eliane Saholinirina,F,34.0,154.0,46.0,Madagascar,Athletics
+Hermenegildo Leite,M,16.0,171.0,63.0,Angola,Athletics
+Sara Franceschi,F,17.0,178.0,61.0,Italy,Swimming
+Mouma Das,F,32.0,149.0,47.0,India,Table Tennis
+Ingrid de Oliveira,F,20.0,160.0,58.0,Brazil,Diving
+Emilie Hegh Arntzen,F,22.0,183.0,78.0,Norway,Handball
+Arthur Abele,M,30.0,184.0,85.0,Germany,Athletics
+Evelyn Lee Stevens (-Baker),F,33.0,166.0,55.0,USA,Cycling
+Chuang Chih-Yuan,M,35.0,166.0,60.0,Taiwan,Table Tennis
+Imne Ouneissa Cherif Sahraoui,F,20.0,165.0,64.0,Algeria,Sailing
+"Daryna Viktorivna ""Dar'ia"" Stepaniuk",F,26.0,174.0,62.0,Ukraine,Swimming
+Batrice Alice Kamuchanga,F,18.0,,,Democratic Republic of the Congo,Athletics
+Chatchai Butdee,M,31.0,166.0,52.0,Thailand,Boxing
+Mala de Paula Machado,F,35.0,167.0,67.0,Brazil,Athletics
+Ctia Isabel da Silva Azevedo,F,22.0,170.0,50.0,Portugal,Athletics
+Olha Anatolivna Holodna,F,24.0,183.0,96.0,Ukraine,Athletics
+Reinier Estpinan Gmez,M,33.0,170.0,72.0,Cuba,Shooting
+Augustine Pulu,M,26.0,180.0,89.0,New Zealand,Rugby Sevens
+Qin Chenlu,M,23.0,175.0,70.0,China,Cycling
+Lungile Gongqa,M,37.0,162.0,53.0,South Africa,Athletics
+Anastasiya Yurivna Spas,F,22.0,178.0,68.0,Ukraine,Modern Pentathlon
+"Samuel ""Sam"" Crouser",M,24.0,198.0,105.0,USA,Athletics
+Jin Jong-O,M,36.0,175.0,78.0,South Korea,Shooting
+Elke Vanhoof,F,24.0,163.0,60.0,Belgium,Cycling
+McQuin Baron,M,20.0,206.0,104.0,USA,Water Polo
+Julia Krajewski,F,27.0,168.0,65.0,Germany,Equestrianism
+Nick Thompson,M,30.0,179.0,80.0,UK,Sailing
+Olivia Alma Charlotta Schough,F,25.0,172.0,60.0,Sweden,Football
+Tang Xingqiang,M,20.0,170.0,61.0,China,Athletics
+Deon Christopher Lendore,M,23.0,179.0,75.0,Trinidad,Athletics
+Sze Hang Yu,F,28.0,168.0,65.0,China,Swimming
+Ernesto Andrs Zamora,M,33.0,180.0,63.0,Uruguay,Athletics
+Andr Soares,M,32.0,194.0,92.0,Brazil,Handball
+Chan Yung-Jan,F,26.0,170.0,60.0,Taiwan,Tennis
+Karoline Bjerkeli Grvdal,F,26.0,167.0,52.0,Norway,Athletics
+Sreejesh Parattu Raveendran,M,28.0,183.0,79.0,India,Hockey
+Rachid Ait Atmane,M,23.0,190.0,76.0,Algeria,Football
+Chang Hao,M,25.0,173.0,72.0,Taiwan,Sailing
+Rosaria Aiello,F,27.0,172.0,74.0,Italy,Water Polo
+Ali Khamis Abbas Ali Khamis,M,21.0,182.0,70.0,Bahrain,Athletics
+Matas Rey,M,31.0,178.0,72.0,Argentina,Hockey
+Gao Lei,M,24.0,170.0,64.0,China,Trampolining
+"Samuel ""Sam"" Ojserkis",M,26.0,173.0,55.0,USA,Rowing
+Zheng Saisai,F,22.0,170.0,62.0,China,Tennis
+Yuichi Sugita,M,27.0,173.0,66.0,Japan,Tennis
+Marcia Theresa Vidiaux Jimnez,F,17.0,143.0,41.0,Cuba,Gymnastics
+Nadja Horwitz von Appen,F,20.0,166.0,58.0,Chile,Sailing
+Joaquim Rodrguez Oliver,M,37.0,169.0,59.0,Spain,Cycling
+Andra Marina Prez Pea,F,26.0,161.0,62.0,Ecuador,Shooting
+Josh Junior,M,26.0,189.0,96.0,New Zealand,Sailing
+Elin Ida Mattsson-Marko-Varga,F,31.0,170.0,65.0,Sweden,Swimming
+Aleksandr Leonidovich Lesun,M,28.0,185.0,74.0,Russia,Modern Pentathlon
+ngela Gabriela Tenorio Micolta,F,20.0,166.0,55.0,Ecuador,Athletics
+Hong Wei,M,26.0,192.0,86.0,China,Badminton
+Zarina Kurbanova,F,21.0,170.0,54.0,Uzbekistan,Rhythmic Gymnastics
+Alexis Vuillermoz,M,28.0,173.0,60.0,France,Cycling
+Eleftherios Petrounias,M,25.0,164.0,62.0,Greece,Gymnastics
+Eloi Imaniraguha,M,21.0,,,Rwanda,Swimming
+Vasiliki Millousi,F,32.0,155.0,45.0,Greece,Gymnastics
+Silviya Georgieva Danekova,F,33.0,165.0,50.0,Bulgaria,Athletics
+Emilee Cherry,F,23.0,168.0,70.0,Australia,Rugby Sevens
+"Joseph Howarth ""Joe"" Ingles",M,28.0,203.0,91.0,Australia,Basketball
+Lee Kiefer,F,22.0,163.0,49.0,USA,Fencing
+Seren Bundy-Davies,F,21.0,175.0,63.0,UK,Athletics
+Carina Horn,F,27.0,168.0,62.0,South Africa,Athletics
+Pau Quemada Cadafalch,M,32.0,173.0,69.0,Spain,Hockey
+Vadim Vladimirovich Anokhin,M,24.0,192.0,91.0,Russia,Fencing
+Rebecca Heyliger,F,23.0,161.0,54.0,Bermuda,Swimming
+Felix Aubck,M,19.0,198.0,85.0,Austria,Swimming
+Bode Abiodun,M,35.0,170.0,68.0,Nigeria,Table Tennis
+Kamran ahsuvarl,M,23.0,180.0,75.0,Azerbaijan,Boxing
+Bruno Oscar Schmidt,M,29.0,185.0,87.0,Brazil,Beach Volleyball
+Filip Wypych,M,25.0,183.0,75.0,Poland,Swimming
+Mika Kurihara,F,27.0,176.0,68.0,Japan,Basketball
+Robert Tvorogal,M,21.0,168.0,87.0,Lithuania,Gymnastics
+Amel Bouderra,F,27.0,163.0,,France,Basketball
+Matthias Schmid,M,35.0,175.0,66.0,Austria,Sailing
+Chan Chun Hing,M,35.0,170.0,70.0,China,Cycling
+Pablo Dominic Brgger,M,23.0,169.0,64.0,Switzerland,Gymnastics
+Kazuya Shiojiri,M,19.0,170.0,53.0,Japan,Athletics
+Daisy Kaitano,F,22.0,171.0,61.0,Zimbabwe,Football
+Ersin Tacir,M,31.0,170.0,71.0,Turkey,Athletics
+Denika Kassim,F,18.0,157.0,45.0,Comoros,Athletics
+Bendegz Pl Ptervri-Molnr,M,23.0,190.0,95.0,Hungary,Rowing
+Marcos Nicols Dela,M,24.0,209.0,105.0,Argentina,Basketball
+Manuel Brunet,M,30.0,179.0,79.0,Argentina,Hockey
+Kamongwa Salukombo Makorobondo,M,27.0,,,Democratic Republic of the Congo,Athletics
+Hanna Oleksandrivna Plotitsyna,F,29.0,182.0,73.0,Ukraine,Athletics
+Luciana Yael Salvad,F,26.0,169.0,65.0,Argentina,Handball
+Chun Ting Wong,M,24.0,170.0,70.0,China,Table Tennis
+Nada Daabousov,F,19.0,165.0,52.0,Slovakia,Synchronized Swimming
+Maciej Sarnacki,M,29.0,200.0,130.0,Poland,Judo
+Francesco Marrai,M,23.0,187.0,82.0,Italy,Sailing
+Gintar Volungeviit-Scheidt,F,33.0,172.0,63.0,Lithuania,Sailing
+Shara Nerissa Proctor,F,27.0,173.0,60.0,UK,Athletics
+Nur Shazrin Mohamad Latif,F,18.0,167.0,63.0,Malaysia,Sailing
+Karolina Koeczek,F,23.0,168.0,53.0,Poland,Athletics
+Ievgenia Tetelbaum,F,25.0,158.0,49.0,Israel,Synchronized Swimming
+Tagir Kamalutdinovich Khaybulayev,M,32.0,182.0,100.0,Russia,Judo
+Benjmin Grtz,M,20.0,183.0,75.0,Hungary,Swimming
+Robin Valentin Seidl,M,26.0,190.0,78.0,Austria,Beach Volleyball
+Rana Nakano,F,18.0,157.0,43.0,Japan,Trampolining
+Philipp Max,M,22.0,177.0,76.0,Germany,Football
+Jakob Diemer Fuglsang,M,31.0,183.0,69.0,Denmark,Cycling
+Jorge Joo Zarif,M,23.0,191.0,97.0,Brazil,Sailing
+Joeri Jordi Verlinden,M,28.0,181.0,75.0,Netherlands,Swimming
+Laura Glauser,F,22.0,178.0,65.0,France,Handball
+Douglas John Erasmus,M,26.0,182.0,78.0,South Africa,Swimming
+Lisa Brennauer,F,28.0,168.0,63.0,Germany,Cycling
+Natan Wgrzycki-Szymczyk,M,21.0,202.0,92.0,Poland,Rowing
+"Michelle ""Shelly"" Jenneke",F,23.0,172.0,67.0,Australia,Athletics
+Ali Adnan Kadhim Nassir Al-Tameemi,M,22.0,185.0,71.0,Iraq,Football
+Lara Hoffmann,F,25.0,173.0,68.0,Germany,Athletics
+Christina Hering,F,21.0,185.0,63.0,Germany,Athletics
+Kelley Anne Hurley,F,28.0,175.0,75.0,USA,Fencing
+Orgodolyn itmen,M,27.0,175.0,82.0,Mongolia,Wrestling
+Wang Xiaoli,F,34.0,169.0,70.0,China,Sailing
+Elizabeth Lyon Beisel,F,23.0,168.0,68.0,USA,Swimming
+Fabiana Marcelino Claudino,F,31.0,193.0,76.0,Brazil,Volleyball
+Ryota Yamagata,M,24.0,177.0,70.0,Japan,Athletics
+Ida Alstad,F,31.0,172.0,60.0,Norway,Handball
+Jennifer Dugwen Chieng,F,30.0,161.0,60.0,Micronesia,Boxing
+Ana imi,F,26.0,178.0,58.0,Croatia,Athletics
+Mats Stefan Nilsson,M,25.0,186.0,89.0,Sweden,Shooting
+Yekaterina Vladimirovna Dyachenko,F,28.0,167.0,53.0,Russia,Fencing
+Ahmed Abdel Naeim,M,31.0,197.0,87.0,Egypt,Volleyball
+Andrew Graham Peebles,M,27.0,191.0,87.0,Zimbabwe,Rowing
+Long Yuan Miguel Gutirrez Feng,M,21.0,190.0,85.0,Mexico,Swimming
+Masashi Ebinuma,M,26.0,170.0,66.0,Japan,Judo
+George Christopher Nash,M,26.0,195.0,96.0,UK,Rowing
+Ryan Archibald,M,35.0,186.0,78.0,New Zealand,Hockey
+Paula Reto,F,26.0,165.0,,South Africa,Golf
+Naomi Frances van As,F,33.0,179.0,63.0,Netherlands,Hockey
+Nadia Centoni,F,35.0,182.0,63.0,Italy,Volleyball
+Lus Enrique Lemus Dvila,M,24.0,173.0,61.0,Mexico,Cycling
+Daria Pogorzelec,F,26.0,172.0,78.0,Poland,Judo
+Emilce Sosa,F,28.0,177.0,72.0,Argentina,Volleyball
+Gao Xinglong,M,22.0,182.0,63.0,China,Athletics
+Pierre-Ambroise Bosse,M,24.0,185.0,68.0,France,Athletics
+Hannibal David Gaskin,M,18.0,173.0,68.0,Guyana,Swimming
+Kvin Mayer,M,24.0,186.0,77.0,France,Athletics
+Servet Tazegl,M,27.0,180.0,68.0,Turkey,Taekwondo
+Duygu Aynac,F,20.0,170.0,69.0,Turkey,Weightlifting
+Mohamed Ayoub Al-Ferjani,M,30.0,185.0,88.0,Tunisia,Fencing
+Nadezhda Sergeyevna Glyzina-Fedotova,F,28.0,175.0,68.0,Russia,Water Polo
+Chen Chien-An,M,25.0,170.0,72.0,Taiwan,Table Tennis
+Soufiane El-Bakkali,M,20.0,188.0,62.0,Morocco,Athletics
+Charles Yosei Muneria,M,20.0,167.0,55.0,Kenya,Athletics
+Abdelati El-Guesse,M,23.0,187.0,64.0,Morocco,Athletics
+Jo Qesem Ayela Aleh,F,30.0,171.0,58.0,New Zealand,Sailing
+Goran Stojanovi,M,39.0,191.0,90.0,Qatar,Handball
+Piotr Kantor,M,24.0,200.0,90.0,Poland,Beach Volleyball
+brahim Blkba,M,25.0,187.0,97.0,Turkey,Wrestling
+Robert Gardos,M,37.0,178.0,72.0,Austria,Table Tennis
+Yann Candele,M,45.0,173.0,82.0,Canada,Equestrianism
+Lena Schneborn,F,30.0,179.0,60.0,Germany,Modern Pentathlon
+"Galyna Volodymyrivna ""Galia"" Dvorak Khasanova",F,28.0,169.0,58.0,Spain,Table Tennis
+Simplice Fotsala,M,27.0,154.0,49.0,Cameroon,Boxing
+Lies Rustenburg,F,26.0,183.0,74.0,Netherlands,Rowing
+Yuliya Vladimirovna Arkhipova-Andreyeva,F,32.0,168.0,51.0,Kyrgyzstan,Athletics
+"Jennifer ""Jenny"" Dahlgren Fitzner",F,32.0,180.0,110.0,Argentina,Athletics
+Hussein Iashaish,M,20.0,180.0,95.0,Jordan,Boxing
+Shawn Erbelau Dingilius-Wallace,M,22.0,184.0,93.0,Palau,Swimming
+Emmanuel Matadi,M,25.0,,,Liberia,Athletics
+Saad Adbul-Amir Luaibi Al-Zirhawi,M,24.0,180.0,75.0,Iraq,Football
+Shaunae Miller (-Uibo),F,22.0,185.0,69.0,Bahamas,Athletics
+Tiago Henrique de Oliveira Camilo,M,34.0,180.0,90.0,Brazil,Judo
+Samuel Albrecht,M,34.0,180.0,71.0,Brazil,Sailing
+Hac liyev,M,25.0,168.0,65.0,Azerbaijan,Wrestling
+Laura de Witte,F,20.0,173.0,61.0,Netherlands,Athletics
+Diana Martn Gimnez,F,35.0,163.0,50.0,Spain,Athletics
+Andreas Beyer Maxs,M,22.0,190.0,80.0,Denmark,Football
+Ali Hashemi,M,24.0,178.0,93.0,Iran,Weightlifting
+Helena Scutt,F,24.0,170.0,66.0,USA,Sailing
+Phyllis Chanez Francis,F,24.0,180.0,72.0,USA,Athletics
+ukasz Krawczuk,M,27.0,184.0,75.0,Poland,Athletics
+Lenchu Kunzang,F,24.0,165.0,59.0,Bhutan,Shooting
+Melek Hu,F,27.0,165.0,53.0,Turkey,Table Tennis
+Juliane Elander Rasmussen,F,37.0,173.0,61.0,Denmark,Rowing
+Serhiy Anatoliyovych Frolov,M,24.0,190.0,84.0,Ukraine,Swimming
+Anton rskov Ipsen,M,21.0,186.0,74.0,Denmark,Swimming
+Li Dan,F,27.0,155.0,47.0,China,Trampolining
+Georgina Oliva Isern,F,26.0,160.0,53.0,Spain,Hockey
+Mohammed Rageh,M,18.0,169.0,64.0,Yemen,Athletics
+Liubomyr Arturovych Lemeshko,M,24.0,186.0,86.0,Ukraine,Swimming
+Lieke Wevers,F,24.0,167.0,54.0,Netherlands,Gymnastics
+Lee Hui-Sol,F,26.0,174.0,118.0,South Korea,Weightlifting
+De Jiaojiao,F,26.0,167.0,57.0,China,Hockey
+Zhang Rui,F,27.0,172.0,62.0,China,Football
+Mavis Chirandu,F,21.0,157.0,53.0,Zimbabwe,Football
+Larisa Ceri,F,25.0,176.0,110.0,Bosnia and Herzegovina,Judo
+Maya April Moore,F,27.0,183.0,79.0,USA,Basketball
+Sarah Lindsey Pavan,F,29.0,196.0,73.0,Canada,Beach Volleyball
+Elyane Eullia Alfama Duarte Freire de Andrade Boal,F,18.0,170.0,58.0,Cape Verde,Rhythmic Gymnastics
+Tsai Ming-Yen,M,20.0,167.0,63.0,Taiwan,Judo
+Devohn Noronha Teixeira,M,27.0,165.0,61.0,Canada,Hockey
+Joo Paulo Garcia Vieira,M,40.0,175.0,59.0,Portugal,Athletics
+Shota Hazui,M,29.0,177.0,77.0,Japan,Water Polo
+Raven Saunders,F,20.0,165.0,109.0,USA,Athletics
+Ana Veronica Rodean,F,32.0,170.0,55.0,Romania,Athletics
+Joo Bevilaqua de Lucca,M,26.0,193.0,96.0,Brazil,Swimming
+Andriy Andriyovych Hovorov,M,24.0,190.0,89.0,Ukraine,Swimming
+Jonatn Dniel Hajdu,M,20.0,188.0,82.0,Hungary,Canoeing
+Michael James P. Hoare,M,30.0,176.0,77.0,UK,Hockey
+Iryna Mykhailivna Dekha,F,20.0,174.0,86.0,Ukraine,Weightlifting
+Jeremy Monnier,M,27.0,175.0,65.0,France,Shooting
+Yevgeniya Serhivna Nimchenko,F,23.0,180.0,68.0,Ukraine,Rowing
+Vatemo Ravouvou,M,26.0,171.0,81.0,Fiji,Rugby Sevens
+Martin Iosefo,M,26.0,187.0,95.0,USA,Rugby Sevens
+Edgar Jess Contreras Triana,M,24.0,178.0,67.0,Venezuela,Taekwondo
+Zhu Weiwei,F,26.0,180.0,70.0,China,Rowing
+Rafael Freire Luz,M,24.0,188.0,85.0,Brazil,Basketball
+Luciano de Cecco,M,28.0,191.0,98.0,Argentina,Volleyball
+Jordan Chipangama,M,27.0,173.0,53.0,Zambia,Athletics
+Lisa Roman,F,26.0,178.0,76.0,Canada,Rowing
+Shanice Craft,F,23.0,185.0,93.0,Germany,Athletics
+Beatriz Zaneratto Joo,F,22.0,176.0,69.0,Brazil,Football
+Carla Rebecchi,F,31.0,163.0,55.0,Argentina,Hockey
+Jordan Jules Julien Marce Pothain,M,21.0,187.0,74.0,France,Swimming
+Chen Aisen,M,20.0,168.0,60.0,China,Diving
+Julia Stavickaja,F,18.0,167.0,48.0,Germany,Rhythmic Gymnastics
+Brbara Seixas de Freitas,F,29.0,178.0,67.0,Brazil,Beach Volleyball
+Francelina Cabral,F,31.0,165.0,,Timor-Leste,Cycling
+Henri Mikael Hurskainen,M,29.0,184.0,80.0,Sweden,Badminton
+Zhao Shengbo,M,34.0,175.0,81.0,China,Shooting
+Csar Mervin Marcano Snchez,M,28.0,177.0,76.0,Venezuela,Cycling
+Orinica Velsquez Herrera,F,27.0,171.0,65.0,Colombia,Football
+Veronika Andreyevna Popova,F,25.0,182.0,68.0,Russia,Swimming
+Ronaldas Rainskas,M,48.0,188.0,85.0,Lithuania,Shooting
+Mykola Mykolaiovych Milchev,M,48.0,180.0,90.0,Ukraine,Shooting
+Nina Amir,F,17.0,170.0,62.0,Israel,Sailing
+T  Thanh Huyn,F,22.0,170.0,58.0,Vietnam,Rowing
+Nadine Visser,F,21.0,175.0,60.0,Netherlands,Athletics
+"Joshua ""Josh"" Booth",M,25.0,190.0,93.0,Australia,Rowing
+Vyacheslav Dmitriyevich Andrusenko,M,24.0,194.0,85.0,Russia,Swimming
+Ian Dexter Stannard,M,29.0,191.0,80.0,UK,Cycling
+Jorge Mario Murillo Valdes,M,24.0,186.0,77.0,Colombia,Swimming
+Anish Kumar Khem,M,22.0,175.0,67.0,Fiji,Football
+Merewai Cumu,F,18.0,174.0,73.0,Fiji,Rugby Sevens
+Torul sgrov,M,23.0,170.0,65.0,Azerbaijan,Wrestling
+Francisco Ducasse Rojas,M,19.0,175.0,68.0,Chile,Sailing
+Chijindu Andre E. O. Ujah,M,22.0,182.0,81.0,UK,Athletics
+Bachana Khorava,M,23.0,171.0,67.0,Georgia,Athletics
+Chlo Marie Hlne Savourel,F,16.0,166.0,68.0,Central African Republic,Swimming
+Lisa Unruh,F,28.0,180.0,68.0,Germany,Archery
+Egl Balinait,F,27.0,176.0,63.0,Lithuania,Athletics
+Otryadyn Gndegmaa,F,38.0,168.0,63.0,Mongolia,Shooting
+Naomi Anne Folkard,F,32.0,169.0,76.0,UK,Archery
+"Catherine Michelle ""Katie"" Meili",F,25.0,170.0,61.0,USA,Swimming
+Valerie Gruest Slowing,F,17.0,172.0,63.0,Guatemala,Swimming
+Norisbeth Isais Agudo Gonzlez,F,24.0,163.0,55.0,Venezuela,Beach Volleyball
+Nils van 't Hoenderdaal,M,22.0,178.0,86.0,Netherlands,Cycling
+Jonathan Groth,M,23.0,184.0,75.0,Denmark,Table Tennis
+Joshua Tibatemwa Ekirikubinza,M,19.0,,,Uganda,Swimming
+Flor Denis Ruz Hurtado,F,25.0,172.0,67.0,Colombia,Athletics
+Anne-Marie Rindom,F,25.0,170.0,68.0,Denmark,Sailing
+Karoline Lusitania Tatafu,F,18.0,176.0,70.0,Tonga,Archery
+Lucas Martn Rey,M,33.0,177.0,74.0,Argentina,Hockey
+Savenaca Rawaca,M,24.0,189.0,105.0,Fiji,Rugby Sevens
+Mitch Dielemans,M,23.0,186.0,75.0,Netherlands,Archery
+Aya Traor,F,33.0,183.0,75.0,Senegal,Basketball
+Isaac Phillipjunio Silafau,M,25.0,175.0,68.0,American Samoa,Athletics
+Daniel Jasinski,M,26.0,207.0,120.0,Germany,Athletics
+Miyuki Nakagawa,F,29.0,161.0,53.0,Japan,Hockey
+"John ""Johnno"" Cotterill",M,28.0,193.0,88.0,Australia,Water Polo
+Andre Breitbarth,M,26.0,191.0,125.0,Germany,Judo
+Madai Prez Carrillo,F,36.0,158.0,46.0,Mexico,Athletics
+Hassan Taftian,M,23.0,187.0,68.0,Iran,Athletics
+Gu Sung-Yun,M,22.0,195.0,82.0,South Korea,Football
+Marin Kovacy,M,31.0,180.0,87.0,Slovakia,Shooting
+Viktor Lrincz,M,26.0,178.0,90.0,Hungary,Wrestling
+Roxana Gabriela Cogianu,F,29.0,180.0,72.0,Romania,Rowing
+Jack David Burnell,M,23.0,185.0,72.0,UK,Swimming
+Lee So-Hee,F,22.0,171.0,67.0,South Korea,Badminton
+Tom Mitchell,M,27.0,178.0,85.0,UK,Rugby Sevens
+Dirk Van Tichelt,M,32.0,173.0,73.0,Belgium,Judo
+Pedro Miguel Piriquito Isidro,M,31.0,175.0,58.0,Portugal,Athletics
+"Anneliese ""Annie"" Rubie",F,24.0,171.0,58.0,Australia,Athletics
+Tynia Gaither,F,23.0,158.0,50.0,Bahamas,Athletics
+Youndry Andjar de la Cruz,M,26.0,171.0,60.0,Dominican Republic,Athletics
+Aleksey Borisovich Cheremisinov,M,31.0,183.0,75.0,Russia,Fencing
+La Jamelot,F,23.0,168.0,65.0,France,Canoeing
+Alan Campbell,M,33.0,191.0,96.0,UK,Rowing
+Tintu Luka,F,27.0,163.0,50.0,India,Athletics
+Vid Kavtinik,M,32.0,191.0,90.0,Slovenia,Handball
+Dina Alaa Al-Din Wafiq Meshref,F,22.0,166.0,59.0,Egypt,Table Tennis
+Kassidy Leigh Cook,F,21.0,163.0,57.0,USA,Diving
+Kristi Castlin,F,28.0,170.0,60.0,USA,Athletics
+"Alexandra Mary L. ""Alex"" Danson",F,31.0,167.0,56.0,UK,Hockey
+Renaldas Seibutis,M,31.0,196.0,83.0,Lithuania,Basketball
+Bla Blagotinek,M,22.0,202.0,108.0,Slovenia,Handball
+Deiver Andrs Machado Mena,M,22.0,172.0,71.0,Colombia,Football
+Claire Lambe,F,26.0,178.0,57.0,Ireland,Rowing
+Sheila Chajira Kavugwe,F,22.0,165.0,73.0,Kenya,Rugby Sevens
+Luca Fernanda Palermo,F,30.0,173.0,59.0,Argentina,Rowing
+Kim Su-Ji,F,29.0,187.0,68.0,South Korea,Volleyball
+Krista Ursula Wikstrm (Tuutti-),F,36.0,166.0,55.0,Finland,Golf
+Jos Lus Gmez,M,22.0,173.0,63.0,Argentina,Football
+Takuma Asano,M,21.0,171.0,67.0,Japan,Football
+Sabrina Julienne Francine Delannoy,F,30.0,171.0,62.0,France,Football
+Alessia Polieri,F,21.0,163.0,55.0,Italy,Swimming
+Om Yun-Chol,M,24.0,151.0,56.0,North Korea,Weightlifting
+Katinka Hossz,F,27.0,175.0,65.0,Hungary,Swimming
+Anthonique Strachan,F,22.0,168.0,57.0,Bahamas,Athletics
+Nicolas Jacobi,M,29.0,193.0,95.0,Germany,Hockey
+Ahmad Mohamed Attellesey,M,21.0,,,Libya,Swimming
+Laraba Gnon Cessy Seibou,F,15.0,173.0,63.0,Benin,Swimming
+Kevin Haroldo Cordn Buezo,M,29.0,180.0,80.0,Guatemala,Badminton
+Ramon Gittens,M,29.0,180.0,79.0,Barbados,Athletics
+Li Dongxiao,F,28.0,175.0,60.0,China,Hockey
+Giovanni Abagnale,M,21.0,198.0,90.0,Italy,Rowing
+David Verburg,M,25.0,173.0,70.0,USA,Athletics
+Lyubomira Kazanova,F,20.0,177.0,56.0,Bulgaria,Rhythmic Gymnastics
+Sanna Charlotte Solberg,F,26.0,178.0,70.0,Norway,Handball
+Yana Valeryevna Shcherban,F,26.0,185.0,71.0,Russia,Volleyball
+Miguel ngel Lpez Nicolas,M,28.0,181.0,70.0,Spain,Athletics
+Marin ili,M,27.0,198.0,82.0,Croatia,Tennis
+Kirsty Leigh Coventry (-Seward),F,32.0,176.0,64.0,Zimbabwe,Swimming
+Mehtap Kurnaz,F,21.0,160.0,63.0,Turkey,Weightlifting
+Dra Antal,F,22.0,169.0,62.0,Hungary,Water Polo
+"Hyland DeAndre Jordan, Jr.",M,28.0,211.0,120.0,USA,Basketball
+Pawe Kaczmarek,M,20.0,183.0,85.0,Poland,Canoeing
+Zhou Min,F,18.0,172.0,64.0,China,Swimming
+Alejandra Jhonay de Jess Bentez Romero,F,36.0,169.0,62.0,Venezuela,Fencing
+Mulomowandau Erick Mathoho,M,26.0,190.0,76.0,South Africa,Football
+Stefano Raffaele Marcia,M,22.0,178.0,80.0,South Africa,Sailing
+"Margaret ""Maggie"" Hogan",F,37.0,170.0,61.0,USA,Canoeing
+Malaika Mihambo,F,22.0,170.0,55.0,Germany,Athletics
+Jos Manuel Martn Dockx,M,42.0,183.0,74.0,Spain,Equestrianism
+Constantin Adam,M,20.0,202.0,105.0,Romania,Rowing
+Manrique Larduet Bicet,M,20.0,160.0,63.0,Cuba,Gymnastics
+Katarzyna Maria Wilk,F,24.0,178.0,64.0,Poland,Swimming
+Yancarlos Martnez Martnez,M,24.0,171.0,60.0,Dominican Republic,Athletics
+Lu Yen-Hsun,M,32.0,180.0,74.0,Taiwan,Tennis
+Jade Fernandes Barbosa,F,25.0,151.0,45.0,Brazil,Gymnastics
+Kim Dong-Jun,M,21.0,188.0,84.0,South Korea,Football
+Eunice Chibanda,F,23.0,163.0,61.0,Zimbabwe,Football
+Mary Hanna,F,61.0,173.0,63.0,Australia,Equestrianism
+Javier Cienfuegos Pinilla,M,26.0,187.0,110.0,Spain,Athletics
+Anast'asia Hot'pridi,F,20.0,169.0,77.0,Georgia,Weightlifting
+Maria Springwald,F,25.0,174.0,69.0,Poland,Rowing
+Dominique Bouchard,F,25.0,175.0,61.0,Canada,Swimming
+Olena Dmytrivna Kostevych,F,31.0,160.0,52.0,Ukraine,Shooting
+Omar Jos Longart Rondn,M,25.0,172.0,69.0,Venezuela,Athletics
+Jenly Tego Wini,F,33.0,165.0,58.0,Solomon Islands,Weightlifting
+Yoandys Alberto Lescay Prado,M,22.0,181.0,77.0,Cuba,Athletics
+Pierre-Clestin Nihorimbere,M,23.0,167.0,55.0,Burundi,Athletics
+Ma Qing,F,23.0,174.0,68.0,China,Canoeing
+Nenad Filipovi,M,37.0,182.0,74.0,Serbia,Athletics
+Mason Finley,M,25.0,203.0,158.0,USA,Athletics
+Xu Anqi,F,24.0,182.0,76.0,China,Fencing
+"Anna Sarah ""Sophie"" Souwer",F,29.0,185.0,77.0,Netherlands,Rowing
+Yukiko Inui,F,25.0,169.0,55.0,Japan,Synchronized Swimming
+Azahara Muoz Guijarro,F,28.0,164.0,56.0,Spain,Golf
+Ai Ueda,F,32.0,155.0,44.0,Japan,Triathlon
+Christelle Daunay,F,41.0,162.0,43.0,France,Athletics
+Priscilla Frederick,F,27.0,178.0,68.0,Antigua,Athletics
+Lee Sang-Wook,M,30.0,170.0,59.0,South Korea,Gymnastics
+Adel Mechaal Mechaal,M,25.0,182.0,71.0,Spain,Athletics
+Mikhail Dzhavanshirovich Dovgalyuk,M,21.0,,,Russia,Swimming
+Abdoullah Bamoussa,M,30.0,170.0,59.0,Italy,Athletics
+Bruno Giuseppe Fratus,M,27.0,187.0,80.0,Brazil,Swimming
+Yu Hexin,M,20.0,194.0,87.0,China,Swimming
+Matheus Paulo de Santana,M,20.0,189.0,90.0,Brazil,Swimming
+Lady Patricia Andrade Rodrguez,F,24.0,172.0,62.0,Colombia,Football
+Lina Marcela Rivas Ordez,F,26.0,159.0,58.0,Colombia,Weightlifting
+Sara Dosho,F,21.0,159.0,69.0,Japan,Wrestling
+Rudy Winkler,M,21.0,188.0,109.0,USA,Athletics
+"John ""Jack"" Conger",M,21.0,193.0,80.0,USA,Swimming
+Pavel Vladimirovich Sukhov,M,28.0,179.0,75.0,Russia,Fencing
+Kanak Jha,M,16.0,166.0,51.0,USA,Table Tennis
+Carlo Tacchini,M,21.0,176.0,73.0,Italy,Canoeing
+Marcio Carvalho Jorge,M,41.0,186.0,80.0,Brazil,Equestrianism
+Mathieu Grbille,M,24.0,198.0,100.0,France,Handball
+Ella Rose Vaiora Nicholas,F,25.0,160.0,62.0,Cook Islands,Canoeing
+Leevan Sands,M,34.0,191.0,82.0,Bahamas,Athletics
+Sardar Singh,M,30.0,176.0,80.0,India,Hockey
+Oleh Serhiyovych Tsarkov,M,28.0,174.0,70.0,Ukraine,Shooting
+Ken Sema,M,22.0,177.0,69.0,Sweden,Football
+Alexander Lerionka Sampao,M,19.0,,67.0,Kenya,Athletics
+Peng Lin,F,21.0,183.0,73.0,China,Water Polo
+Wang Aichen,M,31.0,185.0,75.0,China,Sailing
+Petr Vako,M,24.0,180.0,70.0,Czech Republic,Cycling
+Mara Catalina Usme Pineda,F,26.0,163.0,65.0,Colombia,Football
+Tesfaye Abera Dibaba,M,24.0,192.0,68.0,Ethiopia,Athletics
+Fuad Anass Houssein,M,21.0,175.0,66.0,Djibouti,Judo
+Hanna Serhivna Rizatdinova,F,23.0,173.0,49.0,Ukraine,Rhythmic Gymnastics
+Kim Bo-Mi,F,30.0,157.0,54.0,South Korea,Hockey
+Kwandakwensizwa Ishmael Mngonyama,M,22.0,184.0,79.0,South Africa,Football
+Han Hye-Ryeong,F,30.0,163.0,56.0,South Korea,Hockey
+Jacob Bruun Larsen,M,17.0,183.0,74.0,Denmark,Football
+Daisurami Bonne Rousseau,F,28.0,171.0,60.0,Cuba,Athletics
+Christinna Pedersen,F,30.0,178.0,68.0,Denmark,Badminton
+Silvan Dillier,M,26.0,183.0,73.0,Switzerland,Cycling
+Simone Sabbioni,M,19.0,185.0,79.0,Italy,Swimming
+Evan Van Moerkerke,M,22.0,205.0,110.0,Canada,Swimming
+Allyson Michelle Felix,F,30.0,168.0,56.0,USA,Athletics
+Marius Grigonis,M,22.0,198.0,88.0,Lithuania,Basketball
+Vanessa Grimberg,F,23.0,176.0,63.0,Germany,Swimming
+Markta Slukov,F,28.0,181.0,69.0,Czech Republic,Beach Volleyball
+Mario Mola Daz,M,26.0,178.0,63.0,Spain,Triathlon
+Lucia Mwahiki Kimani-Mareti,F,36.0,166.0,48.0,Bosnia and Herzegovina,Athletics
+Mikkel Desler Puggaard,M,21.0,187.0,71.0,Denmark,Football
+Wei Chun-Heng,M,22.0,180.0,72.0,Taiwan,Archery
+Asaramanitra Ratiarison,F,28.0,155.0,48.0,Madagascar,Judo
+Mohamed Al-Saadaoui,M,21.0,176.0,86.0,Tunisia,Wrestling
+Niklas Lindgren,M,28.0,177.0,71.0,Finland,Sailing
+Nicola Philippaerts,M,23.0,186.0,76.0,Belgium,Equestrianism
+Baatarskhiin Chinzorig,M,24.0,174.0,64.0,Mongolia,Boxing
+Chisato Fukushima,F,28.0,165.0,52.0,Japan,Athletics
+Kathrin Klaas,F,32.0,168.0,72.0,Germany,Athletics
+Isaac Korir,M,25.0,188.0,59.0,Bahrain,Athletics
+Sylvia Shaqueria Fowles,F,30.0,198.0,90.0,USA,Basketball
+Zhong Xuechun,F,22.0,166.0,55.0,China,Wrestling
+Kvin Campion,M,28.0,183.0,63.0,France,Athletics
+Levon Aghasyan,M,21.0,193.0,75.0,Armenia,Athletics
+Tom Grambusch,M,20.0,185.0,85.0,Germany,Hockey
+John-John Dohmen,M,28.0,174.0,69.0,Belgium,Hockey
+Li Ying,F,23.0,170.0,61.0,China,Football
+Patricia Obee,F,24.0,165.0,60.0,Canada,Rowing
+Kano Omata,F,20.0,160.0,48.0,Japan,Synchronized Swimming
+Rachael Alexis Adams,F,26.0,188.0,81.0,USA,Volleyball
+Thomas Barrows III,M,28.0,186.0,82.0,USA,Sailing
+Ivaylo Ivanov,M,22.0,180.0,81.0,Bulgaria,Judo
+Martin Allikvee,M,21.0,182.0,77.0,Estonia,Swimming
+Lu Wen,F,26.0,188.0,78.0,China,Basketball
+Mateusz Roman Jachlewski,M,31.0,184.0,88.0,Poland,Handball
+Twan Machiel Johannes van Gendt,M,24.0,178.0,85.0,Netherlands,Cycling
+Shannon Parry,F,26.0,170.0,70.0,Australia,Rugby Sevens
+Sophie Anna Giger,F,20.0,168.0,54.0,Switzerland,Synchronized Swimming
+Hugo Balduino de Sousa,M,29.0,187.0,74.0,Brazil,Athletics
+Jacob Kiplimo,M,15.0,,,Uganda,Athletics
+Erika Araki,F,32.0,186.0,78.0,Japan,Volleyball
+Jesse David Thielke,M,24.0,170.0,68.0,USA,Wrestling
+Nikkita Holder,F,29.0,170.0,59.0,Canada,Athletics
+Sophie Celina Scheder,F,19.0,167.0,56.0,Germany,Gymnastics
+Benjamin Schulte,M,20.0,193.0,83.0,Guam,Swimming
+Jessica Phyllis Ennis-Hill,F,30.0,165.0,57.0,UK,Athletics
+Khaterinne Paola Medina Rodrguez,F,23.0,162.0,60.0,Colombia,Rugby Sevens
+Khairulnizam Mohd Afendy,M,23.0,182.0,70.0,Malaysia,Sailing
+Michael Julian Meyer,M,23.0,184.0,76.0,South Africa,Swimming
+Amber Jo Hill,F,18.0,157.0,57.0,UK,Shooting
+Isabelle Sambou,F,35.0,155.0,53.0,Senegal,Wrestling
+Vesa Trnroos,M,33.0,174.0,93.0,Finland,Shooting
+Giovanni Simeone Baldini,M,21.0,179.0,77.0,Argentina,Football
+"Eleonora Maria ""Ellen"" van Dijk",F,29.0,182.0,71.0,Netherlands,Cycling
+Mohamed Essam Al-Din Hassanain,M,21.0,180.0,74.0,Egypt,Fencing
+Tiril Merete Hartvedt Bue,F,23.0,180.0,,Norway,Sailing
+Irene Vecchi,F,27.0,170.0,56.0,Italy,Fencing
+Augustine Lugonzo,M,24.0,183.0,86.0,Kenya,Rugby Sevens
+Gilles Mller,M,33.0,192.0,75.0,Luxembourg,Tennis
+Thomas Mathis,M,26.0,178.0,64.0,Austria,Shooting
+"Man Yi ""Yvette"" Kong",F,23.0,176.0,60.0,China,Swimming
+Duko Pijetlovi,M,31.0,197.0,97.0,Serbia,Water Polo
+Angelos Vlachopoulos,M,24.0,179.0,75.0,Greece,Water Polo
+Leyla Rajabi,F,33.0,187.0,100.0,Iran,Athletics
+Nora Subschinski,F,28.0,159.0,57.0,Germany,Diving
+Karla Borger,F,27.0,180.0,68.0,Germany,Beach Volleyball
+Sanchai Ratiwatana,M,34.0,175.0,70.0,Thailand,Tennis
+Elisa Meneghini,F,19.0,150.0,42.0,Italy,Gymnastics
+Sofia Asoumanaki,F,19.0,190.0,85.0,Greece,Rowing
+Rok Stipevi,M,30.0,186.0,85.0,Croatia,Basketball
+Artyom Vyacheslavovich Kosov,M,29.0,193.0,96.0,Russia,Rowing
+Barna Bor,M,29.0,191.0,130.0,Hungary,Judo
+Pter Sidi,M,37.0,180.0,87.0,Hungary,Shooting
+Reza Mohammad Ali Yazdani,M,31.0,172.0,100.0,Iran,Wrestling
+Litia Naiqato,F,29.0,180.0,76.0,Fiji,Rugby Sevens
+Chantal Achterberg,F,31.0,172.0,72.0,Netherlands,Rowing
+Raul Must,M,28.0,176.0,70.0,Estonia,Badminton
+Glenn Schuurman,M,25.0,183.0,79.0,Netherlands,Hockey
+Patrick Nathaniel Reed,M,25.0,183.0,91.0,USA,Golf
+Brooke Peris,F,23.0,172.0,57.0,Australia,Hockey
+Artur Hovhannisyan,M,20.0,160.0,49.0,Armenia,Boxing
+Radik sayev,M,26.0,200.0,93.0,Azerbaijan,Taekwondo
+Norbert Hosnynszky,M,32.0,196.0,101.0,Hungary,Water Polo
+"Timaima ""Tima"" Tamoi",F,28.0,175.0,70.0,Fiji,Rugby Sevens
+Ye Shiwen,F,20.0,173.0,64.0,China,Swimming
+Triyatno,M,28.0,161.0,77.0,Indonesia,Weightlifting
+Carolina Mara Marn Marn,F,23.0,172.0,65.0,Spain,Badminton
+Glenn Victor Sutanto,M,26.0,183.0,74.0,Indonesia,Swimming
+Ristananna Tracey,F,24.0,178.0,68.0,Jamaica,Athletics
+Katerine Savard,F,23.0,167.0,54.0,Canada,Swimming
+Glenn Andrew Mark Snyders,M,29.0,178.0,83.0,New Zealand,Swimming
+Damian Zieliski,M,34.0,185.0,92.0,Poland,Cycling
+Corben Sharrah,M,24.0,183.0,85.0,USA,Cycling
+Jayme Mata,M,33.0,172.0,67.0,Aruba,Judo
+Georgia Simmerling,F,27.0,172.0,67.0,Canada,Cycling
+Pavlo Serhiyovych Altukhov,M,20.0,185.0,90.0,Ukraine,Canoeing
+Dan Anders Hkan Dahlby,M,50.0,185.0,95.0,Sweden,Shooting
+Yelena Fyodorovna Anyushina,F,22.0,,,Russia,Canoeing
+Federica Pellegrini,F,27.0,177.0,65.0,Italy,Swimming
+Emily Infeld,F,26.0,163.0,50.0,USA,Athletics
+Bibiro Ali Taher,F,28.0,160.0,44.0,Chad,Athletics
+Rustam Tulaganov,M,24.0,186.0,91.0,Uzbekistan,Boxing
+Philipp Wolf,M,23.0,196.0,96.0,Germany,Swimming
+Valentina Truppa,F,30.0,160.0,55.0,Italy,Equestrianism
+Yume Okuroda,F,22.0,157.0,62.0,Japan,Rugby Sevens
+Mona Shaito,F,22.0,152.0,52.0,Lebanon,Fencing
+Kierre Beckles,F,26.0,169.0,54.0,Barbados,Athletics
+Benjamin Karl Fletcher,M,24.0,185.0,100.0,UK,Judo
+Jos-Filipe Lima,M,34.0,178.0,78.0,Portugal,Golf
+Mara Ribera Garca,F,30.0,172.0,76.0,Spain,Rugby Sevens
+Samantha Kassman,F,32.0,163.0,48.0,Papua New Guinea,Taekwondo
+Ashleigh Moolman-Pasio,F,30.0,163.0,52.0,South Africa,Cycling
+Yusuke Tanaka,M,26.0,166.0,58.0,Japan,Gymnastics
+Evania Pelite,F,21.0,169.0,67.0,Australia,Rugby Sevens
+Iveta Vacenovsk,F,30.0,168.0,58.0,Czech Republic,Table Tennis
+Luisa Nunes Porto Borges,F,20.0,166.0,54.0,Brazil,Synchronized Swimming
+Park Tae-Hwan,M,26.0,183.0,73.0,South Korea,Swimming
+Vaida sinait,F,28.0,167.0,50.0,Lithuania,Athletics
+Cllia Reuse-Rard,F,28.0,170.0,56.0,Switzerland,Athletics
+Venus Ebony Starr Williams,F,36.0,185.0,75.0,USA,Tennis
+Hamada Talat,M,35.0,176.0,77.0,Egypt,Shooting
+Cheung King Lok,M,25.0,172.0,77.0,China,Cycling
+I Ketut Ariana,M,26.0,167.0,69.0,Indonesia,Weightlifting
+Cheng Xunzhao,M,25.0,185.0,90.0,China,Judo
+Shanieka Thomas (-Ricketts),F,24.0,180.0,64.0,Jamaica,Athletics
+Yip Pui Yin,F,28.0,164.0,61.0,China,Badminton
+Sergio Garca Fernndez,M,36.0,178.0,,Spain,Golf
+Fernando Echavarri Erasum,M,43.0,180.0,76.0,Spain,Sailing
+Natalie Hermann,F,16.0,170.0,54.0,Germany,Rhythmic Gymnastics
+Jhon Alejandro Perlaza Zapata,M,21.0,180.0,62.0,Colombia,Athletics
+Cristian Isaac Toro Carballo,M,24.0,188.0,90.0,Spain,Canoeing
+Tetiana Yurivna Melnyk,F,21.0,185.0,63.0,Ukraine,Athletics
+Sven Knipphals,M,30.0,189.0,88.0,Germany,Athletics
+La Sprunger,F,26.0,183.0,69.0,Switzerland,Athletics
+Michal Izdinsky,M,24.0,178.0,75.0,France,Water Polo
+Hanna Volodymyrivna Hatsko-Fedusova,F,25.0,175.0,75.0,Ukraine,Athletics
+Lilima Minz,F,22.0,158.0,52.0,India,Hockey
+Mart Seim,M,25.0,185.0,152.0,Estonia,Weightlifting
+Pirmammad Sadiyarovich Aliyev,M,18.0,170.0,63.0,Kazakhstan,Trampolining
+Joshua Katz,M,18.0,167.0,60.0,Australia,Judo
+Tnde Szab,F,27.0,154.0,46.0,Hungary,Athletics
+Antoine Bouchard,M,21.0,180.0,66.0,Canada,Judo
+Kiki Bertens,F,24.0,182.0,69.0,Netherlands,Tennis
+Wuttichai Masuk,M,26.0,175.0,64.0,Thailand,Boxing
+"James ""Jimmy"" Feigen",M,26.0,196.0,98.0,USA,Swimming
+Christelle Nana Tchoudjang,F,27.0,184.0,80.0,Cameroon,Volleyball
+Ryan Grant Taylor,M,36.0,175.0,73.0,New Zealand,Shooting
+Maayan Davidovich,F,28.0,167.0,57.0,Israel,Sailing
+ivko Goci,M,33.0,193.0,93.0,Serbia,Water Polo
+Amy Tinkler,F,16.0,152.0,47.0,UK,Gymnastics
+Luvsanlkhndeviin Otgonbayar,F,34.0,153.0,47.0,Mongolia,Athletics
+ngel Fournier Rodrguez,M,28.0,198.0,108.0,Cuba,Rowing
+Nirra Fields,F,22.0,170.0,57.0,Canada,Basketball
+Miosz Jankowski,M,26.0,193.0,70.0,Poland,Rowing
+"Yue ""Jennifer"" Wu",F,26.0,160.0,51.0,USA,Table Tennis
+Karol Zalewski,M,22.0,189.0,96.0,Poland,Athletics
+Magorzata Houb,F,23.0,168.0,57.0,Poland,Athletics
+Aleksandr Sergeyevich Sadovnikov,M,19.0,193.0,85.0,Russia,Swimming
+Irina Sazonova,F,24.0,160.0,55.0,Iceland,Gymnastics
+Joo Pedro Andrade Selgas Monteiro,M,32.0,180.0,71.0,Portugal,Table Tennis
+Stefano Peschiera Loret de Mola,M,21.0,182.0,84.0,Peru,Sailing
+Elisa Di Francisca,F,33.0,177.0,65.0,Italy,Fencing
+Kadra Mohamed Dembil,F,19.0,155.0,55.0,Djibouti,Athletics
+Mnkhjantsangiin Ankhtsetseg,F,18.0,163.0,70.0,Mongolia,Weightlifting
+Mireia Belmonte Garca,F,25.0,170.0,59.0,Spain,Swimming
+Primo Rogli,M,26.0,177.0,66.0,Slovenia,Cycling
+Eoin Coughlan,M,24.0,186.0,81.0,Australia,Judo
+Danny Barrett,M,26.0,188.0,102.0,USA,Rugby Sevens
+Kyah Pam Simon,F,25.0,164.0,62.0,Australia,Football
+Eslam Eissa,M,28.0,190.0,90.0,Egypt,Handball
+Rogen Ladon,M,22.0,165.0,49.0,Philippines,Boxing
+Apisai Raviyawa Domolailai,M,27.0,192.0,98.0,Fiji,Rugby Sevens
+Felipe Reyes Cabaas,M,36.0,205.0,109.0,Spain,Basketball
+Jeanine Assani Issouf,F,23.0,170.0,53.0,France,Athletics
+Elisa Longo Borghini,F,24.0,170.0,59.0,Italy,Cycling
+Igor Andreyevich Polyansky,M,26.0,191.0,72.0,Russia,Triathlon
+Chaim Schalk,M,30.0,195.0,88.0,Canada,Beach Volleyball
+Sonchat Ratiwatana,M,34.0,175.0,71.0,Thailand,Tennis
+Rasmus Nicolai Quist Hansen,M,36.0,173.0,72.0,Denmark,Rowing
+Lee Yuen Yin,F,27.0,161.0,58.0,China,Rowing
+Anna van der Breggen,F,26.0,167.0,56.0,Netherlands,Cycling
+Alexus Lucienne Laird,F,23.0,172.0,61.0,Seychelles,Swimming
+Veronica Angella Campbell-Brown,F,34.0,168.0,58.0,Jamaica,Athletics
+Filip Filipovi,M,29.0,196.0,101.0,Serbia,Water Polo
+Liu Wei,M,28.0,175.0,69.0,China,Boxing
+Hayden Phillips,M,18.0,180.0,72.0,New Zealand,Hockey
+Yang Zhe,M,25.0,187.0,105.0,China,Weightlifting
+Mara Pilar Campoy,F,25.0,158.0,48.0,Argentina,Hockey
+"Zachery ""Zach"" Ziemek",M,23.0,193.0,89.0,USA,Athletics
+Nenad Zimonji,M,40.0,190.0,92.0,Serbia,Tennis
+Ahymara del Carmen Espinoza Echenique,F,31.0,170.0,80.0,Venezuela,Athletics
+Mildrey Carolina Pineda Echeverra,F,26.0,164.0,52.0,Colombia,Football
+Yurie Nabeya,F,22.0,176.0,58.0,Japan,Volleyball
+Son Yeon-Jae,F,22.0,165.0,45.0,South Korea,Rhythmic Gymnastics
+Karin Melis (Mey-),F,33.0,171.0,55.0,Turkey,Athletics
+Park In-Bee,F,28.0,168.0,65.0,South Korea,Golf
+Jhon Fredy Murillo Murillo,M,32.0,183.0,84.0,Colombia,Athletics
+Kelly Catlin,F,20.0,168.0,63.0,USA,Cycling
+Ellen Sprunger,F,29.0,172.0,62.0,Switzerland,Athletics
+Bryan Josu Acosta Ramos,M,22.0,175.0,74.0,Honduras,Football
+Nicols Martn Bruno,M,27.0,187.0,85.0,Argentina,Volleyball
+Jakov Gojun,M,30.0,203.0,112.0,Croatia,Handball
+Mehdi Mahdavi,M,32.0,190.0,92.0,Iran,Volleyball
+Anita Alvarez,F,19.0,170.0,52.0,USA,Synchronized Swimming
+Lock Luypaert,M,24.0,181.0,78.0,Belgium,Hockey
+Paulo Salemi,M,22.0,191.0,94.0,Brazil,Water Polo
+Marko Kopljar,M,30.0,210.0,112.0,Croatia,Handball
+"Francisco ""Fran"" Fernndez Miranda",M,30.0,185.0,83.0,Spain,Water Polo
+Tang Yuanting,F,22.0,175.0,70.0,China,Badminton
+Avtandil Ch'rik'ishvili,M,25.0,182.0,80.0,Georgia,Judo
+Bradley Shaw,M,33.0,187.0,92.0,New Zealand,Hockey
+Alejandra Llaneza Gmez,F,28.0,157.0,48.0,Mexico,Golf
+Maria Eduarda de Souza Miccuci,F,21.0,167.0,56.0,Brazil,Synchronized Swimming
+Rodrigo Germade Barreiro,M,25.0,183.0,85.0,Spain,Canoeing
+Pilar Shimizu,F,20.0,168.0,61.0,Guam,Swimming
+Lidiya Yurivna Sichenikova,F,23.0,183.0,69.0,Ukraine,Archery
+Lina altyt,F,29.0,184.0,70.0,Lithuania,Rowing
+Linda Birgitta Sembrant,F,29.0,175.0,67.0,Sweden,Football
+Anna Aleksandrovna Malyshchik (Zinchuk-),F,22.0,175.0,90.0,Belarus,Athletics
+Victoria Crivelli,F,25.0,176.0,65.0,Argentina,Handball
+"Thomas Allen ""Tom"" Shields",M,25.0,193.0,86.0,USA,Swimming
+Danilo Caro Guarnieri,M,50.0,175.0,74.0,Colombia,Shooting
+Abdulqdir Abdullayev,M,28.0,188.0,91.0,Azerbaijan,Boxing
+Long Qingquan,M,25.0,150.0,56.0,China,Weightlifting
+Darya Olegovna Vdovina,F,26.0,156.0,49.0,Russia,Shooting
+Jessica Trengove,F,28.0,166.0,52.0,Australia,Athletics
+Magda Alfredo Cazanga,F,25.0,172.0,54.0,Angola,Handball
+Kayla Harrison,F,26.0,173.0,74.0,USA,Judo
+Yasmany Daniel Lugo Cabrera,M,26.0,190.0,98.0,Cuba,Wrestling
+Luca Haro,F,29.0,178.0,71.0,Argentina,Handball
+Toader Andrei Gontaru,M,23.0,190.0,92.0,Romania,Rowing
+Jeanelle Scheper,F,21.0,177.0,60.0,Saint Lucia,Athletics
+Kate Jessica Kim Lee Foo Kune,F,23.0,162.0,,Mauritius,Badminton
+Winny Chebet,F,25.0,152.0,48.0,Kenya,Athletics
+Mario Alfonso Bran Granillo,M,26.0,168.0,64.0,Guatemala,Athletics
+Charlotte Stapenhorst,F,21.0,168.0,68.0,Germany,Hockey
+Eefje Muskens,F,27.0,164.0,60.0,Netherlands,Badminton
+Nijel Carlos Amilfitano Amos,M,22.0,179.0,60.0,Botswana,Athletics
+Lee Hyo-Hee,F,35.0,173.0,57.0,South Korea,Volleyball
+Emese Judit Szsz,F,33.0,176.0,71.0,Hungary,Fencing
+Martina Guiggi,F,32.0,187.0,80.0,Italy,Volleyball
+Park Yong-Woo,M,22.0,186.0,80.0,South Korea,Football
+Alison Young,F,29.0,182.0,70.0,UK,Sailing
+Kaede Kondo,F,24.0,173.0,62.0,Japan,Basketball
+Carl Dohmann,M,26.0,183.0,62.0,Germany,Athletics
+Iakob Kajaia,M,22.0,187.0,130.0,Georgia,Wrestling
+Seham Muhammad Ahmad El-Sawalhy,F,25.0,175.0,65.0,Egypt,Taekwondo
+Altobeli Santos da Silva,M,25.0,181.0,60.0,Brazil,Athletics
+Phupu Lamu Khatri,F,19.0,163.0,63.0,Nepal,Judo
+Severo Jess Jurado Lpez,M,27.0,172.0,71.0,Spain,Equestrianism
+Mandy Marie Brigitte Bujold,F,29.0,160.0,51.0,Canada,Boxing
+Clara Espar Llaquet,F,21.0,178.0,68.0,Spain,Water Polo
+Hidilyn Diaz,F,25.0,149.0,53.0,Philippines,Weightlifting
+Dimitrios Koulouris,M,25.0,183.0,79.0,Greece,Swimming
+Florencia Martina Habif,F,22.0,161.0,47.0,Argentina,Hockey
+Miho Takahashi,F,23.0,161.0,56.0,Japan,Swimming
+Monika Malik,F,22.0,162.0,51.0,India,Hockey
+Isabela Maria Moreira Onyshko,F,18.0,157.0,50.0,Canada,Gymnastics
+Miguel ngel Almachi Condo,M,31.0,165.0,55.0,Ecuador,Athletics
+Sideris Tasiadis,M,26.0,179.0,79.0,Germany,Canoeing
+Chloe Esposito,F,24.0,168.0,55.0,Australia,Modern Pentathlon
+Mara Lpez de Eguilaz Zubiria,F,32.0,164.0,56.0,Spain,Hockey
+Marianna Sastin,F,33.0,161.0,65.0,Hungary,Wrestling
+Chouaib Bouloudinats,M,29.0,183.0,91.0,Algeria,Boxing
+Massimo Fabbrizi,M,38.0,177.0,110.0,Italy,Shooting
+Ashwini Ponnappa,F,26.0,165.0,59.0,India,Badminton
+Darienn Ferrer Dels,M,33.0,202.0,90.0,Cuba,Volleyball
+Kohei Yamashita,M,21.0,179.0,69.0,Japan,Athletics
+David Miklavi,M,33.0,196.0,100.0,Slovenia,Handball
+Michal D'Almeida,M,28.0,176.0,80.0,France,Cycling
+Rassa Nasser,F,26.0,173.0,73.0,Cameroon,Volleyball
+Jason Block,M,26.0,182.0,82.0,Canada,Swimming
+lie Konki,M,24.0,170.0,52.0,France,Boxing
+Kirill Gennadyevich Gerasimenko,M,19.0,175.0,64.0,Kazakhstan,Table Tennis
+Shen Chen,F,26.0,171.0,62.0,China,Fencing
+Glencora Ralph,F,27.0,178.0,68.0,Australia,Water Polo
+Giuseppe Vicino,M,23.0,195.0,95.0,Italy,Rowing
+Miesinnei Mercy Genesis,F,18.0,152.0,48.0,Nigeria,Wrestling
+Friederike Mhlenkamp,F,23.0,176.0,63.0,Germany,Athletics
+Govert Viergever,M,27.0,184.0,85.0,Netherlands,Rowing
+Gonalo Mendes Pacincia,M,22.0,187.0,80.0,Portugal,Football
+Jennifer Martins,F,27.0,179.0,76.0,Canada,Rowing
+Pedro Miguel Assuno Martins,M,26.0,177.0,70.0,Portugal,Badminton
+Cai Zelin,M,25.0,175.0,55.0,China,Athletics
+Helen Rebecca Tucker-Jenkins,F,32.0,169.0,55.0,UK,Triathlon
+Dmitry Kroyter,M,23.0,189.0,73.0,Israel,Athletics
+Misaki Yamaguchi,F,26.0,165.0,60.0,Japan,Swimming
+Viliame Sevaka Mata,M,24.0,196.0,106.0,Fiji,Rugby Sevens
+Allan Alexander Banegas Murillo,M,22.0,180.0,76.0,Honduras,Football
+Chen Shih-Chieh,M,26.0,190.0,150.0,Taiwan,Weightlifting
+Gordon James Benson,M,22.0,191.0,78.0,UK,Triathlon
+Mria Czakov,F,27.0,166.0,56.0,Slovakia,Athletics
+Claudia Mihaela Bobocea,F,24.0,176.0,53.0,Romania,Athletics
+Talita Antunes da Rocha,F,33.0,181.0,64.0,Brazil,Beach Volleyball
+Marleen Maria van Iersel (-Ramond),F,28.0,178.0,68.0,Netherlands,Beach Volleyball
+Hannes Ocik,M,25.0,191.0,93.0,Germany,Rowing
+Lee Dae-Myeong,M,27.0,182.0,78.0,South Korea,Shooting
+Ren Mengqian,F,22.0,175.0,66.0,China,Athletics
+Benn Harradine,M,33.0,198.0,115.0,Australia,Athletics
+Nathan Byukusenge,M,35.0,,,Rwanda,Cycling
+Zhan Vensanovych Beleniuk,M,25.0,178.0,85.0,Ukraine,Wrestling
+Anastasiya Ivanovna Maksimova,F,25.0,170.0,50.0,Russia,Rhythmic Gymnastics
+Csar Sempere Padilla,M,32.0,182.0,86.0,Spain,Rugby Sevens
+Arturo Chvez Korfiatis,M,26.0,190.0,76.0,Peru,Athletics
+Clment Mignon,M,23.0,187.0,75.0,France,Swimming
+Adrin Oquendo Ibez,M,26.0,189.0,87.0,Cuba,Rowing
+Katrina-Lee Gorry,F,23.0,154.0,54.0,Australia,Football
+Juan Manuel Cano Ceres,M,28.0,168.0,60.0,Argentina,Athletics
+Sabrina D'Angelo,F,23.0,173.0,71.0,Canada,Football
+Connor Jaeger,M,25.0,185.0,77.0,USA,Swimming
+Su Bingtian,M,26.0,173.0,70.0,China,Athletics
+Uvis Kalni,M,22.0,192.0,85.0,Latvia,Swimming
+Carli Anne Lloyd (-Hollins),F,34.0,170.0,64.0,USA,Football
+Fabio Aru,M,26.0,183.0,65.0,Italy,Cycling
+Nazl ala Dnerta,F,25.0,173.0,69.0,Turkey,Sailing
+Gustavo Cuesta Rosario,M,27.0,183.0,80.0,Dominican Republic,Athletics
+Alfredo Jos Campo Vintimilla,M,23.0,192.0,90.0,Ecuador,Cycling
+Eike Onnen,M,34.0,197.0,92.0,Germany,Athletics
+Phillip Peter Dutton,M,52.0,168.0,68.0,USA,Equestrianism
+Nehal Nabil Mohamed Elsayed Saafan,F,19.0,164.0,49.0,Egypt,Synchronized Swimming
+Edus Treimanis,M,28.0,183.0,82.0,Latvia,Cycling
+Liu Hao,M,27.0,189.0,79.0,China,Cycling
+Dylan Bosch,M,23.0,178.0,75.0,South Africa,Swimming
+Kurt Anthony Felix,M,28.0,182.0,76.0,Grenada,Athletics
+Emmanuel Lucenti,M,31.0,180.0,81.0,Argentina,Judo
+Ivan Stevanovi,M,34.0,193.0,105.0,Croatia,Handball
+Patricia Alejandra Bermdez,F,29.0,150.0,48.0,Argentina,Wrestling
+Kyle Lowry,M,30.0,183.0,93.0,USA,Basketball
+Marija Vraji,F,39.0,169.0,51.0,Croatia,Athletics
+Zbigniew Mateusz Baranowski,M,25.0,180.0,86.0,Poland,Wrestling
+Bernadette-Cynthia Szcs,F,21.0,159.0,48.0,Romania,Table Tennis
+Diego Botn Sanz de Sautuola Le Chever,M,22.0,183.0,81.0,Spain,Sailing
+Elina Mykhailivna Svitolina,F,21.0,174.0,60.0,Ukraine,Tennis
+Alice Ingley,F,23.0,172.0,80.0,Australia,Archery
+Padasak Tanviriyavechakul,M,20.0,168.0,60.0,Thailand,Table Tennis
+Fabiano Joseph Naasi,M,30.0,160.0,50.0,Tanzania,Athletics
+Wu Qiong,F,27.0,167.0,59.0,China,Hockey
+"Hindrik Harmannus Arnoldus ""Henk"" Grol",M,31.0,190.0,100.0,Netherlands,Judo
+Nile Wilson,M,20.0,166.0,60.0,UK,Gymnastics
+Louise Nelum Sandamali Sand,F,23.0,164.0,62.0,Sweden,Handball
+dm Tams Telegdy,M,20.0,194.0,77.0,Hungary,Swimming
+Vladislav Pavlovich Yakovlev,M,23.0,188.0,85.0,Kazakhstan,Rowing
+Keesja Kaia Gofers,F,26.0,176.0,64.0,Australia,Water Polo
+Sakiyo Asano,F,29.0,164.0,60.0,Japan,Hockey
+Terry Bouhraoua,M,28.0,169.0,65.0,France,Rugby Sevens
+Natalia del Carmen Romero Jaramillo,F,36.0,163.0,57.0,Chile,Athletics
+Marina Anatolyevna Aframeyeva,F,25.0,171.0,62.0,Russia,Equestrianism
+Cale Simmons,M,25.0,183.0,66.0,USA,Athletics
+Alphas Leken Kishoyian,M,21.0,167.0,59.0,Kenya,Athletics
+Habib de las Salas de la Rosa,M,29.0,159.0,56.0,Colombia,Weightlifting
+Mohammad Sanad,M,25.0,191.0,92.0,Egypt,Handball
+Michael Watt,M,29.0,178.0,79.0,Ireland,Hockey
+Gal Suter,M,24.0,176.0,70.0,Switzerland,Cycling
+Caroline Garcia,F,22.0,177.0,61.0,France,Tennis
+Paul Pollock,M,30.0,177.0,57.0,Ireland,Athletics
+Vladimir Vyacheslavovich Isakov,M,46.0,178.0,83.0,Russia,Shooting
+Chen Wen-Ling,F,21.0,175.0,69.0,Taiwan,Wrestling
+Gabrielle Mores da Silva,F,19.0,164.0,51.0,Brazil,Rhythmic Gymnastics
+Ignacio Amadeo Martn Goenaga,M,32.0,188.0,90.0,Spain,Rugby Sevens
+Nathan Flannery,M,23.0,189.0,85.0,New Zealand,Rowing
+Kim Kuk-Hyang,F,17.0,149.0,39.0,North Korea,Diving
+"Frederike Johanna Maria ""Femke"" Heemskerk",F,28.0,180.0,68.0,Netherlands,Swimming
+Luis Carlos Martnez Mndez,M,20.0,182.0,74.0,Guatemala,Swimming
+"Miraildes ""Formiga"" Maciel Mota",F,38.0,162.0,53.0,Brazil,Football
+Karsten Warholm,M,20.0,187.0,78.0,Norway,Athletics
+Lalita Vadimovna Milshina-Yauhleuskaya,F,52.0,158.0,64.0,Australia,Shooting
+Abdul Wahab Zahiri,M,24.0,175.0,68.0,Afghanistan,Athletics
+Zhanibek Alimkhanuly,M,23.0,182.0,75.0,Kazakhstan,Boxing
+"Samuel Anthony ""Sam"" Mikulak",M,23.0,165.0,64.0,USA,Gymnastics
+Maxemillion Kassman,M,18.0,175.0,62.0,Papua New Guinea,Taekwondo
+Alexandrina Cabral Barbosa,F,30.0,175.0,62.0,Spain,Handball
+Kame Ali,M,32.0,185.0,84.0,Madagascar,Athletics
+Hamad Ali Mohamed A Al-Attiyah,M,21.0,193.0,89.0,Qatar,Equestrianism
+Ryota Oshima,M,23.0,168.0,64.0,Japan,Football
+Giovana Prado Pass,F,18.0,167.0,59.0,Brazil,Equestrianism
+Luis Brethauer,M,23.0,176.0,82.0,Germany,Cycling
+Natasha Monique Hastings,F,30.0,173.0,68.0,USA,Athletics
+Tanel Laanme,M,26.0,183.0,95.0,Estonia,Athletics
+Porntip Buranaprasertsuk,F,24.0,165.0,61.0,Thailand,Badminton
+Frederik Rodenberg Madsen,M,18.0,187.0,73.0,Denmark,Cycling
+Nemanja Nedovi,M,25.0,191.0,90.0,Serbia,Basketball
+Romain Duguet,M,35.0,176.0,68.0,Switzerland,Equestrianism
+Sabina Asenjo lvarez,F,30.0,178.0,90.0,Spain,Athletics
+Mt Helebrandt,M,27.0,174.0,59.0,Hungary,Athletics
+Georgia Baker,F,21.0,179.0,66.0,Australia,Cycling
+Amalie Hammild Iuel,F,22.0,178.0,61.0,Norway,Athletics
+Kaftien Antoine Gomis,M,36.0,185.0,70.0,France,Athletics
+Juliano Ernani Malegreau Fiori,M,31.0,191.0,107.0,Brazil,Rugby Sevens
+Pau Vela Maggi,M,30.0,190.0,86.0,Spain,Rowing
+Pawe Koodziski,M,28.0,190.0,83.0,Poland,Sailing
+Mara Gabriela Daz,F,35.0,160.0,53.0,Argentina,Cycling
+Andrea Hlavkov,F,29.0,175.0,60.0,Czech Republic,Tennis
+Olha Hennadivna Kharlan,F,25.0,172.0,68.0,Ukraine,Fencing
+Aria Fischer,F,17.0,183.0,78.0,USA,Water Polo
+Jeon Hui-Suk,F,32.0,169.0,60.0,South Korea,Fencing
+Fernanda Nunes Leal Ferreira,F,31.0,163.0,58.0,Brazil,Rowing
+Maria Ugolkova,F,27.0,173.0,65.0,Switzerland,Swimming
+Zoi Kontogianni,F,18.0,165.0,47.0,Greece,Rhythmic Gymnastics
+Maor Tiyouri,F,25.0,148.0,44.0,Israel,Athletics
+Gabriela Perianu,F,22.0,187.0,80.0,Romania,Handball
+Shi Jinglin,F,23.0,175.0,68.0,China,Swimming
+"Michelle ""Shelley"" Pearson",F,25.0,177.0,70.0,Bermuda,Rowing
+Jade Uru,M,28.0,189.0,88.0,New Zealand,Rowing
+Andrs Mir Bel,M,29.0,180.0,75.0,Spain,Hockey
+Lauren Kieffer,F,29.0,178.0,68.0,USA,Equestrianism
+Yaime Prez Tellez,F,25.0,175.0,74.0,Cuba,Athletics
+Lisa Graf,F,23.0,183.0,69.0,Germany,Swimming
+Moritz Milatz,M,34.0,173.0,65.0,Germany,Cycling
+Irina Gennadyevnya Yakoltsevich (-Zhuk),F,23.0,166.0,60.0,Belarus,Athletics
+Kim Hye-Gyong,F,23.0,153.0,42.0,North Korea,Athletics
+Joanna Jwik,F,25.0,169.0,53.0,Poland,Athletics
+Agustina Paula Habif,F,24.0,165.0,55.0,Argentina,Hockey
+Jennifer Oeser,F,32.0,175.0,68.0,Germany,Athletics
+Hemza Haloui,M,22.0,180.0,96.0,Algeria,Wrestling
+Marthe Koala,F,22.0,177.0,69.0,Burkina Faso,Athletics
+Mara Branz,F,26.0,170.0,68.0,Argentina,Sailing
+Zhang Xiaoxue,F,23.0,162.0,51.0,China,Hockey
+Wu Jingyu,F,29.0,167.0,51.0,China,Taekwondo
+Yvette Broch,F,25.0,184.0,73.0,Netherlands,Handball
+Andrea Carolina Olaya Gutirrez,F,21.0,176.0,75.0,Colombia,Wrestling
+Anastasiya Aleksandrovna Yatsevich,F,31.0,158.0,48.0,Belarus,Athletics
+Flvia Maria de Lima,F,23.0,176.0,65.0,Brazil,Athletics
+Rafith Rodrguez Lleneres,M,27.0,190.0,75.0,Colombia,Athletics
+Taryn Suttie,F,25.0,183.0,103.0,Canada,Athletics
+Kitione Taliga,M,23.0,186.0,87.0,Fiji,Rugby Sevens
+Alexander Chen Massialas,M,22.0,188.0,81.0,USA,Fencing
+Ghislaine Landry,F,28.0,163.0,65.0,Canada,Rugby Sevens
+Marcelo Chierighini,M,25.0,190.0,86.0,Brazil,Swimming
+Petr Frydrych,M,28.0,200.0,100.0,Czech Republic,Athletics
+Lebenya Nkoka,M,33.0,,,Lesotho,Athletics
+Park Hae-Mi,F,26.0,168.0,55.0,South Korea,Shooting
+Semi Kunabuli Kunatani,M,25.0,192.0,98.0,Fiji,Rugby Sevens
+"Joshua ""Josh"" Kelly",M,22.0,178.0,69.0,UK,Boxing
+"Robert Timothy David ""Robby"" Smith",M,29.0,183.0,127.0,USA,Wrestling
+Victoria Folayan,F,31.0,165.0,73.0,USA,Rugby Sevens
+Nicol Ruprecht,F,23.0,170.0,55.0,Austria,Rhythmic Gymnastics
+rick Estefno Torres Padilla,M,23.0,180.0,68.0,Mexico,Football
+Hirooki Arai,M,28.0,180.0,62.0,Japan,Athletics
+Oumou Kalsoum Tour,F,28.0,189.0,86.0,Senegal,Basketball
+Maki Sakaguchi,F,27.0,158.0,56.0,Japan,Hockey
+Rafael Antonio Lacayo Paladino,M,17.0,178.0,59.0,Nicaragua,Shooting
+Thophile Onfroy,M,23.0,189.0,82.0,France,Rowing
+Ana Mara Rendn Martnez,F,30.0,160.0,63.0,Colombia,Archery
+Vitaly Vitalyevich Fokeyev,M,42.0,180.0,86.0,Russia,Shooting
+Aminat Oluwafunmilayo Adeniyi,F,23.0,165.0,58.0,Nigeria,Wrestling
+Maximilian Munski,M,28.0,195.0,96.0,Germany,Rowing
+Margherita Magnani,F,29.0,161.0,45.0,Italy,Athletics
+Haley Ruth Augello,F,21.0,157.0,54.0,USA,Wrestling
+Rka Gyrgy,F,20.0,175.0,56.0,Hungary,Swimming
+Choi In-Jeong,F,26.0,174.0,59.0,South Korea,Fencing
+Ane Marcelle Gomes dos Santos,F,22.0,153.0,53.0,Brazil,Archery
+Micah Makanamaikalani Christenson,M,23.0,198.0,86.0,USA,Volleyball
+Jasmina Jankovi,F,29.0,170.0,77.0,Netherlands,Handball
+Kasey Perry-Glass,F,28.0,163.0,59.0,USA,Equestrianism
+Jnis mdi,M,29.0,190.0,89.0,Latvia,Beach Volleyball
+Carlos Alberto Ramrez Yepes,M,22.0,178.0,65.0,Colombia,Cycling
+Ray Bassil,F,27.0,175.0,65.0,Lebanon,Shooting
+Kyle Stolk,M,20.0,186.0,84.0,Netherlands,Swimming
+Xu Yunli,F,29.0,195.0,75.0,China,Volleyball
+ngel Lpez Vzquez,M,24.0,172.0,83.0,Spain,Rugby Sevens
+Antoine Duchesne,M,24.0,189.0,73.0,Canada,Cycling
+Dan Froyliche,M,23.0,182.0,73.0,Israel,Sailing
+Andranik Karapetyan,M,20.0,180.0,77.0,Armenia,Weightlifting
+Tobias Scherbarth,M,30.0,195.0,87.0,Germany,Athletics
+Dara Tamer Mahmoud Hassanien,F,20.0,169.0,59.0,Egypt,Synchronized Swimming
+"Rosemary Eleanor Florence ""Rosie"" White",F,23.0,165.0,63.0,New Zealand,Football
+Liu Tingting,F,26.0,178.0,77.0,China,Athletics
+Jinson Johnson,M,25.0,,,India,Athletics
+Thulasi Tharumalingam,M,23.0,178.0,64.0,Qatar,Boxing
+Matas Carlos Schulz,M,34.0,190.0,88.0,Argentina,Handball
+Silvio Heinevetter,M,31.0,194.0,99.0,Germany,Handball
+Pedro Abraham Rangel Hernndez,M,27.0,192.0,85.0,Mexico,Volleyball
+Dilara Lokmanhekim,F,22.0,165.0,48.0,Turkey,Judo
+Shakur Stevenson,M,19.0,173.0,56.0,USA,Boxing
+Leydi Yesenia Sols Arboleda,F,26.0,168.0,69.0,Colombia,Weightlifting
+Bilel Al-Mhamdi,M,24.0,176.0,56.0,Tunisia,Boxing
+April Elizabeth Ross,F,34.0,185.0,75.0,USA,Beach Volleyball
+Eleanor Patterson,F,20.0,182.0,65.0,Australia,Athletics
+Manuela Pizzo,F,24.0,177.0,73.0,Argentina,Handball
+Berik Abdrakhmanov,M,30.0,165.0,60.0,Kazakhstan,Boxing
+Domenico Montrone,M,30.0,189.0,97.0,Italy,Rowing
+Steffi Kriegerstein,F,23.0,178.0,70.0,Germany,Canoeing
+Rachel Tallent,F,23.0,167.0,54.0,Australia,Athletics
+Rababe Arafi,F,25.0,167.0,52.0,Morocco,Athletics
+Arisa Sato,F,27.0,164.0,52.0,Japan,Volleyball
+Katherine Jane Grainger,F,40.0,183.0,78.0,UK,Rowing
+Sofia Assefa Abebe,F,28.0,167.0,52.0,Ethiopia,Athletics
+Emiliano Lasa Snchez,M,26.0,180.0,75.0,Uruguay,Athletics
+Gao Yang,F,23.0,178.0,105.0,China,Athletics
+Theresa Matauaina Fitzpatrick,F,21.0,168.0,75.0,New Zealand,Rugby Sevens
+Frederik Lindbg Brsting,M,21.0,184.0,78.0,Denmark,Football
+Abdulrahman Al-Faihan,M,30.0,,,Individual Olympic Athletes,Shooting
+Kana Mitsugi,F,24.0,172.0,72.0,Japan,Rugby Sevens
+Philipp Pflieger,M,29.0,188.0,70.0,Germany,Athletics
+Muriel Coneo Paredes,F,29.0,160.0,50.0,Colombia,Athletics
+Nyakisi Adero,F,30.0,,,Uganda,Athletics
+Vladimer Khinchegashvili,M,25.0,170.0,57.0,Georgia,Wrestling
+Rei Higuchi,M,20.0,163.0,63.0,Japan,Wrestling
+Chay Crista Kerio Cullen,F,30.0,182.0,74.0,UK,Hockey
+"Nwanyika Jenete C. ""Anyika"" Onuora",F,31.0,178.0,76.0,UK,Athletics
+"Olivia Elizabeth ""Polly"" Powrie",F,28.0,173.0,70.0,New Zealand,Sailing
+Kerron Stephon Clement,M,30.0,188.0,86.0,USA,Athletics
+Elijah Motonei Manangoi,M,23.0,182.0,64.0,Kenya,Athletics
+Yi Jianlian,M,28.0,213.0,113.0,China,Basketball
+Benjamin Toniutti,M,26.0,183.0,73.0,France,Volleyball
+"Mitchell ""Mitch"" Iles-Crevatin",M,17.0,178.0,,Australia,Shooting
+Vladlena Eduardovna Bobrovnikova,F,28.0,180.0,72.0,Russia,Handball
+Pedro Miguel Alves Pinotes,M,26.0,185.0,70.0,Angola,Swimming
+"Alexander John ""Alex"" Gregory",M,32.0,198.0,97.0,UK,Rowing
+Lisanne de Witte,F,23.0,175.0,60.0,Netherlands,Athletics
+Rafael Carlos da Silva,M,29.0,203.0,160.0,Brazil,Judo
+Mark English,M,23.0,187.0,76.0,Ireland,Athletics
+Brandon Schuster,M,18.0,188.0,75.0,Samoa,Swimming
+Luvo Manyonga,M,25.0,,,South Africa,Athletics
+Sachi Mochida,F,17.0,166.0,58.0,Japan,Swimming
+Cyril Graff,M,35.0,170.0,64.0,France,Shooting
+Lily Isabelle Owsley,F,21.0,170.0,70.0,UK,Hockey
+Chiang Hung-Chieh,M,27.0,180.0,70.0,Taiwan,Table Tennis
+Natalia Rutkowska,F,25.0,162.0,56.0,Poland,Cycling
+Sarah de Oliveira Nikitin,F,27.0,170.0,75.0,Brazil,Archery
+Carlin Russell Isles,M,26.0,173.0,75.0,USA,Rugby Sevens
+Wuta Waco Bige Dombaxi,F,30.0,180.0,92.0,Angola,Handball
+Francesco Lamon,M,22.0,173.0,60.0,Italy,Cycling
+Yuliya Rakhmanova,F,24.0,177.0,69.0,Kazakhstan,Athletics
+Conlin McCabe,M,25.0,205.0,100.0,Canada,Rowing
+Flvia Maria de Oliveira Paparella,F,34.0,156.0,46.0,Brazil,Cycling
+Danny Chia,M,43.0,170.0,75.0,Malaysia,Golf
+Ferenc Szekszrdi,M,36.0,178.0,79.0,Australia,Canoeing
+Dipa Karmakar,F,22.0,151.0,47.0,India,Gymnastics
+Juan Sebastin Cabal Valds,M,30.0,185.0,82.0,Colombia,Tennis
+Cem Ylmaz,M,34.0,180.0,70.0,Turkey,Rowing
+Jaime Daniel Quiyuch Castaeda,M,28.0,178.0,63.0,Guatemala,Athletics
+Dilshod Nazarov,M,34.0,187.0,120.0,Tajikistan,Athletics
+Monica Niculescu,F,28.0,168.0,63.0,Romania,Tennis
+Jeremy Taiwo,M,26.0,193.0,91.0,USA,Athletics
+Mustafa Kaya,M,24.0,164.0,65.0,Turkey,Wrestling
+Ron Atias,M,21.0,170.0,58.0,Israel,Taekwondo
+Mariya Mykolavna Povkh,F,27.0,166.0,64.0,Ukraine,Canoeing
+Yeseida Isaid Carrillo Torres,F,22.0,168.0,52.0,Colombia,Athletics
+Sandi Morris,F,24.0,173.0,62.0,USA,Athletics
+Gudrun Stock,F,21.0,168.0,62.0,Germany,Cycling
+Rebeca Rodrigues de Andrade,F,17.0,151.0,46.0,Brazil,Gymnastics
+Gayle Broughton,F,20.0,174.0,70.0,New Zealand,Rugby Sevens
+Trevor George Barry,M,33.0,190.0,77.0,Bahamas,Athletics
+Shahram Mahmoudi,M,28.0,198.0,95.0,Iran,Volleyball
+Cyril Tommasone,M,29.0,171.0,63.0,France,Gymnastics
+William Lockwood,M,28.0,191.0,88.0,Australia,Rowing
+Clare Abbott,F,30.0,167.0,58.0,Ireland,Equestrianism
+Francesca Dallap,F,30.0,163.0,57.0,Italy,Diving
+Ajna Evelin Ksely,F,14.0,165.0,54.0,Hungary,Swimming
+Orsolya Takcs,F,31.0,190.0,83.0,Hungary,Water Polo
+Ilya Anatolyevich Shtokalov,M,29.0,185.0,95.0,Russia,Canoeing
+Hamza Bouras,M,28.0,170.0,73.0,Algeria,Sailing
+Ihor Myronovych Shymechko,M,30.0,197.0,136.0,Ukraine,Weightlifting
+Stephenie Ann McPherson,F,27.0,173.0,57.0,Jamaica,Athletics
+Heather Bansley,F,28.0,170.0,66.0,Canada,Beach Volleyball
+Vladimir Aleksandrovich Goncharov,M,39.0,167.0,59.0,Russia,Shooting
+John dison Rodrguez Quevedo,M,25.0,205.0,102.0,Colombia,Fencing
+Anthony Joseph Prez Cortesia,M,22.0,205.0,93.0,Venezuela,Basketball
+Attapon Uea-Aree,M,26.0,175.0,78.0,Thailand,Shooting
+Filipe Baravilala,M,21.0,170.0,74.0,Fiji,Football
+"Akalaini ""Bui"" Baravilala",F,25.0,168.0,75.0,USA,Rugby Sevens
+Cyrus Dean Hostetler,M,29.0,188.0,95.0,USA,Athletics
+Caroline Wozniacki,F,26.0,179.0,58.0,Denmark,Tennis
+Viktria Madarsz,F,31.0,158.0,44.0,Hungary,Athletics
+Filip Dvok,M,28.0,189.0,89.0,Czech Republic,Canoeing
+Liam Adams,M,29.0,178.0,64.0,Australia,Athletics
+Christine Margaret Sinclair,F,33.0,176.0,75.0,Canada,Football
+Kentin Mah,M,25.0,186.0,83.0,France,Handball
+Bahar alar,F,27.0,190.0,76.0,Turkey,Basketball
+Martn Ramos,M,24.0,197.0,94.0,Argentina,Volleyball
+Elas Javier Malav Burgos ,M,26.0,180.0,87.0,Venezuela,Archery
+Fernanda Raquel Borges Martins,F,28.0,175.0,85.0,Brazil,Athletics
+Nicols Brussino,M,23.0,200.0,84.0,Argentina,Basketball
+ider Orlando Arvalo Truque,M,23.0,165.0,60.0,Colombia,Athletics
+Rafael Alcntara do Nascimento,M,23.0,172.0,65.0,Brazil,Football
+Yousra Helmy,F,20.0,165.0,50.0,Egypt,Table Tennis
+Morten Olsen,M,31.0,184.0,95.0,Denmark,Handball
+Liang Xiaojing,F,19.0,156.0,48.0,China,Athletics
+Abbubaker Mobara,M,22.0,175.0,64.0,South Africa,Football
+Tina Miheli,F,27.0,176.0,66.0,Croatia,Sailing
+Marcelle Cecilia Bouele Bondo,F,23.0,166.0,60.0,Republic of Congo,Athletics
+Debora Louise Seilhamer Anadon,F,30.0,166.0,61.0,Puerto Rico,Volleyball
+Ian Borrows,M,26.0,186.0,78.0,Australia,Canoeing
+Zhang Nan,M,26.0,183.0,75.0,China,Badminton
+Charlene Woitha,F,22.0,178.0,77.0,Germany,Athletics
+Arya Nasimi Shad,M,16.0,187.0,68.0,Iran,Swimming
+Eugenie Bouchard,F,22.0,178.0,58.0,Canada,Tennis
+Oleksandr Yuriyovych Pielieshenko,M,22.0,170.0,85.0,Ukraine,Weightlifting
+Nicole Broch Larsen,F,23.0,179.0,75.0,Denmark,Golf
+Bror Mikael Tobias Karlsson,M,35.0,196.0,104.0,Sweden,Handball
+Carolena Jean Carstens Salceda,F,20.0,168.0,57.0,Panama,Taekwondo
+Courtney Lyn Hurley,F,25.0,173.0,80.0,USA,Fencing
+Caroline Buchanan,F,25.0,165.0,68.0,Australia,Cycling
+Olim Kurbanov,M,18.0,186.0,69.0,Tajikistan,Swimming
+Jhonattan Vegas,M,31.0,191.0,100.0,Venezuela,Golf
+Shim Jung-Sub,M,25.0,168.0,58.0,South Korea,Athletics
+Mehboob Ali,M,26.0,,,Pakistan,Athletics
+Danuta Kozk,F,29.0,168.0,63.0,Hungary,Canoeing
+Mariam Usman,F,25.0,166.0,112.0,Nigeria,Weightlifting
+Thiagus Petrus Gonalves dos Santos,M,27.0,198.0,104.0,Brazil,Handball
+Nicolas d'Oriano,M,19.0,175.0,68.0,France,Swimming
+Gregory Maxdier Vargas Diaz,M,30.0,182.0,90.0,Venezuela,Basketball
+Charles Lawrence Somerset Clarke,M,26.0,187.0,77.0,UK,Athletics
+Alexandros Gounas,M,26.0,179.0,73.0,Greece,Water Polo
+Popoola Sodiq Saliu,M,21.0,170.0,51.0,Nigeria,Football
+Phara Anacharsis,F,32.0,177.0,58.0,France,Athletics
+Lorne Dorcas Bazolo,F,33.0,170.0,60.0,Portugal,Athletics
+Dominykas Janionis,M,23.0,192.0,95.0,Lithuania,Rowing
+Macarena Gandulfo,F,22.0,174.0,73.0,Argentina,Handball
+Marko Carrillo Zevallos,M,28.0,184.0,75.0,Peru,Shooting
+Dejan Paji,M,26.0,178.0,78.0,Serbia,Canoeing
+Dmitry Anatolyevich Plotnitsky,M,27.0,191.0,83.0,Belarus,Athletics
+Peter Sagan,M,26.0,182.0,79.0,Slovakia,Cycling
+Paola Andrea Muoz Grandn,F,30.0,164.0,54.0,Chile,Cycling
+lvaro de Arriba Lpez,M,22.0,177.0,69.0,Spain,Athletics
+Georgina Klug,F,32.0,172.0,63.0,Argentina,Beach Volleyball
+Richrd Bohus,M,23.0,187.0,81.0,Hungary,Swimming
+Orane Maria Lechenault,F,15.0,144.0,37.0,France,Gymnastics
+Zsfia Kovcs,F,16.0,157.0,48.0,Hungary,Gymnastics
+Alexej Prochorow,M,26.0,191.0,135.0,Germany,Weightlifting
+David John Condon,M,25.0,180.0,79.0,UK,Hockey
+Mrio Jos dos Santos Jnior,M,36.0,171.0,60.0,Brazil,Athletics
+Alina Yanivna Fodorova,F,27.0,175.0,70.0,Ukraine,Athletics
+Aleksandr Aleksandrov,M,26.0,189.0,93.0,Azerbaijan,Rowing
+"Cynthia ""Janay"" DeLoach (-Soukup)",F,30.0,166.0,58.0,USA,Athletics
+Sahit Prizreni,M,34.0,166.0,65.0,Australia,Wrestling
+Emmanuel Lebesson,M,28.0,180.0,75.0,France,Table Tennis
+Zurabi Datunashvili,M,25.0,183.0,75.0,Georgia,Wrestling
+Mara Prez,F,27.0,167.0,69.0,Puerto Rico,Judo
+Yelena Stepanovna Levchenko,F,33.0,195.0,86.0,Belarus,Basketball
+Vill Gyngyvr Kormos,F,28.0,170.0,60.0,Hungary,Diving
+Kelly Massey,F,31.0,178.0,57.0,UK,Athletics
+Lin Xiyu,F,20.0,168.0,65.0,China,Golf
+Ines Al-Gmati,F,19.0,165.0,70.0,Tunisia,Sailing
+Benjamin Waterhouse,M,31.0,172.0,71.0,American Samoa,Judo
+Damar Hopeton Forbes,M,25.0,188.0,80.0,Jamaica,Athletics
+Mariya Vladimirovna Shurochkina,F,21.0,164.0,48.0,Russia,Synchronized Swimming
+Andressa Alves da Silva,F,23.0,168.0,56.0,Brazil,Football
+Louisa Ncib-Cadamuro,F,29.0,168.0,56.0,France,Football
+Simon Gauzy,M,21.0,182.0,77.0,France,Table Tennis
+Giulia Conti,F,28.0,173.0,62.0,Italy,Sailing
+Rodrigo Steimbach Silva,M,20.0,161.0,59.0,Brazil,Hockey
+"Martilou ""Marti"" Malloy",F,30.0,161.0,58.0,USA,Judo
+Thomas William Fraser-Holmes,M,24.0,194.0,85.0,Australia,Swimming
+Daniele Meucci,M,30.0,178.0,64.0,Italy,Athletics
+Oussama Mellouli,M,32.0,192.0,84.0,Tunisia,Swimming
+Svetlana Mikhaylovna Chimrova,F,20.0,173.0,61.0,Russia,Swimming
+Evans Chebet Kiplagat Barkowet,M,28.0,170.0,60.0,Azerbaijan,Athletics
+Bojan Toki,M,35.0,178.0,76.0,Slovenia,Table Tennis
+Eloise Wellings (Poppet-),F,33.0,172.0,52.0,Australia,Athletics
+Emil Larsen,M,25.0,183.0,79.0,Denmark,Football
+David Katoatau,M,32.0,170.0,103.0,Kiribati,Weightlifting
+Lois Abbingh,F,23.0,178.0,72.0,Netherlands,Handball
+Linda Fahrni,F,23.0,157.0,56.0,Switzerland,Sailing
+Ryohei Arai,M,25.0,183.0,96.0,Japan,Athletics
+Cristian Gabriel Poglajen,M,27.0,195.0,94.0,Argentina,Volleyball
+pela Ponomarenko Jani,F,34.0,169.0,65.0,Slovenia,Canoeing
+"Alvaro Affonso ""Doda"" de Miranda Neto",M,43.0,186.0,86.0,Brazil,Equestrianism
+Jang Geum-Young,F,36.0,163.0,51.0,South Korea,Shooting
+Michele Benedetti,M,31.0,175.0,68.0,Italy,Diving
+Joachim Bottieau,M,27.0,180.0,81.0,Belgium,Judo
+Ruby Tew,F,22.0,181.0,76.0,New Zealand,Rowing
+Giovani Lo Celso,M,20.0,177.0,70.0,Argentina,Football
+Kim Jin-Yi,F,23.0,179.0,82.0,South Korea,Handball
+Steele Alexander Johnson,M,20.0,188.0,80.0,USA,Diving
+Karen Charles (Cope-),F,30.0,173.0,60.0,Costa Rica,Beach Volleyball
+Naomi Flood,F,30.0,175.0,78.0,Australia,Canoeing
+Peter Gelle,M,31.0,183.0,82.0,Slovakia,Canoeing
+Mima Ito,F,15.0,150.0,45.0,Japan,Table Tennis
+Kim Hyun-Ji,F,22.0,170.0,52.0,South Korea,Hockey
+He Jianbin,M,23.0,188.0,83.0,China,Swimming
+Oksana Vasylivna Herhel,F,22.0,164.0,58.0,Ukraine,Wrestling
+Rebecca Quinn,F,20.0,176.0,66.0,Canada,Football
+Jang Su-Ji,F,28.0,164.0,57.0,South Korea,Hockey
+Gabriella Al-Doueihy,F,17.0,,,Lebanon,Swimming
+Radoslava Yankova Mavrodieva,F,29.0,176.0,94.0,Bulgaria,Athletics
+Franco Peru Donato,M,34.0,165.0,64.0,Egypt,Shooting
+Pau Gaspar Tonnesen Ricart,M,23.0,185.0,77.0,Spain,Athletics
+Liam Bertazzo,M,24.0,185.0,70.0,Italy,Cycling
+Mirza Bai,M,25.0,188.0,87.0,Bosnia and Herzegovina,Tennis
+Sergey Richter,M,27.0,180.0,83.0,Israel,Shooting
+Robert Baran,M,24.0,186.0,103.0,Poland,Wrestling
+Marta Puda,F,25.0,172.0,59.0,Poland,Fencing
+Cathrine Dufour,F,24.0,170.0,68.0,Denmark,Equestrianism
+Leonardo Facundo Querin,M,34.0,197.0,105.0,Argentina,Handball
+Yuka Takashima,F,28.0,153.0,39.0,Japan,Athletics
+Jonathan Alan Smith,M,24.0,195.0,93.0,South Africa,Rowing
+Yannick Kser,M,24.0,186.0,81.0,Switzerland,Swimming
+Stavroula Samara,F,22.0,175.0,53.0,Greece,Rhythmic Gymnastics
+Haruka Tachimoto,F,26.0,168.0,70.0,Japan,Judo
+Anna Korakaki,F,20.0,175.0,65.0,Greece,Shooting
+Mara Lucila Pascua Surez,F,33.0,196.0,93.0,Spain,Basketball
+Erik Tysse,M,35.0,190.0,70.0,Norway,Athletics
+Roco Gutirrez Sierra,F,31.0,162.0,61.0,Spain,Hockey
+Afrodite Zegers (Kyranakou-),F,24.0,161.0,58.0,Netherlands,Sailing
+"Lauren Zoe ""Laurie"" Hernandez",F,16.0,152.0,49.0,USA,Gymnastics
+Coralie Balmy,F,29.0,180.0,67.0,France,Swimming
+Simon Werro,M,26.0,178.0,74.0,Switzerland,Canoeing
+Hanna Serhivna Titimets,F,27.0,173.0,63.0,Ukraine,Athletics
+Hicham Bouchicha,M,27.0,182.0,64.0,Algeria,Athletics
+Noshad Alamian Darounkolaei,M,24.0,170.0,67.0,Iran,Table Tennis
+Ryu Seung-Woo,M,22.0,172.0,67.0,South Korea,Football
+Anne Zagr,F,26.0,176.0,68.0,Belgium,Athletics
+Kiplangat Sang,M,35.0,175.0,90.0,Kenya,Judo
+Pernille Blume,F,22.0,170.0,58.0,Denmark,Swimming
+Gunta Latieva-udare,F,21.0,178.0,68.0,Latvia,Athletics
+Maja Ognjenovi,F,31.0,183.0,67.0,Serbia,Volleyball
+Fabienne In-Albon,F,29.0,164.0,63.0,Switzerland,Golf
+Shao Jieni,F,22.0,169.0,64.0,Portugal,Table Tennis
+Mamadou Kasse Hanne,M,29.0,189.0,79.0,France,Athletics
+Arleta Podolak,F,22.0,160.0,60.0,Poland,Judo
+John Collins,M,27.0,192.0,95.0,UK,Rowing
+"Stephen ""Steve"" Kasprzyk",M,34.0,201.0,103.0,USA,Rowing
+Pavel Pavlovich Eygel,M,26.0,178.0,81.0,Russia,Canoeing
+Siripon Kaewduang-Ngam,F,22.0,167.0,50.0,Thailand,Sailing
+Georgia Bohl,F,19.0,167.0,54.0,Australia,Swimming
+Felipe Perrone Rocha,M,30.0,183.0,95.0,Brazil,Water Polo
+Ondej Synek,M,33.0,199.0,105.0,Czech Republic,Rowing
+Audrey Cordon (-Ragot),F,26.0,170.0,60.0,France,Cycling
+douard Joseph,M,26.0,152.0,53.0,Haiti,Weightlifting
+Maja Mihalinec,F,26.0,175.0,65.0,Slovenia,Athletics
+Christopher George,M,32.0,,,Trinidad,Judo
+Halima Nakaayi,F,21.0,,,Uganda,Athletics
+Fernando Alarza Vicente,M,25.0,178.0,67.0,Spain,Triathlon
+Deividas Margeviius,M,21.0,187.0,80.0,Lithuania,Swimming
+Moritz Moos,M,22.0,176.0,71.0,Germany,Rowing
+"Alejandro ""lex"" Abrines Redondo",M,23.0,198.0,93.0,Spain,Basketball
+Irak'li Revishvili,M,26.0,178.0,77.0,Georgia,Swimming
+Nour El-Ayoubi,F,19.0,167.0,58.0,Egypt,Synchronized Swimming
+Joel Gonzlez Bonilla,M,26.0,185.0,68.0,Spain,Taekwondo
+Adama Jammeh,M,23.0,,,Gambia,Athletics
+Facundo Callioni,M,30.0,183.0,77.0,Argentina,Hockey
+Laura Lindemann,F,20.0,168.0,57.0,Germany,Triathlon
+Giorgio Avola,M,27.0,178.0,72.0,Italy,Fencing
+Cao Shuo,M,24.0,180.0,77.0,China,Athletics
+Houry A. Gebeshian,F,27.0,152.0,48.0,Armenia,Gymnastics
+Rami Antero Hietaniemi,M,33.0,180.0,92.0,Finland,Wrestling
+Katie Lauren Clark,F,22.0,168.0,52.0,UK,Synchronized Swimming
+Mirosaw Zitarski,M,22.0,190.0,90.0,Poland,Rowing
+Aleksandr Aleksandrovich Bryukhankov,M,29.0,184.0,79.0,Russia,Triathlon
+He Wenna,F,27.0,160.0,50.0,China,Trampolining
+Gonzalo Molina,M,21.0,178.0,83.0,Argentina,Cycling
+Aki Yazawa,F,24.0,156.0,50.0,Japan,Canoeing
+Kyle Gie Brown,M,29.0,182.0,92.0,South Africa,Rugby Sevens
+Alberto Ignacio Palmetta,M,26.0,175.0,64.0,Argentina,Boxing
+Bian Ka,F,23.0,182.0,115.0,China,Athletics
+Denisa erbova-Rosolov,F,29.0,175.0,63.0,Czech Republic,Athletics
+Robin Neumann,F,18.0,173.0,63.0,Netherlands,Swimming
+Glenn Ochal,M,30.0,194.0,95.0,USA,Rowing
+Luigi Agostino Lodde,M,36.0,170.0,79.0,Italy,Shooting
+Adrian Bocki,M,26.0,174.0,62.0,Poland,Athletics
+Rudy Gobert-Bourgarel,M,24.0,215.0,113.0,France,Basketball
+Andrea Petkovic,F,28.0,180.0,69.0,Germany,Tennis
+Ketija Birzule,F,17.0,164.0,60.0,Latvia,Sailing
+Sagi Aharon Muki,M,24.0,180.0,73.0,Israel,Judo
+Dewi Yuliawati,F,19.0,166.0,65.0,Indonesia,Rowing
+Yennifer Mariana Csar Salazar,F,27.0,159.0,57.0,Venezuela,Cycling
+Saif Bin Futtais,M,42.0,174.0,90.0,United Arab Emirates,Shooting
+Mark David Aldred,M,29.0,188.0,71.0,UK,Rowing
+Eirini Vasileiou,F,26.0,169.0,58.0,Greece,Athletics
+Josu Brachi Garca,M,23.0,156.0,56.0,Spain,Weightlifting
+Laurine van Riessen,F,28.0,167.0,63.0,Netherlands,Cycling
+Aleksi Mikael Ojala,M,23.0,180.0,62.0,Finland,Athletics
+Bae Yoo-Na,F,26.0,182.0,66.0,South Korea,Volleyball
+Ned Justeen Azemia,M,18.0,177.0,65.0,Seychelles,Athletics
+Jrmie Mion,M,27.0,187.0,74.0,France,Sailing
+"Timothy ""Tim"" Shuttleworth",M,19.0,192.0,72.0,UK,Swimming
+Kwan Kit Ho,M,19.0,178.0,66.0,China,Table Tennis
+Erin Nicole Nayler,F,24.0,177.0,67.0,New Zealand,Football
+Kelly Russell,F,29.0,178.0,83.0,Canada,Rugby Sevens
+Karim Emad El-Sayed,M,21.0,183.0,87.0,Egypt,Canoeing
+Alex Rose,M,24.0,,,Samoa,Athletics
+Camilla Hattersley,F,21.0,174.0,59.0,UK,Swimming
+Abdelkebir Ouaddar,M,54.0,174.0,67.0,Morocco,Equestrianism
+Daviti Kharazishvili,M,24.0,171.0,68.0,Georgia,Athletics
+Cristian Alexis Borja Gonzalz,M,23.0,179.0,72.0,Colombia,Football
+Tijana Bogdanovi,F,18.0,172.0,52.0,Serbia,Taekwondo
+Federico Grabich,M,26.0,193.0,92.0,Argentina,Swimming
+Edgar Roberto Crespo Echeverra,M,27.0,170.0,60.0,Panama,Swimming
+Sean Ryan,M,23.0,191.0,77.0,USA,Swimming
+Florian Carvalho,M,27.0,183.0,70.0,France,Athletics
+Ioannis Khristou,M,33.0,190.0,92.0,Greece,Rowing
+Aleksandra Viktorovna Gerasimenya,F,30.0,175.0,60.0,Belarus,Swimming
+Amadou Ndiaye,M,23.0,180.0,80.0,Senegal,Athletics
+Teddy H. Atine-Venel,M,31.0,184.0,77.0,France,Athletics
+Li Zhuhao,M,17.0,183.0,73.0,China,Swimming
+Nichelle Prince,F,21.0,163.0,65.0,Canada,Football
+Randy Jos Ler Bell,M,20.0,173.0,72.0,Cuba,Gymnastics
+Moiss Daniel Hernndez Encarnacin,M,23.0,191.0,79.0,Dominican Republic,Taekwondo
+Kathryn Slattery,F,23.0,173.0,68.0,Australia,Hockey
+Kristina Kuusk,F,30.0,180.0,74.0,Estonia,Fencing
+Shiho Nishioka,F,27.0,169.0,60.0,Japan,Fencing
+Leydi Laura Moya Lpez,F,24.0,170.0,68.0,Cuba,Modern Pentathlon
+Juan Diego Turcios Melgar,M,23.0,179.0,81.0,El Salvador,Judo
+"Yin Yan ""Claudia"" Lau",F,23.0,160.0,56.0,China,Swimming
+Dmitry Olegovich Larionov,M,30.0,185.0,84.0,Russia,Canoeing
+Salim Keddar,M,22.0,176.0,65.0,Algeria,Athletics
+Erin Rafuse,F,27.0,173.0,60.0,Canada,Sailing
+Rafael Oliveira Andrade,M,30.0,168.0,58.0,Brazil,Trampolining
+Laura Graves,F,29.0,173.0,55.0,USA,Equestrianism
+Glnabat Kadyrowa,F,22.0,165.0,69.0,Turkmenistan,Weightlifting
+Sharath Kamal Achanta,M,34.0,186.0,85.0,India,Table Tennis
+Nils Jakob Skulstad Hoff,M,31.0,199.0,95.0,Norway,Rowing
+Ewelina Wojnarowska,F,29.0,171.0,72.0,Poland,Canoeing
+Joris Pijs,M,29.0,186.0,70.0,Netherlands,Rowing
+Enrico D'Aniello,M,20.0,152.0,53.0,Italy,Rowing
+Myint Swe Li,F,23.0,168.0,55.0,Myanmar,Athletics
+Sania Mirza,F,29.0,173.0,57.0,India,Tennis
+Ana Sofia Nbrega,F,25.0,174.0,70.0,Angola,Swimming
+Oumar Tour,M,20.0,159.0,57.0,Mali,Swimming
+Dilshodzhon Turdiyev,M,24.0,172.0,75.0,Uzbekistan,Wrestling
+Ivan Oleksiyovych Ivanov,M,27.0,183.0,67.0,Ukraine,Triathlon
+Sardorbek Dusmurotov,M,23.0,168.0,110.0,Uzbekistan,Weightlifting
+Marcel Hacker,M,39.0,196.0,101.0,Germany,Rowing
+Rustam Dzhangabayev,M,22.0,183.0,147.0,Uzbekistan,Weightlifting
+Mareike Adams,F,26.0,174.0,73.0,Germany,Rowing
+Heorhiy Malkhazovych Zantaraia,M,28.0,171.0,66.0,Ukraine,Judo
+Casper Mrup Nielsen,M,22.0,180.0,70.0,Denmark,Football
+Abdullah Hel Baki,M,27.0,170.0,82.0,Bangladesh,Shooting
+Sbastien Martiny,M,31.0,172.0,65.0,France,Trampolining
+Yang Li,F,25.0,167.0,58.0,China,Football
+Diana Bacosi,F,33.0,175.0,85.0,Italy,Shooting
+Alex Maxwell Garca Mendoza,M,23.0,186.0,110.0,Cuba,Judo
+Mamadama Bangoura,F,22.0,176.0,63.0,Guinea,Judo
+Mattias Karlsson,M,24.0,191.0,88.0,Sweden,Table Tennis
+Chau Hoi Wah,F,30.0,165.0,61.0,China,Badminton
+Olga Yevgenyevna Bludova-Safronova,F,24.0,171.0,62.0,Kazakhstan,Athletics
+Nia Sifaatihii Ali,F,27.0,170.0,65.0,USA,Athletics
+Milly Clark,F,27.0,,,Australia,Athletics
+Dominic Dugasse,M,31.0,188.0,99.0,Seychelles,Judo
+Ronald Rauhe,M,34.0,179.0,82.0,Germany,Canoeing
+"Angela Kate ""Angie"" Petty (Smit-)",F,24.0,168.0,57.0,New Zealand,Athletics
+Keri-Anne Payne (-Carry),F,28.0,177.0,66.0,UK,Swimming
+Ander Elosegi Alkain,M,28.0,186.0,80.0,Spain,Canoeing
+Grace Stewart,F,19.0,175.0,68.0,Australia,Hockey
+Aron Kipchumba Koech,M,26.0,190.0,76.0,Kenya,Athletics
+Segun Moses Toriola,M,41.0,182.0,70.0,Nigeria,Table Tennis
+Graham Vigrass,M,27.0,205.0,97.0,Canada,Volleyball
+Eva Calvo Gmez,F,25.0,176.0,57.0,Spain,Taekwondo
+Igor Pawe Jakubowski,M,23.0,184.0,91.0,Poland,Boxing
+Mangala Samarakoon,M,35.0,162.0,60.0,Sri Lanka,Shooting
+Bedan Karoki Muchiri,M,25.0,170.0,54.0,Kenya,Athletics
+Lee Sang-Su,M,25.0,180.0,69.0,South Korea,Table Tennis
+Martin Kupper,M,27.0,198.0,119.0,Estonia,Athletics
+Stephanie Devaux-Lovell,F,20.0,160.0,62.0,Saint Lucia,Sailing
+Charlotte Susan Jane Dujardin,F,31.0,170.0,57.0,UK,Equestrianism
+Erin Victoria Phillips,F,31.0,173.0,70.0,Australia,Basketball
+Paula Cristina de Arajo Gonalves,F,25.0,173.0,68.0,Brazil,Tennis
+Soundarajan Arokia Rajiv,M,25.0,175.0,65.0,India,Athletics
+Askale Tiksa Benti,F,22.0,165.0,52.0,Ethiopia,Athletics
+"Wouter ""Wout"" Poels",M,28.0,186.0,67.0,Netherlands,Cycling
+"Christopher James ""Chris"" Walker-Hebborn",M,26.0,184.0,84.0,UK,Swimming
+Taha Akgl,M,25.0,192.0,125.0,Turkey,Wrestling
+"Benjamin Ross ""Ben"" Proud",M,21.0,185.0,92.0,UK,Swimming
+Mathews Punza,M,28.0,170.0,66.0,Zambia,Judo
+"Kimberly Ann ""Kim"" Smith-Gaucher",F,32.0,182.0,72.0,Canada,Basketball
+Charles Lombahe-Kahudi,M,30.0,197.0,104.0,France,Basketball
+Nwal-Endn Miyem,F,28.0,188.0,87.0,France,Basketball
+Lara Vadlau,F,22.0,165.0,56.0,Austria,Sailing
+Gabriela Stoeva,F,22.0,169.0,63.0,Bulgaria,Badminton
+Mohamed Ali Abdelaal,M,26.0,175.0,81.0,Egypt,Judo
+Leidys Milagros Brito,F,32.0,169.0,52.0,Venezuela,Archery
+"Christopher ""Chris"" Harris",M,30.0,187.0,89.0,New Zealand,Rowing
+Yasuhiro Koseki,M,24.0,188.0,80.0,Japan,Swimming
+Milo Vasi,M,25.0,196.0,94.0,Serbia,Rowing
+Darya Sergeyevna Kasatkina,F,19.0,170.0,62.0,Russia,Tennis
+Haislan Antonio Veranes Garcia,M,33.0,175.0,66.0,Canada,Wrestling
+Botjan Maek,M,44.0,174.0,118.0,Slovenia,Shooting
+Olga Sergeyevna Khudenko,F,24.0,178.0,78.0,Belarus,Canoeing
+Han Seung-Woo,M,33.0,173.0,86.0,South Korea,Shooting
+Li Lu,F,24.0,160.0,55.0,China,Canoeing
+Balla Diye,M,35.0,188.0,68.0,Senegal,Taekwondo
+Bertrand Roin,M,35.0,198.0,99.0,Qatar,Handball
+Federico Gil,M,28.0,175.0,78.0,Argentina,Shooting
+Logan Dooley,M,28.0,175.0,59.0,USA,Trampolining
+Yoichi Itokazu,M,25.0,160.0,64.0,Japan,Weightlifting
+Daryna Serhivna Verkhohliad,F,24.0,180.0,80.0,Ukraine,Rowing
+An Ba-Ul,M,22.0,169.0,66.0,South Korea,Judo
+Vctor Julio Rodrguez Villavicencio,M,21.0,167.0,56.0,Venezuela,Boxing
+Richard Kilty,M,26.0,184.0,79.0,UK,Athletics
+Jos Luis Rodrguez Aguilar,M,22.0,180.0,75.0,Chile,Cycling
+Teliana Santos Pereira,F,28.0,167.0,62.0,Brazil,Tennis
+Yuka Mamiya,F,26.0,185.0,74.0,Japan,Basketball
+Jhonatan Esquivel Montes de Oca,M,27.0,183.0,86.0,Uruguay,Rowing
+"Michael ""Mike"" Dawson",M,29.0,183.0,75.0,New Zealand,Canoeing
+Tatenda Tsumba,M,24.0,175.0,73.0,Zimbabwe,Athletics
+David Florence,M,33.0,188.0,76.0,UK,Canoeing
+Irina Andreyevna Fetisova,F,21.0,190.0,76.0,Russia,Volleyball
+H Th L,F,25.0,172.0,60.0,Vietnam,Rowing
+Jovana Brakoevi-Kancian,F,28.0,196.0,82.0,Serbia,Volleyball
+Goh V Shem,M,27.0,180.0,70.0,Malaysia,Badminton
+Vladislav Olegovich Goncharov,M,20.0,173.0,66.0,Belarus,Trampolining
+Brooke Neal,F,24.0,182.0,71.0,New Zealand,Hockey
+Ursula Grobler,F,36.0,173.0,60.0,South Africa,Rowing
+Yevgeny Andreyevich Tishchenko,M,25.0,196.0,91.0,Russia,Boxing
+Filip Hrgovi,M,24.0,198.0,101.0,Croatia,Boxing
+Andressa Cavalari Machry,F,21.0,160.0,60.0,Brazil,Football
+Rim Jong-Sim,F,23.0,162.0,75.0,North Korea,Weightlifting
+Laura Ann Summerton-Hodges,F,32.0,190.0,78.0,Australia,Basketball
+Kim Hae-Ran,F,32.0,168.0,57.0,South Korea,Volleyball
+Eric Shauwn Brazas Cray,M,27.0,176.0,70.0,Philippines,Athletics
+Walide Khyar,M,21.0,165.0,60.0,France,Judo
+Brankica Mihajlovi,F,25.0,190.0,83.0,Serbia,Volleyball
+Katherine Plouffe,F,23.0,190.0,89.0,Canada,Basketball
+Jorge Castelblanco,M,28.0,169.0,58.0,Panama,Athletics
+Clarke Johnstone,M,29.0,194.0,80.0,New Zealand,Equestrianism
+Kingsley Madu,M,20.0,171.0,79.0,Nigeria,Football
+Jarimit Leonor Weffer Guanipa,F,30.0,158.0,75.0,Venezuela,Wrestling
+Yuliya Yevhenivna Paratova,F,29.0,155.0,48.0,Ukraine,Weightlifting
+Bredni Roque Mendoza,M,28.0,160.0,69.0,Mexico,Weightlifting
+Elisabeth Seitz,F,22.0,162.0,57.0,Germany,Gymnastics
+Lee Jae-Yeong,F,19.0,178.0,66.0,South Korea,Volleyball
+Maureen Koster,F,24.0,176.0,57.0,Netherlands,Athletics
+Ganapathi Krishnan,M,27.0,,,India,Athletics
+Birgit Overzier-Michels,F,31.0,178.0,70.0,Germany,Badminton
+Izzat Artykov,M,22.0,160.0,69.0,Kyrgyzstan,Weightlifting
+Eliza-Iulia Buceschi,F,23.0,178.0,70.0,Romania,Handball
+Andrea Geubelle,F,25.0,163.0,58.0,USA,Athletics
+Miltiadis Tentoglou,M,18.0,185.0,75.0,Greece,Athletics
+Mara Guadalupe Gonzlez Romero,F,27.0,162.0,47.0,Mexico,Athletics
+"Yiu Kit-Ching ""Christy""",F,28.0,155.0,45.0,China,Athletics
+Melanie Leupolz,F,22.0,173.0,52.0,Germany,Football
+Rusila Nagasau,F,28.0,175.0,80.0,Fiji,Rugby Sevens
+Dirk Uittenbogaard,M,26.0,199.0,93.0,Netherlands,Rowing
+Olivier Floris Johannes Siegelaar,M,29.0,197.0,100.0,Netherlands,Rowing
+Geoffrey Butler,M,20.0,188.0,84.0,Cayman Islands,Swimming
+"Matthew ""Matt"" Dawson",M,22.0,176.0,66.0,Australia,Hockey
+Maximilian Korge,M,21.0,193.0,92.0,Germany,Rowing
+Manuel Fumic,M,34.0,173.0,68.0,Germany,Cycling
+Vid Hidvgi,M,29.0,170.0,60.0,Hungary,Gymnastics
+Leonel Surez Fajardo,M,28.0,181.0,68.0,Cuba,Athletics
+Habitam Alemu,F,19.0,171.0,52.0,Ethiopia,Athletics
+Tomas Alonso Aguilera Armendariz,M,27.0,202.0,95.0,Mexico,Volleyball
+Marie Christianne Legentil,F,24.0,153.0,52.0,Mauritius,Judo
+Ecaterina Antonia Guica,F,22.0,165.0,52.0,Canada,Judo
+Luiz Felipe Marques Fonteles,M,32.0,196.0,89.0,Brazil,Volleyball
+Tone Wieten,M,22.0,201.0,102.0,Netherlands,Rowing
+Xie Wenjun,M,26.0,190.0,87.0,China,Athletics
+Sonia Emilia Marie Fahlin,F,27.0,176.0,62.0,Sweden,Cycling
+Lasha Shavdatuashvili,M,24.0,170.0,75.0,Georgia,Judo
+Alvin Singh,M,28.0,185.0,88.0,Fiji,Football
+Harrison Bryce Jordan Barnes,M,24.0,203.0,102.0,USA,Basketball
+Kim Hye-Song,F,23.0,153.0,42.0,North Korea,Athletics
+Wang Zhelin,M,22.0,214.0,100.0,China,Basketball
+Paul O'Donovan,M,22.0,177.0,70.0,Ireland,Rowing
+Borislav Stefanov Novachkov,M,26.0,170.0,71.0,Bulgaria,Wrestling
+Dominik Kozma,M,25.0,193.0,90.0,Hungary,Swimming
+Praveen Jordan,M,23.0,183.0,88.0,Indonesia,Badminton
+Naito Ehara,M,23.0,172.0,59.0,Japan,Swimming
+Daniel Grak,M,32.0,178.0,77.0,Poland,Table Tennis
+Santiago Ral Lange Roberti,M,54.0,184.0,73.0,Argentina,Sailing
+Monika Karsch,F,33.0,158.0,55.0,Germany,Shooting
+Mihaela Petril,F,25.0,190.0,74.0,Romania,Rowing
+Saskia Bartusiak,F,33.0,170.0,60.0,Germany,Football
+Joo Pedro Lopes da Silva,M,27.0,171.0,60.0,Portugal,Triathlon
+Matthew Glaetzer,M,23.0,190.0,86.0,Australia,Cycling
+Annie Haeger,F,26.0,168.0,58.0,USA,Sailing
+Bernd Wiesberger,M,30.0,188.0,86.0,Austria,Golf
+Chlo Bulleux,F,24.0,172.0,65.0,France,Handball
+Sun Yiwen,F,24.0,177.0,63.0,China,Fencing
+Zhao Jingnan,F,21.0,168.0,51.0,China,Rhythmic Gymnastics
+Grace Reid,F,20.0,169.0,67.0,UK,Diving
+Mustafa Nadhim Jari Al-Shabbani,M,22.0,174.0,75.0,Iraq,Football
+"Frederik Timothee ""Tim"" Heijbrock",M,30.0,189.0,70.0,Netherlands,Rowing
+Clo Hache,F,18.0,171.0,62.0,France,Swimming
+Niklas Landin Jacobsen,M,27.0,201.0,102.0,Denmark,Handball
+Taylor Milne,M,34.0,165.0,60.0,Canada,Athletics
+Quinta Steenbergen,F,31.0,189.0,75.0,Netherlands,Volleyball
+Sheniqua Monique Ferguson,F,26.0,171.0,57.0,Bahamas,Athletics
+Alina Ivanivna Komashchuk,F,23.0,169.0,75.0,Ukraine,Fencing
+Ashlee Ankudinoff,F,25.0,174.0,67.0,Australia,Cycling
+Marcus John Charles Mepstead,M,26.0,183.0,78.0,UK,Fencing
+Andrew Chetcuti,M,23.0,177.0,72.0,Malta,Swimming
+Andreea Aanei,F,22.0,170.0,125.0,Romania,Weightlifting
+Kirsten Flipkens,F,30.0,165.0,55.0,Belgium,Tennis
+Jos Lus Gonzlez,M,31.0,206.0,97.0,Argentina,Volleyball
+Marta Gonzlez Crivillers,F,21.0,181.0,73.0,Spain,Swimming
+Zohir Kedache,M,30.0,178.0,69.0,Algeria,Boxing
+Jeon Yeong-Eun,F,28.0,158.0,43.0,South Korea,Athletics
+Alex Amankwah,M,24.0,,,Ghana,Athletics
+Tan Chi-Chung,M,26.0,155.0,56.0,Taiwan,Weightlifting
+Duan Jingli,F,27.0,180.0,76.0,China,Rowing
+Masaki Kaneko,M,24.0,181.0,75.0,Japan,Swimming
+Nikolina Moldovan,F,26.0,167.0,67.0,Serbia,Canoeing
+Christian Reichert,M,31.0,188.0,83.0,Germany,Swimming
+Jess Antonio Lpez Snchez,M,31.0,161.0,64.0,Venezuela,Weightlifting
+Tomomi Tanaka,F,28.0,154.0,39.0,Japan,Athletics
+Meisam Abolfazl Nasiri,M,27.0,169.0,71.0,Iran,Wrestling
+Lawrence Junior I. O. Okolie,M,23.0,195.0,91.0,UK,Boxing
+Kim Song-Guk,M,30.0,167.0,75.0,North Korea,Shooting
+Tan Ya-Ting,F,22.0,158.0,53.0,Taiwan,Archery
+James George Guy,M,20.0,187.0,83.0,UK,Swimming
+Armandas Kelmelis,M,18.0,193.0,86.0,Lithuania,Rowing
+Akira Ioane,M,21.0,194.0,113.0,New Zealand,Rugby Sevens
+iva Dvorak,F,25.0,168.0,70.0,Slovenia,Shooting
+Marlo Delgado Suarez,M,23.0,184.0,75.0,Ecuador,Boxing
+Igor Karai,M,27.0,191.0,91.0,Croatia,Handball
+ron Gdorfalvi,M,38.0,184.0,73.0,Hungary,Sailing
+Fernando Borello,M,36.0,188.0,92.0,Argentina,Shooting
+Rodrigo Dourado Cunha,M,22.0,186.0,79.0,Brazil,Football
+Kim Chang-Ju,M,30.0,178.0,69.0,South Korea,Sailing
+Yannick Lefbvre,M,27.0,181.0,79.0,Belgium,Sailing
+Karen Milenka Torrez Guzman,F,24.0,165.0,58.0,Boliva,Swimming
+Adam Ahmed R. Gemili,M,22.0,178.0,75.0,UK,Athletics
+Dennis Ombachi,M,21.0,185.0,98.0,Kenya,Rugby Sevens
+Minna Marianne Nikkanen,F,28.0,169.0,54.0,Finland,Athletics
+Veronika Mykolavna Ivasiuk,F,20.0,170.0,59.0,Ukraine,Weightlifting
+Lkhagvasrengiin Otgonbaatar,M,23.0,182.0,94.0,Mongolia,Judo
+Ins Pereira Henriques,F,36.0,156.0,45.0,Portugal,Athletics
+Ksenija Balta,F,29.0,169.0,51.0,Estonia,Athletics
+Khaled Houcine,M,26.0,187.0,90.0,Tunisia,Canoeing
+Adrin Juhsz,M,26.0,188.0,89.0,Hungary,Rowing
+Sofiane Bendebka,M,23.0,170.0,65.0,Algeria,Football
+Juan Leon de Jongh,M,28.0,175.0,87.0,South Africa,Rugby Sevens
+Viktor Eduardovich Minibayev,M,25.0,173.0,63.0,Russia,Diving
+Stacey Michelsen,F,25.0,173.0,66.0,New Zealand,Hockey
+Yoshua Shing,M,23.0,173.0,65.0,Vanuatu,Table Tennis
+Yalennis Castillo Ramrez,F,30.0,174.0,78.0,Cuba,Judo
+Joo Paulo de Leiria e Silva,M,51.0,176.0,90.0,Angola,Shooting
+Robert Skov,M,20.0,183.0,78.0,Denmark,Football
+Sandra Viviana Galvis Gmez,F,30.0,160.0,46.0,Colombia,Athletics
+Ross Arthur Millington,M,26.0,173.0,58.0,UK,Athletics
+Ren Tebbel,M,47.0,182.0,84.0,Ukraine,Equestrianism
+Grzegorz Hedwig,M,28.0,179.0,82.0,Poland,Canoeing
+"Nyuk Lian ""Leanne"" Choo",F,25.0,167.0,58.0,Australia,Badminton
+Dmytro Volodymyrovych Kosynskiy,M,27.0,198.0,105.0,Ukraine,Athletics
+Artrs Plsnieks,M,24.0,180.0,107.0,Latvia,Weightlifting
+Anastasiya Alekseyevna Tatareva,F,19.0,165.0,44.0,Russia,Rhythmic Gymnastics
+Amor Ben Yahia,M,31.0,175.0,63.0,Tunisia,Athletics
+Kendra Clarke,F,19.0,167.0,56.0,Canada,Athletics
+David Graf,M,26.0,180.0,79.0,Switzerland,Cycling
+Anna Jagaciak-Michalska,F,26.0,177.0,59.0,Poland,Athletics
+"Matilde ""Mati"" Ortz Reyes",F,25.0,174.0,67.0,Spain,Water Polo
+Akossiwa Claire Ayivon,F,19.0,,,Togo,Rowing
+Christian Presciutti,M,33.0,184.0,87.0,Italy,Water Polo
+Hiskel Tewelde,M,29.0,,,Eritrea,Athletics
+Janieve Russell,F,22.0,175.0,64.0,Jamaica,Athletics
+"Petrus Johannes ""Pieter-Jan"" Postma",M,34.0,189.0,99.0,Netherlands,Sailing
+Billy Odhiambo,M,22.0,184.0,95.0,Kenya,Rugby Sevens
+Jacob Jepsen Barse,M,27.0,188.0,73.0,Denmark,Rowing
+Ludovic Fabregas,M,20.0,198.0,100.0,France,Handball
+Pavel Gennadyevich Boreysha,M,25.0,193.0,120.0,Belarus,Athletics
+Cao Yue,F,20.0,178.0,72.0,China,Swimming
+Charlotta Emma Katarina Fougberg,F,31.0,165.0,51.0,Sweden,Athletics
+Piotr Paziski,M,28.0,187.0,80.0,Poland,Taekwondo
+Darko Planini,M,25.0,211.0,120.0,Croatia,Basketball
+Hu Jianguan,M,23.0,168.0,52.0,China,Boxing
+Zohar Hen Shikler,F,19.0,178.0,61.0,Israel,Swimming
+Rose Mary Almanza Blanco,F,24.0,165.0,53.0,Cuba,Athletics
+Jhonny Jos Prez Urea,M,18.0,173.0,50.0,Dominican Republic,Swimming
+Marc Flynn Mundell,M,33.0,189.0,77.0,South Africa,Athletics
+Arturo Jos Ramrez lvarez,M,25.0,170.0,65.0,Venezuela,Athletics
+Pietro Willy Ruta,M,28.0,185.0,70.0,Italy,Rowing
+Grace Latz,F,28.0,183.0,80.0,USA,Rowing
+Stanley Amuzie,M,20.0,171.0,85.0,Nigeria,Football
+Brittany O'Brien,F,18.0,168.0,55.0,Australia,Diving
+Juliana Esteves dos Santos,F,32.0,177.0,73.0,Brazil,Rugby Sevens
+Camelia Hotea (Balint-),F,31.0,175.0,64.0,Romania,Handball
+Kazunari Watanabe,M,32.0,176.0,80.0,Japan,Cycling
+Kevin Wayne Durant,M,27.0,206.0,105.0,USA,Basketball
+Galle Verlaine Nayo-Ketchanke,F,28.0,174.0,75.0,France,Weightlifting
+Klber da Silva Ramos,M,30.0,167.0,65.0,Brazil,Cycling
+Khrystyna Petrivna Stuy,F,28.0,168.0,60.0,Ukraine,Athletics
+Sebastin Martos Roa,M,27.0,178.0,63.0,Spain,Athletics
+Kenza Tifahi Dahmani,F,35.0,164.0,54.0,Algeria,Athletics
+David Hearn,M,37.0,185.0,,Canada,Golf
+Toni Paul Wilhelm,M,33.0,182.0,76.0,Germany,Sailing
+Krystian Zalewski,M,27.0,185.0,68.0,Poland,Athletics
+Wiam Dislam,F,28.0,180.0,69.0,Morocco,Taekwondo
+Dmitry Aleksandrovich Volkov,M,21.0,201.0,88.0,Russia,Volleyball
+Savannah Rose Dee Marshall,F,25.0,181.0,75.0,UK,Boxing
+Yelizaveta Korol (Lunina-),F,21.0,167.0,69.0,Kazakhstan,Shooting
+Richard Egrey Vargas Carrillo,M,21.0,175.0,58.0,Venezuela,Athletics
+Astou Barro Ndour Gueye,F,21.0,195.0,68.0,Spain,Basketball
+Johan Magnus Eurn,M,31.0,192.0,120.0,Sweden,Wrestling
+Pablo Fontes de Castro,M,20.0,175.0,83.0,Spain,Rugby Sevens
+Gu Yasha,F,25.0,165.0,60.0,China,Football
+Odunayo Folasade Adekuoroye,F,22.0,169.0,53.0,Nigeria,Wrestling
+Luan Garcia Teixeira,M,23.0,183.0,79.0,Brazil,Football
+Yuhan Nathanael Tan,M,29.0,182.0,74.0,Belgium,Badminton
+Levern Donaline Spencer,F,32.0,179.0,48.0,Saint Lucia,Athletics
+Dariusz Radosz,M,29.0,199.0,91.0,Poland,Rowing
+Laura Elizabeth Weightman,F,25.0,172.0,56.0,UK,Athletics
+Emma Twigg,F,29.0,182.0,76.0,New Zealand,Rowing
+Chen Chieh,M,24.0,182.0,73.0,Taiwan,Athletics
+Jeong Jin-Hwa,M,27.0,183.0,75.0,South Korea,Modern Pentathlon
+Trent Jones,M,21.0,185.0,87.0,New Zealand,Cycling
+Ali Zein Elabedin Ali Ismail Mohamed,M,25.0,195.0,93.0,Egypt,Handball
+Silvia Navarro Jimnez,F,37.0,169.0,62.0,Spain,Handball
+"Sonny William ""Sonny Bill"" Williams",M,31.0,194.0,106.0,New Zealand,Rugby Sevens
+Ronal Quispe Misme,M,27.0,164.0,57.0,Boliva,Athletics
+Jeyvier Jess Cintrn Ocasio,M,21.0,171.0,52.0,Puerto Rico,Boxing
+Roxanne Kimberly Barker,F,25.0,178.0,76.0,South Africa,Football
+Viktor Nikolayevich Lebedev,M,28.0,164.0,57.0,Russia,Wrestling
+Deep Grace Ekka,F,22.0,158.0,63.0,India,Hockey
+Tameka Williams,F,26.0,165.0,59.0,Saint Kitts,Athletics
+Christoph Harting,M,26.0,207.0,120.0,Germany,Athletics
+Vitaly Vladimirovich Dunaytsev,M,24.0,174.0,64.0,Russia,Boxing
+Kaveh Sadegh Mousavi,M,31.0,203.0,120.0,Iran,Athletics
+Thaisa de Moraes Rosa Morenio,F,27.0,166.0,58.0,Brazil,Football
+Chala Beyo Techo,M,20.0,176.0,58.0,Ethiopia,Athletics
+Han Yucheng,M,37.0,178.0,55.0,China,Athletics
+Hafifi Bin Mansor Mohd,M,25.0,166.0,69.0,Malaysia,Weightlifting
+Azucena Daz Calvo,F,33.0,163.0,55.0,Spain,Athletics
+Xiao Di,M,25.0,185.0,100.0,China,Wrestling
+Juan Miguel Rodrguez Martnez,M,49.0,183.0,86.0,Cuba,Shooting
+Naomichi Ueda,M,21.0,186.0,77.0,Japan,Football
+Rhys Grant,M,29.0,188.0,88.0,Australia,Rowing
+Kaarle Tapper,M,20.0,190.0,84.0,Finland,Sailing
+Roberto Sawyers Furtado,M,29.0,182.0,111.0,Costa Rica,Athletics
+Jos Gregorio Pea Trejo,M,29.0,160.0,52.0,Venezuela,Athletics
+Yogeshwar Dutt,M,33.0,168.0,65.0,India,Wrestling
+Oscar Luis Muoz Oviedo,M,23.0,178.0,58.0,Colombia,Taekwondo
+"Yi-Ping ""Candie"" Kung",F,34.0,168.0,70.0,Taiwan,Golf
+"William ""Will"" Ryan",M,27.0,193.0,75.0,Australia,Sailing
+Arashi Morisaka,M,20.0,176.0,56.0,Japan,Boxing
+Ivana panovi,F,26.0,176.0,65.0,Serbia,Athletics
+Carl Fredrik Stefan Schn,M,29.0,187.0,102.0,Sweden,Wrestling
+Rodrigo Diego Lpez,M,19.0,166.0,69.0,Mexico,Diving
+Omar Muhammadi Muhammad Muhammad Assar,M,25.0,196.0,93.0,Egypt,Table Tennis
+Andreas Wolff,M,25.0,198.0,110.0,Germany,Handball
+Zhang Xinyu,F,19.0,166.0,60.0,China,Swimming
+Tsai Chia-Hsin,M,34.0,182.0,82.0,Taiwan,Badminton
+Akani Simbine,M,22.0,176.0,74.0,South Africa,Athletics
+Lissette Alexandra Antes Castillo,F,25.0,177.0,58.0,Ecuador,Wrestling
+Kurt Leonel da Rocha Couto,M,31.0,180.0,74.0,Mozambique,Athletics
+Kira Valeryevna Stepanova,F,22.0,183.0,81.0,Russia,Canoeing
+Riste Pandev,M,22.0,178.0,67.0,Macedonia,Athletics
+Lee Kye-Rim,F,25.0,158.0,50.0,South Korea,Shooting
+Liu Yongshi,F,26.0,176.0,62.0,China,Fencing
+Houda Miled,F,29.0,171.0,70.0,Tunisia,Judo
+Sofian Bouvet,M,27.0,173.0,63.0,France,Sailing
+Alina Viktorivna Lohvynenko,F,26.0,180.0,67.0,Ukraine,Athletics
+Ghader Mizbani Iranagh,M,40.0,175.0,67.0,Iran,Cycling
+Camille Grassineau,F,25.0,165.0,58.0,France,Rugby Sevens
+Adlan Aliyevich Abdurashidov,M,26.0,172.0,60.0,Russia,Boxing
+Kim Jong-Hyeon,M,31.0,170.0,73.0,South Korea,Shooting
+Enzo-Boris Lefort,M,24.0,190.0,80.0,France,Fencing
+Mayu Hamada,F,22.0,174.0,57.0,Japan,Taekwondo
+James Willett,M,20.0,186.0,88.0,Australia,Shooting
+Davor tefanek,M,30.0,170.0,66.0,Serbia,Wrestling
+Svetlana Alekseyevna Romashina,F,26.0,173.0,57.0,Russia,Synchronized Swimming
+Janet Okelo Musindalo,F,24.0,172.0,60.0,Kenya,Rugby Sevens
+Yekaterina Ilyinichna Petukhova,F,20.0,163.0,48.0,Russia,Diving
+Ieuan David Lloyd,M,23.0,194.0,91.0,UK,Swimming
+Steven Gerard Donnelly,M,27.0,180.0,69.0,Ireland,Boxing
+Artur Brzozowski,M,31.0,174.0,67.0,Poland,Athletics
+Alen Taimurazovych Zasieiev,M,27.0,185.0,125.0,Ukraine,Wrestling
+Katie Louise Archibald,F,22.0,178.0,70.0,UK,Cycling
+"Elizaveta Vladimirova ""Lisa"" Ryzih",F,27.0,179.0,62.0,Germany,Athletics
+Oleksiy Serhiyovych Kasianov,M,30.0,191.0,88.0,Ukraine,Athletics
+Stefanie Horn,F,25.0,168.0,59.0,Italy,Canoeing
+Lalita Shivaji Babar,F,27.0,166.0,50.0,India,Athletics
+Maicel Uibo,M,23.0,188.0,84.0,Estonia,Athletics
+Adrien Niyonshuti,M,29.0,165.0,68.0,Rwanda,Cycling
+Fernando Saraiva Reis,M,26.0,185.0,146.0,Brazil,Weightlifting
+Pan Qiang,M,31.0,185.0,85.0,China,Shooting
+Nguyn Th La,F,25.0,165.0,53.0,Vietnam,Wrestling
+Frid zizova,F,21.0,173.0,67.0,Azerbaijan,Taekwondo
+Carline Muir,F,28.0,170.0,65.0,Canada,Athletics
+James Reid,M,24.0,180.0,70.0,South Africa,Cycling
+Hagos Gebrhiwet Berhe,M,22.0,171.0,56.0,Ethiopia,Athletics
+Vlad-Drago Aicoboae,M,22.0,197.0,91.0,Romania,Rowing
+Marius Iulian Cocioran,M,33.0,173.0,64.0,Romania,Athletics
+Petra Lovas,F,36.0,158.0,48.0,Hungary,Table Tennis
+"Gordon ""Gordie"" Johnston",M,23.0,187.0,88.0,Canada,Hockey
+Cristina Guinea Gonzlez,F,24.0,166.0,61.0,Spain,Hockey
+Luigi Teilemb,M,24.0,187.0,80.0,Vanuatu,Rowing
+Tomasz Jaboski,M,27.0,178.0,85.0,Poland,Boxing
+Bat-Ochiryn Ser-Od,M,34.0,169.0,61.0,Mongolia,Athletics
+Fabienne Aline St Louis,F,28.0,171.0,55.0,Mauritius,Triathlon
+Milan Trajkovic,M,24.0,187.0,82.0,Cyprus,Athletics
+Alana Barber,F,29.0,163.0,52.0,New Zealand,Athletics
+Haniel Vincius Inoue Langaro,M,21.0,197.0,104.0,Brazil,Handball
+Tomasz Kaczor,M,26.0,184.0,85.0,Poland,Canoeing
+Martin Fuksa,M,23.0,180.0,83.0,Czech Republic,Canoeing
+Daniel Havel,M,24.0,178.0,79.0,Czech Republic,Canoeing
+Elia Viviani,M,27.0,177.0,70.0,Italy,Cycling
+"Jacqueline ""Jackie"" Galloway",F,20.0,178.0,80.0,USA,Taekwondo
+Helibelton Palacios Zapata,M,23.0,177.0,75.0,Colombia,Football
+Robin Middleton,M,31.0,188.0,85.0,Australia,Badminton
+"Konstantinos ""Kostas"" Baniotis",M,29.0,201.0,80.0,Greece,Athletics
+Josefina Fernndez,F,24.0,175.0,72.0,Argentina,Volleyball
+Ha Jae-Min,M,27.0,186.0,83.0,South Korea,Sailing
+Jordan Quinn Larson-Burbach,F,29.0,188.0,75.0,USA,Volleyball
+Daniele Matias Hyplito,F,31.0,147.0,51.0,Brazil,Gymnastics
+Sapna Punia,F,28.0,,,India,Athletics
+Lewis Holland,M,23.0,183.0,87.0,Australia,Rugby Sevens
+Rsul unayev,M,25.0,171.0,66.0,Azerbaijan,Wrestling
+Valentin Demyanenko,M,32.0,193.0,93.0,Azerbaijan,Canoeing
+Zdravko Radi,M,37.0,193.0,96.0,Montenegro,Water Polo
+Jan-Lennard Struff,M,26.0,196.0,87.0,Germany,Tennis
+John H. Millman,M,27.0,183.0,79.0,Australia,Tennis
+"Joseph Tzen Zhun ""Joe"" Choong",M,21.0,186.0,78.0,UK,Modern Pentathlon
+Oliver Marach,M,36.0,185.0,78.0,Austria,Tennis
+Asadulla Sabziyevich Lachinov,M,30.0,158.0,60.0,Belarus,Wrestling
+"Rayderley Miguel ""Ray"" Zapata Santana",M,23.0,169.0,71.0,Spain,Gymnastics
+Henriette Engel Hansen,F,34.0,170.0,66.0,Denmark,Canoeing
+Cristina Georgiana Neagu,F,27.0,180.0,69.0,Romania,Handball
+Ruslan Hryhorovych Dmytrenko,M,30.0,180.0,67.0,Ukraine,Athletics
+Brayan Fabricio Ramrez Euceda,M,22.0,177.0,66.0,Honduras,Football
+Anton Sergeyevich Zarutsky,M,30.0,195.0,94.0,Russia,Rowing
+Mikhail Nikolayevich Kuznetsov,M,31.0,174.0,72.0,Russia,Canoeing
+Saskia Clark,F,36.0,176.0,68.0,UK,Sailing
+Leila Abdelmoez,F,19.0,160.0,46.0,Egypt,Synchronized Swimming
+Yarden Gerbi,F,27.0,169.0,63.0,Israel,Judo
+"Jin-Myung ""Danny"" Lee",M,26.0,183.0,,New Zealand,Golf
+Brendon Reading,M,27.0,183.0,62.0,Australia,Athletics
+Sren Kjeldsen,M,41.0,170.0,65.0,Denmark,Golf
+Morea Baru,M,26.0,162.0,62.0,Papua New Guinea,Weightlifting
+Sharolyn Shantell Scott Norman,F,32.0,168.0,63.0,Costa Rica,Athletics
+Daniela Potapova,F,20.0,166.0,48.0,Germany,Rhythmic Gymnastics
+Courtney Okolo,F,22.0,173.0,59.0,USA,Athletics
+Krisztina Papp,F,33.0,173.0,53.0,Hungary,Athletics
+Tory Nyhaug-Heinonen,M,24.0,185.0,92.0,Canada,Cycling
+Christine Kalmer,F,30.0,172.0,55.0,South Africa,Athletics
+Alyssa Conley,F,25.0,176.0,63.0,South Africa,Athletics
+Nicola White,F,28.0,172.0,65.0,UK,Hockey
+Aona Ribakova,F,25.0,176.0,63.0,Latvia,Swimming
+Gonzalo Ruz de la Cruz,M,28.0,186.0,87.0,Mexico,Volleyball
+Lee Eun-Bi,F,25.0,163.0,58.0,South Korea,Handball
+Elena Monica Ungureanu,F,28.0,164.0,48.0,Romania,Judo
+Hirving Rodrigo Lozano Bahena,M,21.0,174.0,63.0,Mexico,Football
+Alexander Horst,M,33.0,186.0,85.0,Austria,Beach Volleyball
+Hanna Mykolavna Solovei,F,24.0,167.0,56.0,Ukraine,Cycling
+Nidzhat Aliyevich Rakhimov,M,22.0,176.0,77.0,Kazakhstan,Weightlifting
+Zhao Zhifang,F,21.0,168.0,57.0,China,Basketball
+Lynique Prinsloo,F,25.0,169.0,60.0,South Africa,Athletics
+smail Kele,M,28.0,168.0,70.0,Turkey,Shooting
+Andrew Riley,M,27.0,185.0,82.0,Jamaica,Athletics
+Daniel Ricardo Daz,M,27.0,168.0,63.0,Argentina,Cycling
+Sophie Johanna van Gestel,F,25.0,180.0,65.0,Netherlands,Beach Volleyball
+Yumi Kida,F,31.0,160.0,55.0,Japan,Swimming
+Astrid Murielle Guyart,F,33.0,174.0,59.0,France,Fencing
+Kenia Vanessa Lechuga Alanis,F,22.0,162.0,59.0,Mexico,Rowing
+Lars Flggen,M,26.0,192.0,83.0,Germany,Beach Volleyball
+Kaho Minagawa,F,18.0,168.0,49.0,Japan,Rhythmic Gymnastics
+Jean Marie Okutu Kouletio,M,27.0,178.0,70.0,Spain,Athletics
+Benjamin Savek,M,29.0,177.0,74.0,Slovenia,Canoeing
+Nadine Martina Broersen,F,26.0,171.0,62.0,Netherlands,Athletics
+Nguyn Th Huyn,F,23.0,158.0,45.0,Vietnam,Athletics
+Tamara Horacek,F,20.0,179.0,80.0,France,Handball
+Yekaterina Aleksandrovna Marennikova,F,34.0,176.0,70.0,Russia,Handball
+Rza Kayaalp,M,26.0,182.0,130.0,Turkey,Wrestling
+Ion Emilianov,M,39.0,202.0,165.0,Moldova,Athletics
+Srgio Yoshio Sasaki Jnior,M,24.0,161.0,64.0,Brazil,Gymnastics
+"Nicholas Ian ""Nick"" Willis",M,33.0,183.0,68.0,New Zealand,Athletics
+Duan Majdn,M,28.0,180.0,67.0,Slovakia,Athletics
+Viktor Bregner Bromer,M,23.0,194.0,87.0,Denmark,Swimming
+Yuka Sato,F,24.0,171.0,56.0,Japan,Triathlon
+Manuel Fernndez Saro,M,41.0,178.0,68.0,Spain,Equestrianism
+Franciela das Graas Krasucki,F,28.0,168.0,63.0,Brazil,Athletics
+Maksym Oleksandrovych Semiankiv,M,24.0,178.0,63.0,Ukraine,Gymnastics
+Annika Bruhn,F,23.0,183.0,69.0,Germany,Swimming
+Gillian Sanders,F,34.0,168.0,53.0,South Africa,Triathlon
+Ana Luiza Busato Barbachan,F,26.0,171.0,68.0,Brazil,Sailing
+Juozas Bernotas,M,27.0,186.0,80.0,Lithuania,Sailing
+Il Alben,F,30.0,172.0,62.0,Turkey,Basketball
+Scott Curry,M,28.0,193.0,100.0,New Zealand,Rugby Sevens
+Katia Belabbas,F,20.0,170.0,65.0,Algeria,Sailing
+Nebiat Habtemariam Measho,F,37.0,159.0,40.0,Eritrea,Athletics
+Alexandre Iddir,M,25.0,184.0,90.0,France,Judo
+Dienov Andrs Koka,M,20.0,173.0,68.0,Republic of Congo,Swimming
+Angelica Walln,F,30.0,172.0,70.0,Sweden,Handball
+Jim Gottfridsson,M,23.0,191.0,93.0,Sweden,Handball
+Justin Duff,M,28.0,200.0,102.0,Canada,Volleyball
+Marcus Fraser,M,38.0,183.0,89.0,Australia,Golf
+Sara Caroline Seger,F,31.0,176.0,62.0,Sweden,Football
+Windi Manuel Graterol Clemente,M,29.0,205.0,110.0,Venezuela,Basketball
+Denis Vaslyevich Simanovich,M,29.0,178.0,64.0,Belarus,Athletics
+Enrico Garozzo,M,27.0,190.0,70.0,Italy,Fencing
+Su-Hyun Oh,F,20.0,168.0,,Australia,Golf
+Kelly Dulfer,F,22.0,185.0,78.0,Netherlands,Handball
+Emily Morley,F,22.0,183.0,70.0,Bahamas,Rowing
+Yu Chenggang,M,32.0,181.0,72.0,China,Rowing
+Lenka Antoov,F,24.0,177.0,70.0,Czech Republic,Rowing
+Jessica Hancco Merma,F,20.0,153.0,44.0,Peru,Athletics
+Melita Isidora Abraham Schssler,F,19.0,170.0,62.0,Chile,Rowing
+Donna Marie Vakalis,F,36.0,164.0,53.0,Canada,Modern Pentathlon
+Linet Arasa Moraa,F,20.0,173.0,61.0,Kenya,Rugby Sevens
+Thiago Machado Vilela Pereira,M,30.0,187.0,83.0,Brazil,Swimming
+Henrik Claes Edvard von Eckermann,M,35.0,186.0,77.0,Sweden,Equestrianism
+Franois Hougaard,M,28.0,179.0,93.0,South Africa,Rugby Sevens
+Alex Sobers,M,17.0,188.0,66.0,Barbados,Swimming
+Mohamed Mohyeldin,M,24.0,170.0,73.0,Egypt,Judo
+Moon Chang-Jin,M,23.0,170.0,63.0,South Korea,Football
+Martina Kohlov,F,31.0,169.0,68.0,Slovakia,Canoeing
+Romain Bardet,M,25.0,184.0,64.0,France,Cycling
+Ryohei Kato,M,22.0,162.0,54.0,Japan,Gymnastics
+Jonas Hgh Christensen,M,35.0,186.0,102.0,Denmark,Sailing
+Janet Amponsah,F,23.0,171.0,52.0,Ghana,Athletics
+Kyle Sean Micallef,M,29.0,177.0,86.0,Malta,Weightlifting
+Viktor Hennadiyovych Ruban,M,35.0,178.0,70.0,Ukraine,Archery
+Jelle Geens,M,23.0,172.0,61.0,Belgium,Triathlon
+Maksym Eduardovych Dolhov,M,20.0,176.0,71.0,Ukraine,Diving
+Nicole Regnier Palacios,F,21.0,170.0,62.0,Colombia,Football
+Mara Victoria Zuloaga Arcodia,F,28.0,175.0,70.0,Argentina,Hockey
+Tsepang Gladys Sello,F,19.0,,,Lesotho,Athletics
+Spencer James W. Wilton,M,43.0,183.0,83.0,UK,Equestrianism
+Marie-Laurence Jungfleisch,F,25.0,182.0,68.0,Germany,Athletics
+Giedrius Titenis,M,27.0,193.0,95.0,Lithuania,Swimming
+Memo,M,21.0,192.0,88.0,Indonesia,Rowing
+Anna Sztankovics,F,20.0,177.0,63.0,Hungary,Swimming
+Jennifer Wenth,F,25.0,166.0,47.0,Austria,Athletics
+Pavlo Yuriyovych Tymoshchenko,M,29.0,192.0,78.0,Ukraine,Modern Pentathlon
+Amir Ghafour,M,25.0,202.0,90.0,Iran,Volleyball
+Luca Marin,M,30.0,187.0,82.0,Italy,Swimming
+Lissa Mary Audrey Labiche,F,23.0,172.0,55.0,Seychelles,Athletics
+"Samuel ""Sam"" Groth",M,28.0,193.0,100.0,Australia,Tennis
+Saeed bin Hasher Al-Maktoum,M,39.0,176.0,88.0,United Arab Emirates,Shooting
+Kristf Rasovszky,M,19.0,190.0,84.0,Hungary,Swimming
+Mia Hermansson,F,23.0,175.0,63.0,Sweden,Judo
+Jade Louise Jones,F,23.0,156.0,57.0,UK,Taekwondo
+Simoya Kadine Campbell,F,22.0,167.0,54.0,Jamaica,Athletics
+Richard Varga,M,27.0,188.0,65.0,Slovakia,Triathlon
+Liam Nicholas Heath,M,31.0,182.0,81.0,UK,Canoeing
+Chan Hao-Ching,F,22.0,175.0,60.0,Taiwan,Tennis
+Betzabeth Anglica Argello Villegas,F,25.0,164.0,53.0,Venezuela,Wrestling
+Grzegorz omacz,M,28.0,187.0,81.0,Poland,Volleyball
+"Timothy ""Tim"" Kneale",M,33.0,187.0,85.0,UK,Shooting
+Merven Clair,M,23.0,178.0,75.0,Mauritius,Boxing
+Karsten Forsterling,M,36.0,191.0,88.0,Australia,Rowing
+"Elizabeth Mary ""Lizzie"" Armitstead (-Deignan)",F,27.0,168.0,55.0,UK,Cycling
+Jeoung Young-Sik,M,24.0,182.0,65.0,South Korea,Table Tennis
+Ezinne Okparaebo,F,28.0,164.0,56.0,Norway,Athletics
+Amar Musi,M,29.0,170.0,85.0,Croatia,Weightlifting
+Krisztina Fazekas Zur,F,36.0,172.0,64.0,Hungary,Canoeing
+Kelly Silva dos Santos,F,36.0,193.0,92.0,Brazil,Basketball
+"Kalliopi ""Kelly"" Araouzou",F,25.0,169.0,55.0,Greece,Swimming
+Kim Un-Hyang,F,24.0,159.0,51.0,North Korea,Diving
+Mario Hezonja,M,21.0,203.0,100.0,Croatia,Basketball
+Ivan Krapi,M,27.0,194.0,103.0,Croatia,Water Polo
+Charlotte Dobson,F,30.0,168.0,62.0,UK,Sailing
+Amanda Carolina Gomes de Arajo,F,26.0,162.0,54.0,Brazil,Rugby Sevens
+Kamaruddin Haziq,M,23.0,178.0,75.0,Malaysia,Archery
+Oleksiy Serhiyovych Semenov,M,34.0,198.0,120.0,Ukraine,Athletics
+Augusto Midana,M,32.0,167.0,74.0,Guinea-Bissau,Wrestling
+Juraj Tuinsk,M,31.0,184.0,73.0,Slovakia,Shooting
+Olena Olehivna Fedorova,F,29.0,164.0,57.0,Ukraine,Diving
+Bronwen Knox,F,30.0,182.0,88.0,Australia,Water Polo
+"Efthimios ""Makis"" Mitas",M,31.0,190.0,105.0,Greece,Shooting
+"Mohamed Karim ""Moe"" Sbihi",M,28.0,202.0,110.0,UK,Rowing
+Maria Bruno,F,23.0,160.0,54.0,Brazil,Synchronized Swimming
+Ashley McKenzie,M,27.0,168.0,60.0,UK,Judo
+Zhansel Deniz,F,24.0,175.0,67.0,Kazakhstan,Taekwondo
+"Charlotta Eva ""Lotta"" Schelin",F,32.0,179.0,64.0,Sweden,Football
+Mara Fernanda Far Nuez,F,18.0,163.0,57.0,Panama,Swimming
+Ura Kragelj,F,28.0,166.0,56.0,Slovenia,Canoeing
+Andrea Cassar,M,32.0,193.0,93.0,Italy,Fencing
+Judit Ignacio Sorribes,F,22.0,165.0,58.0,Spain,Swimming
+Igor Genua Sistiaga,M,28.0,177.0,78.0,Spain,Rugby Sevens
+Khushbir Kaur,F,23.0,,,India,Athletics
+Isadora Cerullo,F,25.0,158.0,58.0,Brazil,Rugby Sevens
+ala Bykakay,F,26.0,172.0,58.0,Turkey,Tennis
+Jurgen Themen,M,30.0,172.0,75.0,Suriname,Athletics
+Simonas Bilis,M,22.0,196.0,84.0,Lithuania,Swimming
+Michal Balner,M,33.0,191.0,80.0,Czech Republic,Athletics
+Kaya Adwoa Forson,F,14.0,,,Ghana,Swimming
+Deniz nar,M,31.0,172.0,65.0,Turkey,Sailing
+David Pasqualucci,M,20.0,181.0,81.0,Italy,Archery
+Kenichi Hayakawa,M,30.0,177.0,80.0,Japan,Badminton
+Adam George Peaty,M,21.0,191.0,86.0,UK,Swimming
+Mayra Aguiar da Silva,F,25.0,177.0,78.0,Brazil,Judo
+Howard Shu,M,25.0,185.0,75.0,USA,Badminton
+Rivaldo Roberto Genino Coetzee,M,19.0,183.0,73.0,South Africa,Football
+Jevaughn Minzie,M,21.0,178.0,85.0,Jamaica,Athletics
+Iris Silva Tang Sing,F,25.0,167.0,49.0,Brazil,Taekwondo
+Sergey Anatolyevich Komissarov,M,28.0,184.0,81.0,Russia,Sailing
+Alyce Burnett,F,23.0,182.0,71.0,Australia,Canoeing
+Aniya Necol Louissaint,F,17.0,176.0,59.0,Haiti,Taekwondo
+Karen Nathalia Riveros Schulz,F,21.0,170.0,66.0,Paraguay,Swimming
+Aleksandar Ivovi,M,30.0,197.0,107.0,Montenegro,Water Polo
+Natalya Coyle,F,25.0,170.0,60.0,Ireland,Modern Pentathlon
+"Dionisio Augustine, II",M,24.0,153.0,65.0,Micronesia,Swimming
+Samuel Carmona Heredia,M,20.0,162.0,49.0,Spain,Boxing
+David Svoboda,M,31.0,183.0,76.0,Czech Republic,Modern Pentathlon
+Prakash Nanjappa,M,40.0,175.0,85.0,India,Shooting
+Gesa Felicitas Krause,F,24.0,167.0,51.0,Germany,Athletics
+Kvin Crovetto,M,24.0,183.0,81.0,Monaco,Gymnastics
+Jitu Rai,M,28.0,160.0,64.0,India,Shooting
+"Christopher ""Chris"" O'Hare",M,25.0,178.0,63.0,UK,Athletics
+Anton Yordanov Rizov,M,28.0,170.0,75.0,Bulgaria,Shooting
+Christania Williams,F,21.0,165.0,63.0,Jamaica,Athletics
+Haithem Mahmoud Ahmed Mahmoud Fahmy,M,24.0,154.0,59.0,Egypt,Wrestling
+Conor James Dwyer,M,27.0,196.0,89.0,USA,Swimming
+Amina Kajtaz,F,19.0,173.0,62.0,Bosnia and Herzegovina,Swimming
+Sajjad Mardani,M,28.0,198.0,96.0,Iran,Taekwondo
+Julia Sebastin,F,22.0,178.0,70.0,Argentina,Swimming
+Joonas Lindgren,M,30.0,170.0,65.0,Finland,Sailing
+Lauren Schmetterling,F,28.0,180.0,77.0,USA,Rowing
+Ali Faez Atia,M,21.0,180.0,75.0,Iraq,Football
+Christine Majerus,F,29.0,174.0,57.0,Luxembourg,Cycling
+Aleksandr Igorevich Shibayev,M,25.0,192.0,80.0,Russia,Table Tennis
+Werner Kok,M,23.0,180.0,91.0,South Africa,Rugby Sevens
+Casey Patterson,M,36.0,198.0,89.0,USA,Beach Volleyball
+Josef Dostl,M,23.0,202.0,115.0,Czech Republic,Canoeing
+Felipe Tapa Salinas,M,21.0,176.0,70.0,Chile,Swimming
+Kristina Brring-Sprehe,F,29.0,168.0,54.0,Germany,Equestrianism
+Taimuraz Friev Naskidaeva,M,29.0,176.0,84.0,Spain,Wrestling
+Oussama Sahnoune,M,24.0,190.0,90.0,Algeria,Swimming
+Pavel Aleksandrovich Ilyashenko,M,26.0,181.0,76.0,Kazakhstan,Modern Pentathlon
+Isabel Cristina Romero Benitez,F,20.0,161.0,62.0,Colombia,Rugby Sevens
+Natalie Rooney,F,28.0,181.0,95.0,New Zealand,Shooting
+Romy Kasper,F,28.0,173.0,59.0,Germany,Cycling
+Jeanine Gmelin,F,26.0,170.0,72.0,Switzerland,Rowing
+Bernardo de Souza Oliveira,M,23.0,173.0,70.0,Brazil,Archery
+Sebastin Morales Mendoza,M,21.0,171.0,65.0,Colombia,Diving
+Majed Al-Din Tarad Ghazal Al-Din,M,29.0,205.0,72.0,Syria,Athletics
+Lasse Vibe,M,29.0,184.0,75.0,Denmark,Football
+Lara Grangeon,F,24.0,173.0,60.0,France,Swimming
+Igor Zelenay,M,33.0,198.0,88.0,Slovakia,Tennis
+Julia Reinprecht,F,25.0,161.0,55.0,USA,Hockey
+Zhang Yufei,F,18.0,174.0,57.0,China,Swimming
+Margarita Abdullayevna Mamun,F,20.0,170.0,50.0,Russia,Rhythmic Gymnastics
+Kristine Lunde-Borgersen,F,36.0,181.0,67.0,Norway,Handball
+Liam Benjamin Pitchford,M,23.0,186.0,67.0,UK,Table Tennis
+Gemma Beadsworth,F,29.0,180.0,78.0,Australia,Water Polo
+Kristna Fleissnerov,F,23.0,173.0,64.0,Czech Republic,Rowing
+Nouchka Fontijn,F,28.0,180.0,75.0,Netherlands,Boxing
+Susana Cristina Sade da Costa,F,31.0,178.0,63.0,Portugal,Athletics
+Gor Minasyan,M,21.0,180.0,140.0,Armenia,Weightlifting
+Aleksandra Vyacheslavovna Patskevich,F,27.0,169.0,69.0,Russia,Synchronized Swimming
+Lydia Chebet Rotich,F,27.0,157.0,45.0,Kenya,Athletics
+Lauren Wilkinson,F,26.0,180.0,75.0,Canada,Rowing
+Inika McPherson,F,29.0,165.0,52.0,USA,Athletics
+Alberto Ramos Violas,M,28.0,188.0,80.0,Spain,Tennis
+Yana Volodymyrivna Shemiakina,F,30.0,168.0,60.0,Ukraine,Fencing
+Carlos Eduardo Ramadan Paro,M,37.0,179.0,76.0,Brazil,Equestrianism
+Lisa Schmidla,F,25.0,173.0,76.0,Germany,Rowing
+Samia Mohamed Hagrass Ahmed,F,20.0,170.0,57.0,Egypt,Synchronized Swimming
+Inna Vyacheslavovna Trazhukova,F,25.0,170.0,63.0,Russia,Wrestling
+Joris Van Springel,M,53.0,171.0,69.0,Belgium,Equestrianism
+Mykola Valeriyovych Butsenko,M,25.0,170.0,56.0,Ukraine,Boxing
+Kayla McAlister,F,27.0,169.0,70.0,New Zealand,Rugby Sevens
+Brett Robinson,M,25.0,176.0,60.0,Australia,Athletics
+Mokgadi Caster Semenya,F,25.0,178.0,70.0,South Africa,Athletics
+Olqa Senyuk,F,25.0,175.0,53.0,Azerbaijan,Archery
+Lena Kreundl,F,18.0,174.0,69.0,Austria,Swimming
+Regan Ware,M,21.0,184.0,93.0,New Zealand,Rugby Sevens
+Ippei Watanabe,M,19.0,193.0,76.0,Japan,Swimming
+ivil Vaiciukeviit,F,20.0,164.0,54.0,Lithuania,Athletics
+Facundo Conte,M,26.0,197.0,88.0,Argentina,Volleyball
+Hasanboy Dusmatov,M,23.0,156.0,49.0,Uzbekistan,Boxing
+Gabriela Mosqueira Benitez,F,26.0,163.0,60.0,Paraguay,Rowing
+Paolo Pizzo,M,33.0,180.0,70.0,Italy,Fencing
+Vladislav Vadimovich Ryabtsev,M,28.0,196.0,96.0,Russia,Rowing
+Sovijja Pou,M,21.0,169.0,62.0,Cambodia,Swimming
+Stphanie Fotso Mogoung,F,28.0,184.0,78.0,Cameroon,Volleyball
+Seabelo Mohanoe Senatla,M,23.0,177.0,82.0,South Africa,Rugby Sevens
+Con Foley,M,23.0,188.0,90.0,Australia,Rugby Sevens
+Dumitru Captari,M,27.0,168.0,79.0,Romania,Weightlifting
+Veronika Kozelsk-Fenclov,F,35.0,171.0,70.0,Czech Republic,Sailing
+Andrea Micheletti,M,25.0,187.0,70.0,Italy,Rowing
+Sander Sebastiaan de Wijn,M,26.0,183.0,78.0,Netherlands,Hockey
+Luka Janei,M,20.0,192.0,80.0,Slovenia,Athletics
+Lindiwe Magwede,F,24.0,176.0,59.0,Zimbabwe,Football
+Ludovic Henry,M,47.0,195.0,88.0,France,Equestrianism
+"Rebecca Elizabeth ""Becky"" Sauerbrunn",F,31.0,170.0,64.0,USA,Football
+Maksim Averin,M,30.0,189.0,75.0,Azerbaijan,Cycling
+Karri McMahon,F,24.0,177.0,70.0,Australia,Hockey
+Samantha Jane Stosur,F,32.0,175.0,68.0,Australia,Tennis
+Zoya Sergeyevna Ananchenko,F,19.0,165.0,67.0,Kazakhstan,Canoeing
+Merle van Benthem,F,23.0,170.0,68.0,Netherlands,Cycling
+Ren Enders,M,29.0,165.0,77.0,Germany,Cycling
+Prevdorjiin Orkhon,F,22.0,163.0,63.0,Mongolia,Wrestling
+Martina Strutz,F,34.0,159.0,58.0,Germany,Athletics
+Alberto Ezequiel Melin,M,26.0,170.0,56.0,Argentina,Boxing
+Anhelina Anatolivna Kysla,F,25.0,158.0,49.0,Ukraine,Gymnastics
+Daniel Teklehaymanot Girmazion,M,27.0,188.0,71.0,Eritrea,Cycling
+Allan Julie,M,39.0,181.0,91.0,Seychelles,Sailing
+Akela Jones,F,21.0,186.0,77.0,Barbados,Athletics
+Joseph Polossifakis,M,25.0,178.0,77.0,Canada,Fencing
+Amanda Maria Kurtovic,F,25.0,175.0,71.0,Norway,Handball
+Alba Torrens Salom,F,26.0,195.0,80.0,Spain,Basketball
+Rommel Agmed Pacheco Manrufo,M,30.0,167.0,65.0,Mexico,Diving
+Kelley Maureen O'Hara,F,27.0,165.0,58.0,USA,Football
+Anfisa Sergiivna Pochkalova,F,26.0,178.0,70.0,Ukraine,Fencing
+Simon Wachira,M,32.0,170.0,65.0,Kenya,Athletics
+Jonna Andersson,F,23.0,167.0,61.0,Sweden,Football
+Mariya Dmitriyenko,F,28.0,167.0,56.0,Kazakhstan,Shooting
+Martina Cavallero,F,26.0,163.0,58.0,Argentina,Hockey
+Auriol Dongmo Mekemnang,F,26.0,173.0,95.0,Cameroon,Athletics
+Ishmail Dudu Kamara,M,19.0,,,Sierra Leone,Athletics
+Sunil Sowmarpet Vitalacharya,M,27.0,176.0,68.0,India,Hockey
+Susanna Elisabeth Kallur,F,35.0,170.0,62.0,Sweden,Athletics
+Noura Mohamed,F,18.0,173.0,60.0,Egypt,Fencing
+Jonas Valaninas,M,24.0,213.0,120.0,Lithuania,Basketball
+Teau Moana McKenzie,F,21.0,183.0,67.0,Cook Islands,Sailing
+Madison Taylor Kocian,F,19.0,157.0,46.0,USA,Gymnastics
+Boo Starevi,M,27.0,172.0,78.0,Croatia,Wrestling
+Islam Kurbanovich Magomedov,M,25.0,182.0,98.0,Russia,Wrestling
+Ri Se-Gwang,M,31.0,155.0,54.0,North Korea,Gymnastics
+Drita Islami,F,20.0,166.0,56.0,Macedonia,Athletics
+Gspr Csere,M,24.0,172.0,54.0,Hungary,Athletics
+Zhanyl Okoyeva,F,22.0,165.0,48.0,Kyrgyzstan,Weightlifting
+Yennifer Frank Casaas Hernndez,M,37.0,187.0,117.0,Spain,Athletics
+"Jessica Samantha ""Jess"" Walker",F,26.0,170.0,70.0,UK,Canoeing
+Philipp Buhl,M,26.0,187.0,85.0,Germany,Sailing
+Alonzo Russell,M,24.0,174.0,68.0,Bahamas,Athletics
+Dylan Kennett,M,21.0,178.0,75.0,New Zealand,Cycling
+Johanna Bundsen,F,25.0,185.0,72.0,Sweden,Handball
+Romano Battisti,M,29.0,190.0,91.0,Italy,Rowing
+Miroslav Raduljica,M,28.0,213.0,130.0,Serbia,Basketball
+Morgan Craft,F,23.0,160.0,64.0,USA,Shooting
+Daniel Lpez Pinedo,M,36.0,190.0,88.0,Spain,Water Polo
+Mickal Gelabale,M,33.0,201.0,98.0,France,Basketball
+Zhang Changning,F,20.0,193.0,79.0,China,Volleyball
+Telma Isabel da Silva Santos,F,33.0,163.0,55.0,Portugal,Badminton
+Lus Enrique Charles,M,17.0,183.0,65.0,Dominican Republic,Athletics
+Sebastian Kuntschik,M,27.0,163.0,58.0,Austria,Shooting
+Femi Seun Ogunode,M,25.0,175.0,72.0,Qatar,Athletics
+V Th Trang,F,24.0,163.0,58.0,Vietnam,Badminton
+Ji Skora,M,21.0,190.0,91.0,Czech Republic,Athletics
+Hans Gruhne,M,27.0,193.0,92.0,Germany,Rowing
+Jessica Inchude,F,20.0,175.0,81.0,Guinea-Bissau,Athletics
+Murray Stewart,M,30.0,186.0,86.0,Australia,Canoeing
+Taliqua Clancy,F,24.0,184.0,68.0,Australia,Beach Volleyball
+Tomasz Polewka,M,21.0,200.0,96.0,Poland,Swimming
+Yoel Segundo Finol Rivas,M,19.0,168.0,52.0,Venezuela,Boxing
+Lianne Nathanaele Tan,F,25.0,160.0,54.0,Belgium,Badminton
+Pardon Ndhlovu,M,28.0,158.0,54.0,Zimbabwe,Athletics
+Veerle Dejaeghere,F,43.0,159.0,46.0,Belgium,Athletics
+Ayaka Takahashi,F,26.0,165.0,60.0,Japan,Badminton
+Cassio Rivetti,M,36.0,175.0,65.0,Ukraine,Equestrianism
+Peng Shuai,F,30.0,173.0,61.0,China,Tennis
+Irina Vladimirovna Zaryazhko,F,24.0,196.0,78.0,Russia,Volleyball
+Takayuki Tanii,M,33.0,167.0,57.0,Japan,Athletics
+Maximilien Van Haaster,M,24.0,185.0,88.0,Canada,Fencing
+Brenden Bissett,M,23.0,178.0,73.0,Canada,Hockey
+Leyla Alev Kelter,F,25.0,168.0,75.0,USA,Rugby Sevens
+Serge David Gnabry,M,21.0,173.0,74.0,Germany,Football
+Kotoki Zayasu,F,26.0,159.0,57.0,Japan,Volleyball
+"Thomas ""Tom"" Murray",M,22.0,189.0,87.0,New Zealand,Rowing
+Martina Carraro,F,23.0,175.0,60.0,Italy,Swimming
+Lusapho Lesly April,M,34.0,172.0,50.0,South Africa,Athletics
+"Shawnacy Campbell ""Shawn"" Barber",M,22.0,187.0,82.0,Canada,Athletics
+Mohammed Riyadh Al-Khafaji,M,22.0,181.0,75.0,Iraq,Rowing
+Cody Miller,M,24.0,180.0,80.0,USA,Swimming
+Josh Konieczny,M,25.0,180.0,75.0,USA,Rowing
+Facundo Olezza Bazan,M,21.0,187.0,97.0,Argentina,Sailing
+"Anthony Lawrence ""Tony"" Azevedo",M,34.0,186.0,90.0,USA,Water Polo
+Darya Sergeyevna Naumova,F,20.0,165.0,76.0,Belarus,Weightlifting
+Anna-Emilie Mller,F,19.0,166.0,52.0,Denmark,Athletics
+Pauls Pujts,M,24.0,187.0,83.0,Latvia,Athletics
+Ron Darmon,M,23.0,175.0,65.0,Israel,Triathlon
+Sinad Lynch (Jennings-),F,39.0,172.0,57.0,Ireland,Rowing
+Hisanori Kitajima,M,31.0,171.0,55.0,Japan,Athletics
+Teresa do Rosrio Afonso Portela,F,28.0,162.0,63.0,Portugal,Canoeing
+Apostolos Khristou,M,19.0,198.0,88.0,Greece,Swimming
+Vladimir Vadimovich Malkov,M,30.0,188.0,79.0,Russia,Badminton
+Bojana Popovi (Petrovi-),F,36.0,188.0,86.0,Montenegro,Handball
+Nauraj Singh Randhawa Amarjit Singh,M,24.0,193.0,70.0,Malaysia,Athletics
+Marcos Andr Sousa da Silva Freitas,M,28.0,180.0,75.0,Portugal,Table Tennis
+Ymi Geoffrey Apithy,M,27.0,192.0,96.0,Benin,Fencing
+Helen Grobert,F,24.0,175.0,57.0,Germany,Cycling
+Liu Yang,M,21.0,162.0,61.0,China,Gymnastics
+Saud Al-Zaabi,M,27.0,,,United Arab Emirates,Athletics
+Telma Alexandra Pinto Monteiro,F,30.0,161.0,57.0,Portugal,Judo
+Masashi Kamekawa,M,23.0,177.0,68.0,Japan,Football
+Aleksandra Valentinovna Privalova,F,28.0,178.0,66.0,Belarus,Table Tennis
+Shona Louise Thorburn,F,33.0,175.0,70.0,Canada,Basketball
+"Mostafa Al-Ismaili ""Smaili""",M,19.0,174.0,63.0,Morocco,Athletics
+Robert Alexis Pez Rodrguez,M,22.0,160.0,60.0,Venezuela,Diving
+Miro Bilan,M,27.0,213.0,121.0,Croatia,Basketball
+"Alexandra Maria ""Alex"" Maloney",F,24.0,158.0,56.0,New Zealand,Sailing
+Ioannis Petrou,M,19.0,186.0,73.0,Greece,Rowing
+Cheong Jun Hoong,F,26.0,150.0,48.0,Malaysia,Diving
+Huang Dongyan,F,22.0,172.0,63.0,China,Cycling
+Anuradha Devi Thokchom,F,27.0,162.0,54.0,India,Hockey
+Ronja Fini Sturm,F,20.0,165.0,55.0,Germany,Rowing
+Melissa Boekelman,F,27.0,176.0,87.0,Netherlands,Athletics
+Ladislav kantr,M,33.0,189.0,80.0,Slovakia,Canoeing
+Rima Kashafutdinova,F,21.0,160.0,48.0,Kazakhstan,Athletics
+David Ferrer Ern,M,34.0,175.0,73.0,Spain,Tennis
+Hong Un-Jong,F,27.0,156.0,47.0,North Korea,Gymnastics
+Alessia Maurelli,F,19.0,168.0,48.0,Italy,Rhythmic Gymnastics
+Vincent van der Want,M,30.0,198.0,90.0,Netherlands,Rowing
+Ricardo David Vargas Jacobo,M,18.0,180.0,79.0,Mexico,Swimming
+Leonie Rebekka Maier,F,23.0,163.0,62.0,Germany,Football
+Julian Jrummi Walsh,M,19.0,175.0,75.0,Japan,Athletics
+Pietro Roman,M,26.0,178.0,72.0,Italy,Equestrianism
+Kyle Edmund,M,21.0,188.0,80.0,UK,Tennis
+Shi Zhiyong,M,22.0,168.0,70.0,China,Weightlifting
+Matteo Stefanini,M,32.0,190.0,91.0,Italy,Rowing
+Jaak-Heinrich Jagor,M,26.0,190.0,80.0,Estonia,Athletics
+"Suzanne Brigit ""Sue"" Bird",F,35.0,175.0,66.0,USA,Basketball
+Borys Oleksandrovych Shvets,M,24.0,175.0,65.0,Ukraine,Sailing
+Georgi Stoyanov Ivanov,M,31.0,188.0,138.0,Bulgaria,Athletics
+Mame-Marie Sy-Diop,F,31.0,185.0,82.0,Senegal,Basketball
+Filip Zaborowski,M,22.0,188.0,77.0,Poland,Swimming
+Afef Ben Ismail,F,22.0,173.0,60.0,Tunisia,Canoeing
+"Alexander Michael ""Alex"" Naddour",M,25.0,170.0,70.0,USA,Gymnastics
+Manuel Esteban Soto Ruz,M,22.0,170.0,62.0,Colombia,Athletics
+Estefana Ramrez Castillo,F,24.0,168.0,69.0,Colombia,Rugby Sevens
+Eimantas Stanionis,M,21.0,173.0,69.0,Lithuania,Boxing
+Ayami Oishi,F,25.0,169.0,57.0,Japan,Rowing
+Ahmet Li,M,25.0,173.0,67.0,Turkey,Table Tennis
+Francesca Deidda,F,24.0,164.0,49.0,Italy,Synchronized Swimming
+Daulet Yerkinovich Shabanbay,M,22.0,190.0,125.0,Kazakhstan,Wrestling
+Jaromr Jeek,M,29.0,180.0,78.0,Czech Republic,Judo
+Zhang Jinrong,F,19.0,163.0,58.0,China,Hockey
+Tom Pelsmaekers,M,23.0,177.0,81.0,Belgium,Sailing
+Bruno Dominix Hortelano Roig,M,24.0,180.0,70.0,Spain,Athletics
+Theo Piniau,M,23.0,172.0,59.0,Papua New Guinea,Athletics
+Elitsa Atanasova Yankova,F,21.0,151.0,48.0,Bulgaria,Wrestling
+Nikolay Yulyevich Kuksenkov,M,27.0,172.0,65.0,Russia,Gymnastics
+Connor Evan Fields,M,23.0,183.0,88.0,USA,Cycling
+Mark William Knowles,M,31.0,183.0,74.0,Australia,Hockey
+Arina Pavlovna Opyonysheva,F,17.0,161.0,48.0,Russia,Swimming
+Lus Alberto Orta Milln,M,27.0,160.0,50.0,Venezuela,Athletics
+Muamer Tankovi,M,21.0,180.0,75.0,Sweden,Football
+"Laurent Clayton, Jr.",M,26.0,196.0,127.0,"Virgin Islands, US",Boxing
+Heissler Rafael Guillnt Ecker,M,29.0,183.0,79.0,Venezuela,Basketball
+Julia Mailn Gomes Fantasia,F,24.0,165.0,60.0,Argentina,Hockey
+Marisol Carrat,F,30.0,174.0,85.0,Argentina,Handball
+Varlam Lip'art'eliani,M,27.0,187.0,94.0,Georgia,Judo
+Andrey Amador Bikkazakova,M,29.0,183.0,73.0,Costa Rica,Cycling
+Georgi Bozhilov,M,27.0,201.0,107.0,Bulgaria,Rowing
+Sofya Denisovna Andreyeva,F,18.0,178.0,64.0,Russia,Swimming
+Gbahi Gwladys Sakoa,F,23.0,171.0,64.0,Ivory Coast,Fencing
+Sean Patrick Furey,M,33.0,188.0,90.0,USA,Athletics
+Deo Gracia Ngokaba,M,19.0,190.0,140.0,Republic of Congo,Judo
+Ignacio Ortz,M,29.0,180.0,76.0,Argentina,Hockey
+Mara Teresa Portela Rivas,F,34.0,172.0,69.0,Spain,Canoeing
+Henrique Selicani Teixeira,M,27.0,192.0,100.0,Brazil,Handball
+Emanuele Birarelli,M,35.0,202.0,95.0,Italy,Volleyball
+Son Je-Yong,M,22.0,177.0,70.0,South Korea,Cycling
+Alexandra Tavernier,F,22.0,170.0,82.0,France,Athletics
+Gemma Mengual Civil,F,39.0,173.0,54.0,Spain,Synchronized Swimming
+Zhiwen He Cheng,M,54.0,173.0,73.0,Spain,Table Tennis
+Katja Steen Salskov-Iversen,F,21.0,173.0,70.0,Denmark,Sailing
+Thomas Barr,M,24.0,183.0,73.0,Ireland,Athletics
+Rafaelle Leone Carvalho de Souza,F,25.0,175.0,57.0,Brazil,Football
+Alessandra Patelli,F,24.0,180.0,70.0,Italy,Rowing
+Giovanni Tocci,M,21.0,175.0,68.0,Italy,Diving
+Fabrizio Donato,M,39.0,189.0,83.0,Italy,Athletics
+Larbi Bourrada,M,28.0,188.0,88.0,Algeria,Athletics
+Ruslan Zhaparov,M,20.0,198.0,80.0,Kazakhstan,Taekwondo
+Fedrick Dacres,M,22.0,191.0,104.0,Jamaica,Athletics
+Ding Xia,F,26.0,180.0,67.0,China,Volleyball
+Sanae Motokawa,F,24.0,175.0,65.0,Japan,Basketball
+Magdalena Lobnig,F,26.0,180.0,71.0,Austria,Rowing
+"Jeffrey Issack ""Jeff"" Porter",M,30.0,183.0,86.0,USA,Athletics
+Karim Hendawy,M,28.0,188.0,96.0,Egypt,Handball
+Yaniel Carrero Zambrano,M,20.0,174.0,74.0,Cuba,Athletics
+William Peixoto Arjona,M,37.0,186.0,78.0,Brazil,Volleyball
+Rosane dos Reis Santos,F,29.0,162.0,53.0,Brazil,Weightlifting
+Sabah riti,M,27.0,192.0,130.0,Azerbaijan,Wrestling
+Graciele Herrmann,F,24.0,180.0,64.0,Brazil,Swimming
+Eric Delaunay,M,28.0,178.0,83.0,France,Shooting
+Borja Vidal Fernndez Fernndez,M,34.0,206.0,110.0,Qatar,Handball
+Uhunoma Naomi-Pauline Osazuwa,F,28.0,175.0,65.0,Nigeria,Athletics
+Melanie Kate Wilson,F,32.0,184.0,75.0,UK,Rowing
+Julian Brandt,M,20.0,183.0,83.0,Germany,Football
+Miroslav Iliev Kirchev,M,26.0,186.0,78.0,Bulgaria,Canoeing
+Julian Justus,M,28.0,177.0,76.0,Germany,Shooting
+Cecilia Wollmann,F,18.0,164.0,60.0,Bermuda,Sailing
+Henri Junghnel,M,28.0,179.0,80.0,Germany,Shooting
+Andreia Bandeira,F,29.0,169.0,75.0,Brazil,Boxing
+Arianna Fritzallen Vanderpool-Wallace,F,26.0,168.0,61.0,Bahamas,Swimming
+Kristina Valjas,F,29.0,186.0,73.0,Canada,Beach Volleyball
+Mykyta Vasylovych Nesterenko,M,25.0,208.0,120.0,Ukraine,Athletics
+David Scott Torrence,M,30.0,190.0,65.0,Peru,Athletics
+Ren Lpez Lizarazo,M,52.0,168.0,70.0,Colombia,Equestrianism
+Selina Christina Bchel,F,25.0,167.0,57.0,Switzerland,Athletics
+Haris Bandey,M,17.0,167.0,79.0,Pakistan,Swimming
+Ibtihaj Muhammad,F,30.0,170.0,68.0,USA,Fencing
+Giulia Enrica Emmolo,F,24.0,171.0,67.0,Italy,Water Polo
+Helah Kiprop Jelagat,F,31.0,160.0,50.0,Kenya,Athletics
+"Guillermo Gustavo ""Willy"" Hernangmez Geuer",M,22.0,210.0,115.0,Spain,Basketball
+Shane Rose,M,43.0,181.0,80.0,Australia,Equestrianism
+Mara Elena Calle Galarza,F,41.0,162.0,54.0,Ecuador,Athletics
+Wissem Hosni,M,31.0,175.0,57.0,Tunisia,Athletics
+Jehue Gordon,M,24.0,188.0,81.0,Trinidad,Athletics
+Kim Kuk-Hyang,F,23.0,170.0,100.0,North Korea,Weightlifting
+James Nyang Chiengjiek,M,24.0,179.0,59.0,,Athletics
+Yoshitaka Tokunaga,M,24.0,185.0,100.0,Japan,Rugby Sevens
+Choe Hyo-Sim,F,22.0,159.0,63.0,North Korea,Weightlifting
+Hans Struzyna,M,27.0,188.0,91.0,USA,Rowing
+Anastasiya Dmitriyevna Simanovich,F,21.0,174.0,69.0,Russia,Water Polo
+Bunturabie Effuah Rashida Jalloh,F,18.0,,79.0,Sierra Leone,Swimming
+Vincent Farka,M,23.0,193.0,90.0,Slovakia,Canoeing
+Chen Peina,F,27.0,172.0,63.0,China,Sailing
+Linda Cerruti,F,22.0,173.0,56.0,Italy,Synchronized Swimming
+Wadha Bint Nasir Al-Balushi,F,26.0,160.0,75.0,Oman,Shooting
+Milda Valiukait,F,22.0,176.0,66.0,Lithuania,Rowing
+James McRae,M,29.0,193.0,93.0,Australia,Rowing
+Teresa Patrcia Almeida,F,28.0,170.0,98.0,Angola,Handball
+Kerri Lee Walsh Jennings,F,37.0,191.0,73.0,USA,Beach Volleyball
+Michal Alexandre Bodegas,M,29.0,192.0,102.0,Italy,Water Polo
+Pieter Timmers,M,28.0,200.0,89.0,Belgium,Swimming
+Monika Brzostek,F,27.0,173.0,62.0,Poland,Beach Volleyball
+Alberto lvarez Muoz,M,25.0,191.0,78.0,Mexico,Athletics
+Mikel Kevon Thomas,M,28.0,186.0,79.0,Trinidad,Athletics
+Carles Castillejo Salvador,M,37.0,165.0,61.0,Spain,Athletics
+Yakiv Mykhailovych Khammo,M,22.0,188.0,,Ukraine,Judo
+Dimitri David Bascou,M,29.0,181.0,80.0,France,Athletics
+Ali Yousef Al-Rumaihi,M,34.0,177.0,86.0,Qatar,Equestrianism
+Rishod Rashidovich Sobirov,M,29.0,168.0,66.0,Uzbekistan,Judo
+Christopher Wesley,M,29.0,192.0,88.0,Germany,Hockey
+Faye Njie,M,22.0,,,Gambia,Judo
+Ramil Guliyev,M,26.0,186.0,80.0,Turkey,Athletics
+Andr Rezende S,M,39.0,186.0,74.0,Brazil,Tennis
+Toma Nikiforov,M,23.0,190.0,100.0,Belgium,Judo
+Nobuya Kato,M,21.0,185.0,67.0,Japan,Athletics
+Rie Matsubara,F,22.0,167.0,48.0,Japan,Rhythmic Gymnastics
+Brendon Rodney,M,24.0,195.0,80.0,Canada,Athletics
+Zeyad Mater,M,24.0,174.0,73.0,Yemen,Judo
+Kazushi Hano,M,25.0,185.0,87.0,Japan,Rugby Sevens
+Lizbeth Julissa Diez Canseco,F,27.0,170.0,49.0,Peru,Taekwondo
+Joo Luiz Gomes Jnior,M,30.0,190.0,89.0,Brazil,Swimming
+Visiline Jepkesho,F,26.0,160.0,43.0,Kenya,Athletics
+Caterine Ibargn Mena,F,32.0,185.0,70.0,Colombia,Athletics
+Caroline Aiko Kumahara,F,21.0,166.0,66.0,Brazil,Table Tennis
+Annemiek Bekkering,F,24.0,160.0,54.0,Netherlands,Sailing
+Zhang Guowei,M,25.0,202.0,77.0,China,Athletics
+Yannick Brauchli,M,28.0,173.0,63.0,Switzerland,Sailing
+ngela Melania Castro Chirivechz,F,23.0,160.0,54.0,Boliva,Athletics
+Zhang Binbin,F,27.0,164.0,55.0,China,Shooting
+Duan Mandi,M,22.0,202.0,105.0,Serbia,Water Polo
+Balzs Kiss,M,33.0,178.0,104.0,Hungary,Wrestling
+Qin Kai,M,30.0,170.0,65.0,China,Diving
+Fernando Luna,M,26.0,189.0,97.0,Argentina,Rugby Sevens
+"Jessica Esther ""Jess"" Fox",F,22.0,166.0,60.0,Australia,Canoeing
+Mohamed Abdeldjalil Bourguieg,M,19.0,164.0,50.0,Algeria,Gymnastics
+Meng Qiang,M,29.0,186.0,122.0,China,Wrestling
+Oreoluwa Cherebin,F,18.0,150.0,54.0,Grenada,Swimming
+"Pieter Gilles ""Mechiel"" Versluis",M,29.0,197.0,95.0,Netherlands,Rowing
+Lisa Schtze,F,19.0,172.0,61.0,Germany,Hockey
+Ross Murdoch,M,22.0,183.0,76.0,UK,Swimming
+Ghislain Gabriel Perrier,M,29.0,179.0,75.0,Brazil,Fencing
+Jorge Moiss Campos Valds,M,24.0,184.0,77.0,Cuba,Table Tennis
+He Zi,F,25.0,159.0,51.0,China,Diving
+Shitaye Eshete Habtegebrel,F,26.0,164.0,51.0,Bahrain,Athletics
+Brittany MacLean,F,22.0,172.0,70.0,Canada,Swimming
+"Gabrielle Christina Victoria ""Gabby"" Douglas",F,20.0,157.0,50.0,USA,Gymnastics
+Samira Ouass,F,24.0,162.0,75.0,Morocco,Weightlifting
+Kateryna Serhivna Sadurska,F,24.0,178.0,58.0,Ukraine,Synchronized Swimming
+Anne Terpstra,F,25.0,166.0,57.0,Netherlands,Cycling
+Cindy Roleder,F,26.0,178.0,70.0,Germany,Athletics
+"Joseph ""Joe"" Morris",M,26.0,178.0,80.0,USA,Sailing
+Mohamed Al-Taieb,M,19.0,187.0,73.0,Tunisia,Rowing
+Andrea Mitchell D'Arrigo,M,21.0,194.0,85.0,Italy,Swimming
+Tania Di Mario,F,37.0,168.0,62.0,Italy,Water Polo
+Gernot Rumpler,M,22.0,188.0,83.0,Austria,Shooting
+Rta Meilutyt,F,19.0,176.0,75.0,Lithuania,Swimming
+Feng Shanshan,F,26.0,170.0,85.0,China,Golf
+Marcin Krukowski,M,24.0,185.0,96.0,Poland,Athletics
+Laura Giombini,F,27.0,185.0,75.0,Italy,Beach Volleyball
+Dniel Rudolf Varga,M,32.0,201.0,96.0,Hungary,Water Polo
+Vadim Nikolayevich Streltsov,M,30.0,170.0,94.0,Belarus,Weightlifting
+Yang Kyong-Il,M,26.0,158.0,57.0,North Korea,Wrestling
+Diana Aydosova,F,20.0,158.0,50.0,Kazakhstan,Athletics
+Messaoud El-Mahadi,M,26.0,168.0,59.0,Morocco,Wrestling
+Yuki Ota,M,30.0,171.0,69.0,Japan,Fencing
+"Nicholas ""Nick"" Hoag",M,23.0,200.0,91.0,Canada,Volleyball
+Miguel Armando Ubeto Aponte,M,39.0,168.0,70.0,Venezuela,Cycling
+Tahir Jelani Walsh,M,22.0,182.0,91.0,Antigua,Athletics
+Jade Louise Lally,F,29.0,182.0,88.0,UK,Athletics
+Edgaras Ulanovas,M,24.0,198.0,94.0,Lithuania,Basketball
+Leandro Mateus Barbosa,M,33.0,194.0,97.0,Brazil,Basketball
+Beka Gviniashvili,M,20.0,175.0,95.0,Georgia,Judo
+Natasha Wodak,F,34.0,160.0,47.0,Canada,Athletics
+Petter Menning (strm-),M,28.0,187.0,92.0,Sweden,Canoeing
+Ivn Pastor la Fuente,M,36.0,177.0,73.0,Spain,Sailing
+Tara Alice Whitten,F,36.0,166.0,67.0,Canada,Cycling
+Tamirat Tola Abera,M,24.0,181.0,59.0,Ethiopia,Athletics
+Ilija Brozovi,M,25.0,196.0,109.0,Croatia,Handball
+Manon Valentino,F,25.0,172.0,64.0,France,Cycling
+Julian Flgel,M,30.0,183.0,64.0,Germany,Athletics
+Jasmine Louise Joyce,F,20.0,163.0,55.0,UK,Rugby Sevens
+Li Muhao,M,24.0,218.0,115.0,China,Basketball
+Melissa Hoskins,F,25.0,175.0,64.0,Australia,Cycling
+Piotr Lisek,M,23.0,194.0,92.0,Poland,Athletics
+Elisabeth Victoire Mandaba,F,27.0,163.0,53.0,Central African Republic,Athletics
+Hong Qu Phc,M,23.0,182.0,76.0,Vietnam,Swimming
+Hebert Brol Cardenas,M,36.0,181.0,80.0,Guatemala,Shooting
+Yosuke Nakayama,M,29.0,161.0,65.0,Japan,Weightlifting
+Andriy Andriyovych Yahodka,M,28.0,195.0,85.0,Ukraine,Fencing
+Lee Seung-Yun,M,21.0,174.0,80.0,South Korea,Archery
+Csar Jasib Montes Castro,M,19.0,191.0,70.0,Mexico,Football
+Tobias Pereira Figueiredo,M,22.0,190.0,80.0,Portugal,Football
+Abdelmalik Lahoulou,M,24.0,177.0,72.0,Algeria,Athletics
+Dimitrij Ovtcharov,M,27.0,186.0,78.0,Germany,Table Tennis
+Olha Mykolayivna Zemliak,F,26.0,165.0,57.0,Ukraine,Athletics
+Carmen Dolores Martn Berenguer,F,28.0,172.0,72.0,Spain,Handball
+Ahmed Bader Magour,M,20.0,190.0,90.0,Qatar,Athletics
+Yaroslava Vyacheslavovna Shvedova,F,28.0,180.0,68.0,Kazakhstan,Tennis
+Frank de Wit,M,20.0,184.0,81.0,Netherlands,Judo
+Hans Arne Jensen,M,18.0,181.0,95.0,Tonga,Archery
+Jessica Rossi,F,24.0,168.0,59.0,Italy,Shooting
+Stefano Giantorno,M,24.0,170.0,73.0,Brazil,Rugby Sevens
+Nanna Koerstz Madsen,F,21.0,171.0,67.0,Denmark,Golf
+Sergey Yuryevich Tetyukhin,M,40.0,197.0,89.0,Russia,Volleyball
+Charles Jock,M,26.0,191.0,75.0,USA,Athletics
+Lebohang Ester Ramalepe,F,24.0,155.0,48.0,South Africa,Football
+Mammello Makhabane,F,28.0,159.0,53.0,South Africa,Football
+Hiwot Ayalew Yeder,F,26.0,173.0,53.0,Ethiopia,Athletics
+Mamed Pashayevich Ibragimov,M,24.0,171.0,97.0,Kazakhstan,Wrestling
+Duane Da Rocha Marc,F,28.0,180.0,60.0,Spain,Swimming
+Kim Sei-Young,F,23.0,163.0,68.0,South Korea,Golf
+Tatyana Aleksandrovna Korzh,F,23.0,175.0,75.0,Belarus,Athletics
+Ri Myong-Sun,F,24.0,163.0,53.0,North Korea,Table Tennis
+Pierre Duprat,M,26.0,175.0,73.0,France,Judo
+Alina Armas,F,32.0,166.0,53.0,Namibia,Athletics
+Nevriye Ylmaz,F,36.0,192.0,85.0,Turkey,Basketball
+Hsiang Chun-Hsien,M,22.0,186.0,70.0,Taiwan,Athletics
+Lydia Paterson,F,19.0,163.0,70.0,USA,Shooting
+Tereza Master,F,27.0,149.0,45.0,Malawi,Athletics
+Xu Jiayu,M,20.0,187.0,78.0,China,Swimming
+Xu Zangjun,M,24.0,175.0,65.0,China,Sailing
+Janet Owino Awour,F,30.0,165.0,65.0,Kenya,Rugby Sevens
+Mohammad Siddikur Rahman,M,31.0,165.0,84.0,Bangladesh,Golf
+Lee Ho Ching,F,23.0,159.0,54.0,China,Table Tennis
+Semyon Vladimirovich Makovich,M,21.0,180.0,76.0,Russia,Swimming
+Sebastin Rodrigo Sol,M,25.0,200.0,94.0,Argentina,Volleyball
+Sebastian Fleischer,M,22.0,179.0,74.0,Denmark,Sailing
+Bernhard Sieber,M,25.0,180.0,72.0,Austria,Rowing
+Jonelle Richards-Price,F,35.0,162.0,57.0,New Zealand,Equestrianism
+Vincenzo Mangiacapre,M,27.0,171.0,64.0,Italy,Boxing
+Zhang Jiawei,M,27.0,172.0,56.0,China,Boxing
+Pavel Vladimirovich Khodasevich,M,23.0,173.0,85.0,Belarus,Weightlifting
+Celeste Plak,F,20.0,190.0,90.0,Netherlands,Volleyball
+Andreea Boghian,F,24.0,186.0,78.0,Romania,Rowing
+Cristy Nurse,F,29.0,182.0,74.0,Canada,Rowing
+Jack Alan McLoughlin,M,21.0,183.0,75.0,Australia,Swimming
+Vera Leonidovna Biryukova,F,18.0,168.0,47.0,Russia,Rhythmic Gymnastics
+Ibrahim Ramadan Ibrahim Abdelbaki,M,28.0,173.0,77.0,Egypt,Weightlifting
+Alexis Soto,M,22.0,172.0,66.0,Argentina,Football
+Wang Lumin,M,25.0,170.0,67.0,China,Wrestling
+Camilla Kruger,F,29.0,161.0,51.0,Zimbabwe,Equestrianism
+Reshmie Oogink,F,26.0,179.0,72.0,Netherlands,Taekwondo
+Mark Stewart Bennett,M,23.0,183.0,89.0,UK,Rugby Sevens
+Samantha Roberts,F,16.0,172.0,64.0,Antigua,Swimming
+Wendie Thrse Renard,F,26.0,187.0,70.0,France,Football
+Mikhailis Anastasakis,M,21.0,183.0,92.0,Greece,Athletics
+Samuel Gaze,M,20.0,189.0,79.0,New Zealand,Cycling
+Chen Lijun,M,23.0,162.0,65.0,China,Weightlifting
+Marcus Daniell,M,26.0,190.0,76.0,New Zealand,Tennis
+Jessica Ashwood,F,23.0,173.0,64.0,Australia,Swimming
+Zhao Minggang,M,28.0,185.0,75.0,China,Boxing
+Maurcio Borges Almeida Silva,M,27.0,199.0,99.0,Brazil,Volleyball
+Margot van Geffen,F,26.0,172.0,63.0,Netherlands,Hockey
+Selina Gschwandtner,F,22.0,166.0,64.0,Germany,Shooting
+Peruth Chemutai,F,17.0,,,Uganda,Athletics
+Marina Canetta Gobbi,F,27.0,162.0,51.0,Brazil,Archery
+Cassandre Beaugrand,F,19.0,177.0,54.0,France,Triathlon
+Patrick Arnoud van der Heijden,M,23.0,180.0,70.0,Brazil,Hockey
+Yelena Vasilyevna Abramchuk (Kopets-),F,28.0,182.0,95.0,Belarus,Athletics
+Angelika Sita Oudraogo,F,22.0,172.0,63.0,Burkina Faso,Swimming
+Lin Po Heung,F,31.0,164.0,58.0,China,Fencing
+Stanly Jos del Carmen Cruz,M,20.0,163.0,62.0,Dominican Republic,Athletics
+Gu Bon-Gil,M,27.0,182.0,70.0,South Korea,Fencing
+Andrs Parti,M,33.0,174.0,67.0,Hungary,Cycling
+Kaan Kigen (Mike Kipruto-) zbilen (Kigen-),M,30.0,178.0,57.0,Turkey,Athletics
+Lee Chong Wei,M,33.0,170.0,68.0,Malaysia,Badminton
+Stine Bredal Oftedal,F,24.0,168.0,65.0,Norway,Handball
+Rashid Sadullayevich Yunusmetov,M,37.0,180.0,100.0,Kazakhstan,Shooting
+Franck Dannique Elemba Owaka,M,26.0,198.0,130.0,Republic of Congo,Athletics
+Augustin Maillefer,M,23.0,194.0,98.0,Switzerland,Rowing
+Fyodor Vladimirovich Vlasov,M,32.0,179.0,93.0,Russia,Shooting
+Maria Andrejczyk,F,20.0,174.0,77.0,Poland,Athletics
+Sam Webster,M,25.0,183.0,80.0,New Zealand,Cycling
+Vanessa Chefer Spnola,F,26.0,178.0,68.0,Brazil,Athletics
+Erislandy Savn Cotilla,M,26.0,192.0,91.0,Cuba,Boxing
+Iigo Pea Arriola,M,25.0,194.0,92.0,Spain,Canoeing
+Germn Sal Snchez Snchez,M,24.0,165.0,50.0,Mexico,Diving
+Neda Shahsavari,F,29.0,167.0,62.0,Iran,Table Tennis
+Yue Yuan,F,29.0,184.0,70.0,China,Beach Volleyball
+Santiago Enrique Grillo Diez,M,29.0,185.0,74.0,Colombia,Sailing
+Tsvetana Kirilova Pironkova,F,28.0,180.0,66.0,Bulgaria,Tennis
+Mateo Sanz Lanz,M,22.0,172.0,64.0,Switzerland,Sailing
+Hidde Turkstra,M,28.0,194.0,81.0,Netherlands,Hockey
+"Gabriela ""Gaby"" Dabrowski",F,24.0,175.0,84.0,Canada,Tennis
+ngela Corina Clavijo Silva,F,22.0,163.0,59.0,Colombia,Football
+Salma Negmeldin,F,20.0,160.0,49.0,Egypt,Synchronized Swimming
+Lin Dan,M,32.0,177.0,70.0,China,Badminton
+Luca Roman,M,30.0,174.0,69.0,Italy,Equestrianism
+Annika Roloff,F,25.0,166.0,58.0,Germany,Athletics
+Daniel Henri Sancery,M,22.0,182.0,90.0,Brazil,Rugby Sevens
+Guy Olivier Nyokas,M,30.0,189.0,86.0,France,Handball
+Yuri Nagai,F,24.0,155.0,53.0,Japan,Hockey
+Cho Hye-Jin,F,21.0,159.0,56.0,South Korea,Hockey
+Nstor Enrique Colmenares Uzcategui,M,28.0,203.0,110.0,Venezuela,Basketball
+Eygl sk Gstafsdttir,F,21.0,187.0,82.0,Iceland,Swimming
+Aleksey Alekseyevich Denisenko,M,22.0,185.0,68.0,Russia,Taekwondo
+David Alejandro Cubilln Leon,M,29.0,183.0,79.0,Venezuela,Basketball
+Olqa Panarina-smaylova,F,30.0,170.0,71.0,Azerbaijan,Cycling
+Paul Kipkemboi Chelimo,M,25.0,175.0,57.0,USA,Athletics
+Stanley Kipleting Biwott,M,30.0,152.0,61.0,Kenya,Athletics
+Margarita Yeliseyeva,F,24.0,150.0,48.0,Kazakhstan,Weightlifting
+Mara del Rosario Espinoza Espinoza,F,28.0,173.0,70.0,Mexico,Taekwondo
+Mariya Yurivna Shatalova,F,27.0,169.0,56.0,Ukraine,Athletics
+Siraba Dembl,F,30.0,172.0,64.0,France,Handball
+Konomi Kai,F,23.0,153.0,51.0,Japan,Athletics
+Dimitriy Yuriyovych Timchenko,M,33.0,190.0,98.0,Ukraine,Wrestling
+Arnaud Hybois,M,34.0,180.0,74.0,France,Canoeing
+Zhanarbek Salimbayevich Kenzheyev,M,30.0,180.0,84.0,Kyrgyzstan,Wrestling
+Hugo Barrette,M,25.0,175.0,90.0,Canada,Cycling
+Tristan Flore,M,21.0,178.0,64.0,France,Table Tennis
+Charlotte Bonnet,F,21.0,175.0,64.0,France,Swimming
+Joedison de Jesus Teixeira,M,22.0,172.0,69.0,Brazil,Boxing
+Sabrina Hering,F,24.0,167.0,70.0,Germany,Canoeing
+"William ""Will"" Dean",M,29.0,195.0,95.0,Canada,Rowing
+Nikolas Skarvelis,M,23.0,186.0,125.0,Greece,Athletics
+Sandeep Kumar,M,30.0,,,India,Athletics
+Barbora Mokoov,F,19.0,168.0,62.0,Slovakia,Gymnastics
+Bartosz Jurecki,M,37.0,192.0,107.0,Poland,Handball
+Mio Yamanaka,F,20.0,157.0,56.0,Japan,Rugby Sevens
+Monique Adelinde Cornelissen,F,37.0,168.0,55.0,Netherlands,Equestrianism
+Nareg Guregian,M,27.0,196.0,98.0,USA,Rowing
+Mo Zhang,F,27.0,173.0,57.0,Canada,Table Tennis
+Aron John Baynes,M,29.0,208.0,115.0,Australia,Basketball
+Hassan Sabzali Rahimi,M,27.0,165.0,62.0,Iran,Wrestling
+Hassen Al-Chaktami,M,27.0,180.0,91.0,Tunisia,Boxing
+Yevgeny Vyacheslavovich Lukantsov,M,24.0,187.0,91.0,Russia,Canoeing
+Samira Pereira da Silva Rocha,F,27.0,170.0,64.0,Brazil,Handball
+Ihor Pavlovych Russ,M,27.0,174.0,62.0,Ukraine,Athletics
+Katharine Holmes,F,23.0,180.0,80.0,USA,Fencing
+Robert Fuchs,M,25.0,209.0,105.0,Poland,Rowing
+Fanny Deberghes,F,22.0,170.0,65.0,France,Swimming
+Jakub Holua,M,28.0,183.0,72.0,Czech Republic,Athletics
+Hsiao Mei-Yu,F,31.0,162.0,58.0,Taiwan,Cycling
+Yang Ye,F,22.0,177.0,50.0,China,Rhythmic Gymnastics
+Jonas de Oliveira Crivella,M,28.0,181.0,82.0,Brazil,Water Polo
+Abdelaziz Mohamed Ahmed,M,21.0,181.0,72.0,Sudan,Swimming
+Edyta Jasiska,F,29.0,177.0,68.0,Poland,Cycling
+Najmeh Khedmati,F,20.0,159.0,64.0,Iran,Shooting
+Maxime Brinck-Croteau,M,30.0,178.0,83.0,Canada,Fencing
+Kim Ha-Na,F,26.0,172.0,55.0,South Korea,Badminton
+Jordan Augier,M,21.0,171.0,53.0,Saint Lucia,Swimming
+Obada Al-Kasbeh,M,22.0,166.0,64.0,Jordan,Boxing
+Elvin Mrsliyev,M,27.0,178.0,75.0,Azerbaijan,Wrestling
+Aleksandr Yevgenyevich Popkov,M,21.0,185.0,80.0,Russia,Swimming
+Nataliya Vladimirovna Lovtsova,F,28.0,177.0,70.0,Russia,Swimming
+Bartosz Bednorz,M,22.0,201.0,84.0,Poland,Volleyball
+Kyriakos Ioannou,M,32.0,196.0,74.0,Cyprus,Athletics
+Daryl Homer,M,26.0,173.0,74.0,USA,Fencing
+L Bin,M,21.0,165.0,49.0,China,Boxing
+Catherine Beauchemin-Pinard,F,22.0,161.0,57.0,Canada,Judo
+Julia Figueroa Pea,F,25.0,150.0,48.0,Spain,Judo
+Betsy Doon Hassett,F,25.0,157.0,55.0,New Zealand,Football
+Kim Gwan-Uk,M,26.0,177.0,90.0,South Korea,Wrestling
+Sui Ran,M,24.0,193.0,96.0,China,Basketball
+Marko Bezjak,M,30.0,184.0,87.0,Slovenia,Handball
+Brooke Mackenzie Henderson,F,18.0,163.0,50.0,Canada,Golf
+Kvin Le Roux,M,27.0,209.0,98.0,France,Volleyball
+"Jazmin Roxy ""Jazz"" Carlin",F,25.0,175.0,57.0,UK,Swimming
+Anatoliy Anatoliyovych Herei,M,27.0,186.0,75.0,Ukraine,Fencing
+Laura Isabel Gonzlez Gonzlez,F,23.0,161.0,61.0,Colombia,Rugby Sevens
+Didar Khamza,M,19.0,175.0,73.0,Kazakhstan,Judo
+Ruby Esther Harrold,F,20.0,162.0,56.0,UK,Gymnastics
+Benjamin Gischard,M,20.0,162.0,62.0,Switzerland,Gymnastics
+Matteo Lodo,M,21.0,196.0,90.0,Italy,Rowing
+Zohra Ez Zahraoui,F,32.0,165.0,51.0,Morocco,Boxing
+Justyna wity,F,23.0,165.0,57.0,Poland,Athletics
+Ilya Alekseyevich Pervukhin,M,25.0,183.0,82.0,Russia,Canoeing
+Peterson dos Santos,M,25.0,181.0,70.0,Brazil,Athletics
+Ochirbatyn Nasanburmaa,F,27.0,166.0,69.0,Mongolia,Wrestling
+Rafael Cabrera Bello,M,32.0,187.0,83.0,Spain,Golf
+Oliver William Lindsay-Hague,M,25.0,180.0,83.0,UK,Rugby Sevens
+Els Rens,F,33.0,160.0,51.0,Belgium,Athletics
+Nour Elhouda Ettaieb,F,19.0,170.0,57.0,Tunisia,Rowing
+Angelica Moser,F,18.0,169.0,65.0,Switzerland,Athletics
+Dolores Moreira Fraschini,F,17.0,168.0,63.0,Uruguay,Sailing
+Mathilde de Kerangat,F,24.0,172.0,67.0,France,Sailing
+Ruby Tui,F,24.0,177.0,71.0,New Zealand,Rugby Sevens
+"Matthew John ""Matt"" Anderson",M,29.0,202.0,100.0,USA,Volleyball
+Diamara Planell Cruz,F,23.0,180.0,67.0,Puerto Rico,Athletics
+Kim Polling,F,25.0,175.0,70.0,Netherlands,Judo
+Gbor Kis,M,33.0,194.0,115.0,Hungary,Water Polo
+Kai Langerfeld,M,29.0,197.0,100.0,Canada,Rowing
+Koki Niwa,M,21.0,162.0,51.0,Japan,Table Tennis
+"Frances ""Francie"" Turner",F,24.0,159.0,50.0,New Zealand,Rowing
+Matea Matoevi,F,27.0,173.0,52.0,Croatia,Athletics
+Claudia Rivas Vega,F,27.0,171.0,56.0,Mexico,Triathlon
+"Joshua ""Josh"" Ilustre",M,22.0,178.0,70.0,Guam,Athletics
+Aliyah Abrams,F,19.0,163.0,53.0,Guyana,Athletics
+"Dominic Jakub ""Dom"" Inglot",M,30.0,196.0,95.0,UK,Tennis
+Paulo Roberto de Almeida Paula,M,37.0,170.0,55.0,Brazil,Athletics
+Istvn Verb,M,28.0,181.0,90.0,Hungary,Wrestling
+Navjot Kaur,F,21.0,167.0,53.0,India,Hockey
+Dustin Brown,M,31.0,196.0,78.0,Germany,Tennis
+Dariga Shakimova,F,27.0,172.0,75.0,Kazakhstan,Boxing
+Maxime Marotte,M,29.0,172.0,62.0,France,Cycling
+Sun Yujie,F,23.0,185.0,78.0,China,Fencing
+Minami Shimizu,F,23.0,158.0,53.0,Japan,Hockey
+Nikita Andreyevich Morgachov,M,35.0,196.0,98.0,Russia,Rowing
+Andr Fernando dos Santos Martins Cardoso,M,31.0,168.0,57.0,Portugal,Cycling
+Olha Anatolivna Bibik,F,26.0,178.0,64.0,Ukraine,Athletics
+Derek Drouin,M,26.0,196.0,83.0,Canada,Athletics
+Hirokatsu Tayama,M,34.0,167.0,62.0,Japan,Triathlon
+Claudio Castilla Ruz,M,33.0,173.0,66.0,Spain,Equestrianism
+Brady Lee Ellison,M,27.0,181.0,86.0,USA,Archery
+Philip Enrique Perseus Karlstrm,M,26.0,184.0,73.0,Sweden,Athletics
+Chad Ho,M,26.0,172.0,75.0,South Africa,Swimming
+Omolara Omotosho,F,23.0,152.0,50.0,Nigeria,Athletics
+Pter Bcsi,M,33.0,175.0,82.0,Hungary,Wrestling
+Simone Facey,F,31.0,162.0,53.0,Jamaica,Athletics
+Claudia Renate Belderbos,F,31.0,175.0,72.0,Netherlands,Rowing
+"Alexander ""Alex"" Hartmann",M,23.0,198.0,91.0,Australia,Athletics
+Miguel Delas de Andrs,M,32.0,170.0,72.0,Spain,Hockey
+Zhu Qinan,M,31.0,183.0,75.0,China,Shooting
+Tamika Devonne Catchings,F,37.0,185.0,77.0,USA,Basketball
+Daniel Asenov,M,19.0,163.0,52.0,Bulgaria,Boxing
+Wang Jianan,M,19.0,185.0,72.0,China,Athletics
+Sergio Rodrguez Gmez,M,30.0,191.0,80.0,Spain,Basketball
+Leona Maguire,F,21.0,168.0,56.0,Ireland,Golf
+"Charles Maxwell ""Charlie"" Grice",M,22.0,182.0,70.0,UK,Athletics
+Mximo Gonzlez Mereira,M,33.0,175.0,70.0,Argentina,Tennis
+Thabiso Simon Kutumela,M,23.0,175.0,68.0,South Africa,Football
+Ayesha Shahriyar Mohammed Al-Balooshi,F,24.0,160.0,57.0,United Arab Emirates,Weightlifting
+Seito Yamamoto,M,24.0,181.0,70.0,Japan,Athletics
+Kim Jong-Su,M,39.0,166.0,67.0,North Korea,Shooting
+Ankit Sharma,M,24.0,177.0,75.0,India,Athletics
+Pourya Norouziyan,M,24.0,175.0,70.0,Iran,Shooting
+Ahmad Abughaush,M,20.0,178.0,68.0,Jordan,Taekwondo
+Jimmy Butler III,M,26.0,201.0,99.0,USA,Basketball
+Vtor Hugo Silva Mouro dos Santos,M,20.0,185.0,74.0,Brazil,Athletics
+Gbor Faldum,M,28.0,172.0,65.0,Hungary,Triathlon
+Jesper Nielsen,M,26.0,200.0,110.0,Sweden,Handball
+Ahmed Mohamed Abdalaziz Mohamed,M,28.0,185.0,125.0,Egypt,Weightlifting
+Thet Ei Ei,F,23.0,,,Myanmar,Swimming
+Elisabeth Baldauf,F,26.0,175.0,62.0,Austria,Badminton
+Rebeca Lissette Quinteros Ortz,F,18.0,,,El Salvador,Swimming
+Laura Lpez Ventosa,F,28.0,171.0,65.0,Spain,Water Polo
+Mohamed Soussi,M,23.0,194.0,98.0,Tunisia,Handball
+Phelan Peter Hill,M,37.0,172.0,55.0,UK,Rowing
+Trayvon Jaquez Bromell,M,21.0,175.0,70.0,USA,Athletics
+Mink Alphons van der Weerden,M,27.0,178.0,83.0,Netherlands,Hockey
+Milena Rai,F,25.0,191.0,72.0,Serbia,Volleyball
+Marloes Keetels,F,23.0,172.0,66.0,Netherlands,Hockey
+Mai Ito,F,32.0,156.0,41.0,Japan,Athletics
+Hossam Abdalla,M,28.0,203.0,97.0,Egypt,Volleyball
+"Dorothy Erzsebet ""Dori"" Yeats",F,23.0,160.0,71.0,Canada,Wrestling
+Zhao Lina,F,24.0,188.0,67.0,China,Football
+Emi Nishikori,F,23.0,160.0,53.0,Japan,Hockey
+Rachele Bruni,F,25.0,170.0,59.0,Italy,Swimming
+Tan Wee Kiong,M,27.0,177.0,77.0,Malaysia,Badminton
+Zouhair Aouad,M,27.0,175.0,69.0,Bahrain,Athletics
+Madelein Meppelink,F,26.0,183.0,75.0,Netherlands,Beach Volleyball
+Marua ernjul,F,24.0,177.0,56.0,Slovenia,Athletics
+Micha Kubiak,M,28.0,191.0,80.0,Poland,Volleyball
+Stefano Tempesti,M,37.0,205.0,100.0,Italy,Water Polo
+Joe Webber,M,22.0,185.0,95.0,New Zealand,Rugby Sevens
+Mojtaba Abedini Shormasti,M,31.0,180.0,83.0,Iran,Fencing
+Melissa Corrine Bishop,F,27.0,173.0,56.0,Canada,Athletics
+Alysbeth Flix Boyer,F,23.0,170.0,57.0,Puerto Rico,Athletics
+Xue Li,F,31.0,165.0,57.0,France,Table Tennis
+Matej Beu,M,28.0,196.0,83.0,Slovakia,Canoeing
+Helen Rachel M. Glover,F,30.0,177.0,67.0,UK,Rowing
+Tjaa Vozel,F,22.0,171.0,62.0,Slovenia,Swimming
+Nicholas Presciutti,M,22.0,189.0,93.0,Italy,Water Polo
+Jelena Jankovi,F,31.0,177.0,59.0,Serbia,Tennis
+Yu So-Jeong,F,20.0,168.0,66.0,South Korea,Handball
+Marina Aleksandrovna Arzamasova (Katovich-),F,28.0,173.0,58.0,Belarus,Athletics
+Selma Kajan,F,25.0,169.0,52.0,Australia,Athletics
+Alexander Fransson,M,22.0,180.0,75.0,Sweden,Football
+"Ana Beatriz ""Bia"" di Rienzo Bulco",F,22.0,167.0,58.0,Brazil,Fencing
+Khristodoulos Kolomvos,M,27.0,186.0,103.0,Greece,Water Polo
+Jos Lus Gaspar Hernndez,M,20.0,188.0,72.0,Cuba,Athletics
+Xan de Waard,F,20.0,163.0,55.0,Netherlands,Hockey
+Tang Peng,M,35.0,178.0,77.0,China,Table Tennis
+Winnie Nanyondo,F,22.0,,,Uganda,Athletics
+Jure Dolenec,M,27.0,190.0,93.0,Slovenia,Handball
+Jordan Thompson,M,22.0,183.0,73.0,Australia,Tennis
+Rebecca Howard,F,37.0,162.0,70.0,Canada,Equestrianism
+Reda Abdalaati Iguider,M,29.0,173.0,57.0,Morocco,Athletics
+Subenrat Insaeng,F,22.0,182.0,82.0,Thailand,Athletics
